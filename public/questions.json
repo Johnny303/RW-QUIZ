@@ -3415,7 +3415,684 @@
                 }
               ],
               "correctAnswersCount": 3 
-            }
+            },
+            
+              {
+                "question": "Rechnungsabgrenzungsposten können wie gegliedert werden?",
+                "answers": [
+                  {
+                    "text": "können in Antizipationen und Transitionen gegliedert werden",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "können aktiv und passiv sein",
+                    "isCorrect": true
+                  },
+                  {
+                    "text": "sind wegen des Grundsatzes der Periodeneinheit zu bilden",
+                    "isCorrect": true
+                  },
+                  {
+                    "text": "betreffen die Bilanz und die G&V",
+                    "isCorrect": true
+                  }
+                ],
+                "correctAnswersCount": 3
+              },
+              {
+                "question": "Wenn ein Unternehmen seine Miete im April ein Jahr im Voraus bezahlt und der Bilanzstichtag der 31.12. ist, handelt es sich um was?",
+                "answers": [
+                  {
+                    "text": "handelt es sich um Aktive Transitorien",
+                    "isCorrect": true
+                  },
+                  {
+                    "text": "wird eine PRA in der Bilanz verbucht",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "wird der Aufwand in der G&V anteilig reduziert",
+                    "isCorrect": true
+                  },
+                  {
+                    "text": "muss eine Rechnungsabgrenzung durchgeführt werden",
+                    "isCorrect": true
+                  }
+                ],
+                "correctAnswersCount": 3
+              },
+              {
+                "question": "Forderungen gegenüber verbundenen Unternehmen sind wie zu behandeln?",
+                "answers": [
+                  {
+                    "text": "gegenüber Verbundenen Unternehmen sind aufgrund ihrer Langfristigkeit eine Position des Anlagevermögens",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "dürfen mit Verbindlichkeiten des gleichen Unternehmens auf einem gemeinsamen Konto geführt werden",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "werden als nicht-monetäres Umlaufvermögen bewertet",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "unterliegen dem strengen Niederstwertprinzip",
+                    "isCorrect": true
+                  }
+                ],
+                "correctAnswersCount": 1
+              },
+              {
+                "question": "Wenn ein Betrieb mit Bilanzstichtag 31.12. am 1.5.X1 Miete für 12 Monate zahlt, was muss er tun?",
+                "answers": [
+                  {
+                    "text": "muss er eine aktive Rechnungsabgrenzung in Höhe von 4 Monatsmieten bilden",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "muss er eine aktive Rechnungsabgrenzung in Höhe von 8 Monatsmieten bilden",
+                    "isCorrect": true
+                  },
+                  {
+                    "text": "werden alle 12 Monate in der finalen Gewinn- und Verlustrechnung ausgewiesen",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "weist er Forderungen von 8 Monatsmieten aus",
+                    "isCorrect": false
+                  }
+                ],
+                "correctAnswersCount": 1
+              },
+              {
+                "question": "Forderungen sind wie zu gliedern?",
+                "answers": [
+                  {
+                    "text": "sind nach UGB und IFRS identisch gegliedert",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "sind im Forderungsspiegel nach ihrem Risiko zu gliedern",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "dürfen mit Verbindlichkeiten desselben Unternehmens saldiert werden",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "werden laut UGB in der Bilanz in vier Unterpunkte gegliedert",
+                    "isCorrect": true
+                  }
+                ],
+                "correctAnswersCount": 1
+              },
+              
+                {
+                  "question": "Ein Unternehmen vermietet Räumlichkeiten von Mai X6 bis April X7 und der Kunde zahlt sofort. Sie buchen",
+                  "answers": [
+                    {
+                      "text": "passive Transitorien",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "aktive Transitorien",
+                      "isCorrect": true
+                    },
+                    {
+                      "text": "aktive Antizipationen",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "passive Antizipationen",
+                      "isCorrect": false
+                    }
+                  ],
+                  "correctAnswersCount": 1
+                },
+                {
+                  "question": "Handelswaren im Wert von insgesamt 300 €",
+                  "answers": [
+                    {
+                      "text": "sind Anlagevermögen",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "sind Umlaufvermögen",
+                      "isCorrect": true
+                    },
+                    {
+                      "text": "sind GWs",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "sind Materialaufwand",
+                      "isCorrect": false
+                    }
+                  ],
+                  "correctAnswersCount": 1
+                },
+                {
+                  "question": "In der Bilanzposition „Kassa“ verrechnet eine AG auch",
+                  "answers": [
+                    {
+                      "text": "Münzen in Fremdwährungen",
+                      "isCorrect": true
+                    },
+                    {
+                      "text": "Schecks",
+                      "isCorrect": true
+                    },
+                    {
+                      "text": "Wechsel",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "Kurzfristig gehaltene Wertpapiere",
+                      "isCorrect": true
+                    }
+                  ],
+                  "correctAnswersCount": 3
+                },
+                {
+                  "question": "Bei einem Schraubenhändler werden die Muttern zu den Schrauben verbucht als",
+                  "answers": [
+                    {
+                      "text": "Anlagevermögen",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "Materialaufwand",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "GWG",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "Umlaufvermögen",
+                      "isCorrect": true
+                    }
+                  ],
+                  "correctAnswersCount": 1
+                },
+                {
+                  "question": "Wenn ein Bauer selbst Honig produziert, handelt es sich dabei um",
+                  "answers": [
+                    {
+                      "text": "selbsterstellte Erzeugnisse",
+                      "isCorrect": true
+                    },
+                    {
+                      "text": "Handelsware",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "Umsatz",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "Vorräte",
+                      "isCorrect": true
+                    }
+                  ],
+                  "correctAnswersCount": 2
+                },
+                
+                  {
+                    "question": "Was sind in einem Café 50 Sessel und 7 Sonnenschirme, die bei Ersteinrichtung zu je 72 € eingekauft wurden?",
+                    "answers": [
+                      {
+                        "text": "GwG",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "Betriebs- und Geschäftsausstattung",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "Anlagevermögen",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "Umlaufvermögen",
+                        "isCorrect": false
+                      }
+                    ],
+                    "correctAnswersCount": 2
+                  },
+                  {
+                    "question": "Wenn ein Hotel selbstgebrannte Schnäpse erzeugt und vertreibt, werden diese",
+                    "answers": [
+                      {
+                        "text": "zum Umlaufvermögen gezählt",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "zur Gänze im Materialaufwand verbucht",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "wie folgt kalkuliert: MEK+MGK+FEK+FGK+ Allgemeine Verwaltungsgemeinkosten",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "als Handelsware ausgewiesen",
+                        "isCorrect": false
+                      }
+                    ],
+                    "correctAnswersCount": 1
+                  },
+                  {
+                    "question": "Vorräte für einen Schiliftbetreiber sind",
+                    "answers": [
+                      {
+                        "text": "ein Notstromaggregat",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "Merchandising-Produkte, z.B. Aufkleber",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "Wasserreserven für die Pistenpräparierung",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "Schistücke zum Verkauf",
+                        "isCorrect": true
+                      }
+                    ],
+                    "correctAnswersCount": 3
+                  },
+                  {
+                    "question": "Wenn ein europäischer Sportverein über die Ablöse eines brasilianischen Spielers verhandelt, ist welche Währung risikoadvers?",
+                    "answers": [
+                      {
+                        "text": "$",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "SFR",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "€",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "BRL",
+                        "isCorrect": false
+                      }
+                    ],
+                    "correctAnswersCount": 1
+                  },
+                  {
+                    "question": "Beim FIFO-Verfahren (denken Sie logisch)",
+                    "answers": [
+                      {
+                        "text": "werden Durchschnittskosten berechnet",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "wird zuerst der Wert als Handelswareneinsatz genommen, der als Erstes eingekauft wurde; wenn dieser abgebucht ist, der Zweite ….",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "wird der Schwund mit dem Preis des letzten Einkaufs berechnet",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "werden implizit Inflationsanstiege berücksichtigt",
+                        "isCorrect": true
+                      }
+                    ],
+                    "correctAnswersCount": 2
+                  },
+                  
+                    {
+                      "question": "Wenn ein oberösterreichisches Hotel mit Ländern, die diese Währungen verwenden, langfristige Verträge abschließen wird, welche Währung wird in Zeiten starker Währungsschwankungen und Risikoaversion bevorzugt?",
+                      "answers": [
+                        {
+                          "text": "€",
+                          "isCorrect": true
+                        },
+                        {
+                          "text": "£",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "$",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "JPY",
+                          "isCorrect": false
+                        }
+                      ],
+                      "correctAnswersCount": 1
+                    },
+                    {
+                      "question": "In welcher der Positionen steckt das geringste Risiko?",
+                      "answers": [
+                        {
+                          "text": "Grundstücke",
+                          "isCorrect": true
+                        },
+                        {
+                          "text": "Rückstellungen",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "Vorräte",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "Girokonto",
+                          "isCorrect": false
+                        }
+                      ],
+                      "correctAnswersCount": 1
+                    },
+                    {
+                      "question": "Bei der Kalkulation der Herstellungskosten einer selbstgemachten Torte sind welche Kosten jedenfalls NICHT inkludiert?",
+                      "answers": [
+                        {
+                          "text": "Materialeinzelkosten",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "Sonderkosten für einen speziellen Zuckerguss",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "Vertriebsgemeinkosten",
+                          "isCorrect": true
+                        },
+                        {
+                          "text": "Fertigungseinzelkosten",
+                          "isCorrect": false
+                        }
+                      ],
+                      "correctAnswersCount": 1
+                    },
+                    {
+                      "question": "Welche Positionen des Umlaufvermögens werden nicht bewertet?",
+                      "answers": [
+                        {
+                          "text": "Anzahlungen",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "sonstige Forderungen",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "Kassa",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "es wird grundsätzlich alles bewertet",
+                          "isCorrect": true
+                        }
+                      ],
+                      "correctAnswersCount": 1
+                    },
+                    {
+                      "question": "Warum bzw. wann ist auch monetäres Umlaufvermögen zu bewerten?",
+                      "answers": [
+                        {
+                          "text": "bei Fremdwährungen",
+                          "isCorrect": true
+                        },
+                        {
+                          "text": "weil Anlagevermögen genauso bewertet wird",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "Inflationsbereinigung",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "gesetzliche Vorschrift",
+                          "isCorrect": true
+                        }
+                      ],
+                      "correctAnswersCount": 2
+                    },
+                    
+                      {
+                        "question": "Was ist bei einer Folgebewertung im Umlaufvermögen speziell zu beachten?",
+                        "answers": [
+                          {
+                            "text": "Erstellung des Umlaufvermögensspiegels",
+                            "isCorrect": false
+                          },
+                          {
+                            "text": "Fremdwährungskurse",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "Schwund",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "Marktwerte am Bilanzstichtag",
+                            "isCorrect": true
+                          }
+                        ],
+                        "correctAnswersCount": 3
+                      },
+                      {
+                        "question": "Werden alle Forderungen, die in der Bilanz aktiviert sind, nach identischen Vorschriften bewertet?",
+                        "answers": [
+                          {
+                            "text": "ja, weil alle Forderungen im Umlaufvermögen stehen und strenges Niederstwertprinzip gilt",
+                            "isCorrect": false
+                          },
+                          {
+                            "text": "nein, weil Forderungen des Umlaufvermögens je nach ihren vier Unterteilungen anders zu bewerten sind",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "nein, weil auch Forderungen existieren, die nicht im Umlaufvermögen stehen",
+                            "isCorrect": false
+                          },
+                          {
+                            "text": "ja, weil alle Forderungen und Verbindlichkeiten nach gleichem Maßstab zu bewerten sind",
+                            "isCorrect": false
+                          }
+                        ],
+                        "correctAnswersCount": 1
+                      },
+                      {
+                        "question": "Welches Risiko kann im monetären Umlaufvermögen stecken?",
+                        "answers": [
+                          {
+                            "text": "Der Kunde kann nicht mehr zahlen",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "Die Fremdwährungen meiner Forderungen verschlechtern sich",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "Ich habe einen Liquiditätsengpass",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "Die Börsenkurse sinken",
+                            "isCorrect": false
+                          }
+                        ],
+                        "correctAnswersCount": 3
+                      },
+                      {
+                        "question": "Vermögen wird als kurzfristig definiert, wenn es",
+                        "answers": [
+                          {
+                            "text": "maximal ein Jahr im Unternehmen verbleibt",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "den Charakter von Umlaufvermögen hat",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "dazu dient, rasch umgeschlagen zu werden und die Umsätze zu erhöhen",
+                            "isCorrect": false
+                          },
+                          {
+                            "text": "die Restnutzungsdauer weniger als die Hälfte der historischen Nutzungsdauer beträgt",
+                            "isCorrect": false
+                          }
+                        ],
+                        "correctAnswersCount": 2
+                      },
+                      {
+                        "question": "Wertpapiere stehen im Umlaufvermögen, wenn sie",
+                        "answers": [
+                          {
+                            "text": "Aktien sind",
+                            "isCorrect": false
+                          },
+                          {
+                            "text": "zum baldigen Verkauf vorgesehen sind",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "Forderungscharakter haben",
+                            "isCorrect": false
+                          },
+                          {
+                            "text": "eigene Anleihen sind",
+                            "isCorrect": false
+                          }
+                        ],
+                        "correctAnswersCount": 1
+                      },
+                      
+                        {
+                          "question": "Bei der Präsentation des Umlaufvermögens muss was beachtet werden?",
+                          "answers": [
+                            {
+                              "text": "muss ein Umlaufvermögensspiegel errichtet werden",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "sind nähere Informationen im Anhang zu finden",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "wird nach der Liquidität gegliedert",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "sind 4 Unterkategorien vorgeschrieben",
+                              "isCorrect": false
+                            }
+                          ],
+                          "correctAnswersCount": 2
+                        },
+                        {
+                          "question": "In der Bilanzposition Kassa werden welche Posten zusammengefasst?",
+                          "answers": [
+                            {
+                              "text": "Bargeld",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "Girokonten",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "kurzfristige Forderungen",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "Wechsel",
+                              "isCorrect": true
+                            }
+                          ],
+                          "correctAnswersCount": 3
+                        },
+                        {
+                          "question": "Wenn es nur diese Positionen im Umlaufvermögen gäbe, welche Reihenfolge wäre dann in der Bilanz lt. Mindestgliederung korrekt?",
+                          "answers": [
+                            {
+                              "text": "fertige Erzeugnisse und Waren – sonstige Forderungen und Vermögensgegenstände – Kassa – Girokonto",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "unfertige Erzeugnisse – Forderungen aus Lieferungen und Leistungen – sonstige Wertpapiere – Kassa",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "Roh-, Hilfs- und Betriebsstoffe – Forderungen gegenüber verbundenen Unternehmen – Anteile an verbundenen Unternehmen – Rechnungsabgrenzungsposten",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "Noch nicht geleistete Anzahlungen – Forderungen aus Lieferungen und Leistungen – sonstige Wertpapiere – Kassa",
+                              "isCorrect": true
+                            }
+                          ],
+                          "correctAnswersCount": 2
+                        },
+                        {
+                          "question": "Unfertige Erzeugnisse haben welche Eigenschaften?",
+                          "answers": [
+                            {
+                              "text": "werden im Materialaufwand abgebildet",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "unterliegen der planmäßigen Abschreibung",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "werden als Antizipationen abgegrenzt",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "beziehen sich auf selbst erstellte Produkte",
+                              "isCorrect": true
+                            }
+                          ],
+                          "correctAnswersCount": 1
+                        },
+                        {
+                          "question": "Bilanziell liegt der Unterschied zwischen Handelsware und selbst erstellten Produkten worin?",
+                          "answers": [
+                            {
+                              "text": "in den unterschiedlichen Bewertungsprinzipien",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "in der unterschiedlichen Verbuchung",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "im getrennten Ausweis in der Bilanz",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "in der Einbeziehung des Verwaltungsaufwandes in die Kalkulation",
+                              "isCorrect": false
+                            }
+                          ],
+                          "correctAnswersCount": 2
+                        }
+                      
+                      
+                                        
+                  
+                  
+                
+                
+              
+              
+            
+            
           
           
         
