@@ -1,0 +1,3428 @@
+{
+  "questions": [
+    {
+      "question": "Shareholder in Ihrer Firma sind jedenfalls:",
+      "answers": [
+        {
+          "text": "Mitarbeiter",
+          "isCorrect": false
+        },
+        {
+          "text": "Banken",
+          "isCorrect": false
+        },
+        {
+          "text": "Aktionäre",
+          "isCorrect": true
+        },
+        {
+          "text": "Kunden",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Welche Stakeholder haben besonderes Interesse am Jahresabschluss Ihres Einzelunternehmens?",
+      "answers": [
+        {
+          "text": "Finanzamt",
+          "isCorrect": true
+        },
+        {
+          "text": "Sozialversicherung",
+          "isCorrect": false
+        },
+        {
+          "text": "Bank",
+          "isCorrect": true
+        },
+        {
+          "text": "Sie selbst",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 4
+    },
+    {
+      "question": "Das interne Rechnungswesen:",
+      "answers": [
+        {
+          "text": "wird auch Finanzbuchhaltung genannt",
+          "isCorrect": false
+        },
+        {
+          "text": "umfasst die Kostenrechnung",
+          "isCorrect": true
+        },
+        {
+          "text": "ist gesetzlich definiert",
+          "isCorrect": false
+        },
+        {
+          "text": "ist eine Entscheidungsrechnung",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Welches Gesetz ist für das interne Rechnungswesen relevant?",
+      "answers": [
+        {
+          "text": "UGB",
+          "isCorrect": false
+        },
+        {
+          "text": "IFRS / IAS",
+          "isCorrect": false
+        },
+        {
+          "text": "EStG",
+          "isCorrect": false
+        },
+        {
+          "text": "keines",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Welche Instrumente des Rechnungswesens bauen aufeinander auf?",
+      "answers": [
+        {
+          "text": "Betriebsanalyse auf externer Gewinn- und Verlustrechnung",
+          "isCorrect": false
+        },
+        {
+          "text": "Kostenträgerrechnung auf Kostenstellenrechnung",
+          "isCorrect": true
+        },
+        {
+          "text": "Jahresabschlussanalyse auf Bilanz sowie Gewinn- und Verlustrechnung",
+          "isCorrect": true
+        },
+        {
+          "text": "Kostenstellenrechnung auf Kostenartenrechnung",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Die externe Rechnungslegung eines Unternehmens umfasst folgende Aufgaben:",
+      "answers": [
+        {
+          "text": "Kostenrechnung",
+          "isCorrect": false
+        },
+        {
+          "text": "Finanzbuchhaltung",
+          "isCorrect": true
+        },
+        {
+          "text": "Buchhaltung",
+          "isCorrect": true
+        },
+        {
+          "text": "Bilanzierung",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "IFRS:",
+      "answers": [
+        {
+          "text": "stellen internationale Bilanzierungsregelungen dar",
+          "isCorrect": true
+        },
+        {
+          "text": "weichen von nationalen Regelungen ab",
+          "isCorrect": true
+        },
+        {
+          "text": "heißen „International Financial Regulation Standards",
+          "isCorrect": false
+        },
+        {
+          "text": "haben für österreichische Unternehmen keine Gültigkeit",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Folgende Rechtsgrundlagen sind für alle österreichischen Kapitalgesellschaften einzuhalten:",
+      "answers": [
+        {
+          "text": "UGB",
+          "isCorrect": true
+        },
+        {
+          "text": "EStG",
+          "isCorrect": true
+        },
+        {
+          "text": "IFRS",
+          "isCorrect": false
+        },
+        {
+          "text": "Aktiengesetz",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Der Begriff Dreiecksgeschäfte bei der Umsatzsteuer:",
+      "answers": [
+        {
+          "text": "hat etwas mit nicht legalen Vorgängen zu tun",
+          "isCorrect": true
+        },
+        {
+          "text": "hat etwas mit internationaler Rechnungslegung zu tun",
+          "isCorrect": false
+        },
+        {
+          "text": "hat etwas mit der Umsatzsteuer zu tun",
+          "isCorrect": true
+        },
+        {
+          "text": "hat etwas mit Konzernstrukturen zu tun",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Welche Organisationen müssen eine doppelte Buchhaltung implementieren?",
+      "answers": [
+        {
+          "text": "Jedes Unternehmen mit einer Bilanzsumme von über € 3.000.000",
+          "isCorrect": false
+        },
+        {
+          "text": "Jedes Kapitalgesellschaft",
+          "isCorrect": true
+        },
+        {
+          "text": "Jedes gewerbliche Unternehmen mit mehr als € 700.000 Umsatz in zwei aufeinanderfolgenden Jahren",
+          "isCorrect": true
+        },
+        {
+          "text": "Jedes Unternehmen mit Mitarbeitern",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Steuerbasis für die Einkommenssteuer ist die:",
+      "answers": [
+        {
+          "text": "Konzernbilanz",
+          "isCorrect": false
+        },
+        {
+          "text": "Steuerbilanz",
+          "isCorrect": true
+        },
+        {
+          "text": "Einzelbilanz",
+          "isCorrect": false
+        },
+        {
+          "text": "UGB-Bilanz",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Die IAS/IFRS:",
+      "answers": [
+        {
+          "text": "können von Einzelunternehmen freiwillig und zusätzlich zum UGB angewandt werden",
+          "isCorrect": true
+        },
+        {
+          "text": "wurden vom österreichischen Parlament beschlossen",
+          "isCorrect": false
+        },
+        {
+          "text": "dienen als Grundlage zur Besteuerung",
+          "isCorrect": false
+        },
+        {
+          "text": "sind von börsennotierten Konzernen anzuwenden",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Die Hugo AG muss gemäß UGB erstellen:",
+      "answers": [
+        {
+          "text": "Einzelbilanz",
+          "isCorrect": true
+        },
+        {
+          "text": "Planbilanz",
+          "isCorrect": false
+        },
+        {
+          "text": "ordentliche Bilanz",
+          "isCorrect": true
+        },
+        {
+          "text": "Anlagenspiegel",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Welche Gesetze / Vorschriften können in die Bilanzierung österreichischer Kapitalgesellschaften einfließen?",
+      "answers": [
+        {
+          "text": "IAS",
+          "isCorrect": true
+        },
+        {
+          "text": "HGB",
+          "isCorrect": false
+        },
+        {
+          "text": "UGB",
+          "isCorrect": true
+        },
+        {
+          "text": "EU-RL",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Eine Aktiengesellschaft bilanziert nach dem UGB. Welche Aussagen sind korrekt?",
+      "answers": [
+        {
+          "text": "Anstelle des Lageberichts kann ein Management Commentary nach IAS / IFRS veröffentlicht werden",
+          "isCorrect": true
+        },
+        {
+          "text": "Der Anhang ist Teil des Lageberichts",
+          "isCorrect": false
+        },
+        {
+          "text": "Der Lagebericht wird von einem Wirtschaftsprüfer geprüft",
+          "isCorrect": true
+        },
+        {
+          "text": "Die Aktiengesellschaft muss einen Lagebericht aufstellen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Welche Art der Buchhaltung darf eine Aktiengesellschaft führen?",
+      "answers": [
+        {
+          "text": "Einnahmen-Ausgaben-Rechnung",
+          "isCorrect": false
+        },
+        {
+          "text": "Doppelte Buchhaltung",
+          "isCorrect": true
+        },
+        {
+          "text": "Kameralistik",
+          "isCorrect": false
+        },
+        {
+          "text": "Phasenbuchhaltung",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Controlling",
+      "answers": [
+        {
+          "text": " ist Teil des Rechnungswesens",
+          "isCorrect": true
+        },
+        {
+          "text": "ist Kostenrechnung",
+          "isCorrect": false
+        },
+        {
+          "text": "ist eine Führungsaufgabe",
+          "isCorrect": true
+        },
+        {
+          "text": "betrifft Kontrolle",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Wer ist Stakeholder oder Shareholder?",
+      "answers": [
+        {
+          "text": "Alle Aktienbesitzer sind Shareholder",
+          "isCorrect": true
+        },
+        {
+          "text": "Alle Mitarbeiter sind Stakeholder",
+          "isCorrect": false
+        },
+        {
+          "text": "Alle Steuerprüfer sind Stakeholder",
+          "isCorrect": true
+        },
+        {
+          "text": "Alle Lieferanten sind Stakeholder",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 4
+    },
+    {
+      "question": "Das betriebliche Rechnungswesen eines Unternehmens",
+      "answers": [
+        {
+          "text": "kann auch Investitions- und Finanzierungsentscheidungen beinhalten",
+          "isCorrect": true
+        },
+        {
+          "text": "darf von allen Eigentümern eingesehen werden",
+          "isCorrect": false
+        },
+        {
+          "text": "beinhaltet die Finanzbuchhaltung und die Betriebsbuchhaltung",
+          "isCorrect": true
+        },
+        {
+          "text": "ist eine Querschnittsfunktion im Betrieb",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 4
+    },
+    {
+      "question": "Externe Stakeholder einer Aktiengesellschaft sind",
+      "answers": [
+        {
+          "text": "Mitarbeiter",
+          "isCorrect": false
+        },
+        {
+          "text": "Lieferanten",
+          "isCorrect": true
+        },
+        {
+          "text": "Manager",
+          "isCorrect": false
+        },
+        {
+          "text": "Eigentümer",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Ein Unternehmen will seine Abteilungen zusammenlegen. Welche Abteilung passt am besten zum Rechnungswesen?",
+      "answers": [
+        {
+          "text": "Produktion",
+          "isCorrect": false
+        },
+        {
+          "text": "Marketing",
+          "isCorrect": false
+        },
+        {
+          "text": "Personalwesen",
+          "isCorrect": false
+        },
+        {
+          "text": "Finanzwesen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Eine AG ",
+      "answers": [
+        {
+          "text": "ist steuerpflichtig",
+          "isCorrect": true
+        },
+        {
+          "text": "muss einen UGB-Abschluss machen",
+          "isCorrect": true
+        },
+        {
+          "text": "muss eine doppelte Buchhaltung machen",
+          "isCorrect": true
+        },
+        {
+          "text": "muss IAS/IFRS anwenden",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Ein Geschäftsjahr für einen Eissalon ",
+      "answers": [
+        {
+          "text": "ist der Zeitraum, für den er das Ergebnis seiner geschäftlichen Tätigkeit in einem Jahresabschluss zusammenfasst",
+          "isCorrect": true
+        },
+        {
+          "text": "beginnt immer am 1.1. und endet am 31.12.",
+          "isCorrect": false
+        },
+        {
+          "text": "kann zu jedem Stichtag beginnen",
+          "isCorrect": true
+        },
+        {
+          "text": "ist für einen saisonalen Eissalon mit Beginn November nicht ausgeschlossen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Ein Unternehmen, das als Aktiengesellschaft gegründet wurde, mehr als 200 Mitarbeiter hat und mehr als 10 Mio. € als Aktiengesellschaft gegründet wurde, mehr als 200 Mitarbeiter hat und mehr als 10 Mio. € als Aktienkapital eingezahlt hat, muss folgende Berichte bzw. Informationen veröffentlichen ",
+      "answers": [
+        {
+          "text": "Bilanz",
+          "isCorrect": true
+        },
+        {
+          "text": "GuV",
+          "isCorrect": true
+        },
+        {
+          "text": "Lagebericht",
+          "isCorrect": true
+        },
+        {
+          "text": "Wissensbilanz",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Ein Eissalon in Form einer AG ",
+      "answers": [
+        {
+          "text": "muss eine doppelte Buchhaltung führen",
+          "isCorrect": true
+        },
+        {
+          "text": "ist von den Steuern EE ausgenommen",
+          "isCorrect": false
+        },
+        {
+          "text": "gilt als landwirtschaftlicher Betrieb, wenn das Eis selbst hergestellt wird",
+          "isCorrect": false
+        },
+        {
+          "text": "hat einen ermäßigten Steuersatz für thesaurierte Gewinne",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Der Bilanzstichtag für einen Schiliftbetrieb ",
+      "answers": [
+        {
+          "text": "wird am besten mit dem Kalenderjahr gleichgesetzt",
+          "isCorrect": false
+        },
+        {
+          "text": "wird sinnvoller Weise außerhalb der Schisaison liegen",
+          "isCorrect": true
+        },
+        {
+          "text": "bedeutet, dass an diesem Tag der Betrieb still stehen wird",
+          "isCorrect": true
+        },
+        {
+          "text": "wird vom Finanzamt festgesetzt",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Bei welchen Bilanzpositionen muss ihre Fristigkeit im Anhang angegeben werden? ",
+      "answers": [
+        {
+          "text": "Forderungen",
+          "isCorrect": true
+        },
+        {
+          "text": "Rücklagen",
+          "isCorrect": false
+        },
+        {
+          "text": "Verbindlichkeiten",
+          "isCorrect": true
+        },
+        {
+          "text": "Rückstellungen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Eine Aktiengesellschaft muss jedenfalls veröffentlichen: ",
+      "answers": [
+        {
+          "text": "einen Jahresabschluss, bestehend aus Bilanz, GuV, Anhang und Lagebericht",
+          "isCorrect": false
+        },
+        {
+          "text": "einen erweiterten Jahresabschluss, bestehend aus Bilanz, GuV und Anhang, sowie einen Lagebericht",
+          "isCorrect": true
+        },
+        {
+          "text": "einen Jahresabschluss, bestehend aus Bilanz, GuV und Anhang, aber keinen Lagebericht",
+          "isCorrect": true
+        },
+        {
+          "text": "einen Quartalsbericht",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Ein internationaler, börsennotierter Konzern muss welches Buchführungssystem anwenden? ",
+      "answers": [
+        {
+          "text": "IFRS",
+          "isCorrect": false
+        },
+        {
+          "text": "Doppelte Buchhaltung",
+          "isCorrect": true
+        },
+        {
+          "text": "Kameralistik",
+          "isCorrect": false
+        },
+        {
+          "text": "Phasenbuchhaltung",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn ein Unternehmen einen kurzfristigen Kredit in einen langfristigen umschuldet, ist dieser Geschäftsvorgang ",
+      "answers": [
+        {
+          "text": "erfolgswirksam",
+          "isCorrect": false
+        },
+        {
+          "text": "erfolgsneutral",
+          "isCorrect": true
+        },
+        {
+          "text": "liquiditätswirksam",
+          "isCorrect": false
+        },
+        {
+          "text": "liquiditätsneutral",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Wenn ein Unternehmen Handelsware auf Ziel verkauft, ist dieser Geschäftsvorgang ",
+      "answers": [
+        {
+          "text": "erfolgswirksam",
+          "isCorrect": false
+        },
+        {
+          "text": "erfolgsneutral",
+          "isCorrect": true
+        },
+        {
+          "text": "liquiditätswirksam",
+          "isCorrect": false
+        },
+        {
+          "text": "liquiditätsneutral",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Wenn ein Unternehmen Dienstleistungen gegen Barzahlung verkauft, ist dieser Geschäftsvorgang ",
+      "answers": [
+        {
+          "text": "erfolgswirksam",
+          "isCorrect": true
+        },
+        {
+          "text": "erfolgsneutral",
+          "isCorrect": false
+        },
+        {
+          "text": "liquiditätswirksam",
+          "isCorrect": true
+        },
+        {
+          "text": "liquiditätsneutral",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Wenn ein Unternehmen einen PC gegen Barzahlung kauft, ist dieser Geschäftsvorgang ",
+      "answers": [
+        {
+          "text": "erfolgswirksam",
+          "isCorrect": false
+        },
+        {
+          "text": "erfolgsneutral",
+          "isCorrect": true
+        },
+        {
+          "text": "liquiditätswirksam",
+          "isCorrect": true
+        },
+        {
+          "text": "liquiditätsneutral",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Wenn ein Unternehmen neue Aktien an die Börse bringt, ist dieser Geschäftsvorgang ",
+      "answers": [
+        {
+          "text": "erfolgswirksam",
+          "isCorrect": false
+        },
+        {
+          "text": "erfolgsneutral",
+          "isCorrect": true
+        },
+        {
+          "text": "liquiditätswirksam",
+          "isCorrect": true
+        },
+        {
+          "text": "liquiditätsneutral",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Wenn ein Unternehmen Ware gegen Barzahlung verkauft, hat es eine/einen ",
+      "answers": [
+        {
+          "text": "Einnahme",
+          "isCorrect": false
+        },
+        {
+          "text": "Einzahlung",
+          "isCorrect": true
+        },
+        {
+          "text": "Ertrag",
+          "isCorrect": false
+        },
+        {
+          "text": "Leistung",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn ein Unternehmen Material auf Ziel kauft, hat es eine/einen ",
+      "answers": [
+        {
+          "text": "Aufwand",
+          "isCorrect": false
+        },
+        {
+          "text": "Auszahlung",
+          "isCorrect": false
+        },
+        {
+          "text": "Kosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Ausgabe",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn ein Unternehmen ein Gebäude auf Ziel verkauft, hat es eine/einen",
+      "answers": [
+        {
+          "text": "Einnahme",
+          "isCorrect": false
+        },
+        {
+          "text": "Einzahlung",
+          "isCorrect": false
+        },
+        {
+          "text": "Ertrag",
+          "isCorrect": true
+        },
+        {
+          "text": "Leistung",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn ein Unternehmen eine Maschine in bar kauft, hat es eine/einen",
+      "answers": [
+        {
+          "text": "Aufwand",
+          "isCorrect": false
+        },
+        {
+          "text": "Auszahlung",
+          "isCorrect": true
+        },
+        {
+          "text": "Kosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Ausgabe",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn ein Unternehmen immaterielle selbstgestellte Forschung in das betriebsnotwendige Vermögen einrechnet, hat es eine/einen",
+      "answers": [
+        {
+          "text": "Einnahme",
+          "isCorrect": false
+        },
+        {
+          "text": "Einzahlung",
+          "isCorrect": false
+        },
+        {
+          "text": "Ertrag",
+          "isCorrect": false
+        },
+        {
+          "text": "Leistung",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn ein Unternehmen eine außerplanmäßige Abschreibung durchführt, hat es eine/einen",
+      "answers": [
+        {
+          "text": "Aufwand",
+          "isCorrect": true
+        },
+        {
+          "text": "Auszahlung",
+          "isCorrect": false
+        },
+        {
+          "text": "Kosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Ausgabe",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn ein Unternehmen eine Kapitalerhöhung durchführt, hat es eine/einen",
+      "answers": [
+        {
+          "text": "Einnahme",
+          "isCorrect": false
+        },
+        {
+          "text": "Einzahlung",
+          "isCorrect": true
+        },
+        {
+          "text": "Ertrag",
+          "isCorrect": false
+        },
+        {
+          "text": "Leistung",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn ein Unternehmen Eigenkapitalzinsen ansetzt, hat es eine/einen",
+      "answers": [
+        {
+          "text": "Aufwand",
+          "isCorrect": false
+        },
+        {
+          "text": "Auszahlung",
+          "isCorrect": false
+        },
+        {
+          "text": "Kosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Ausgabe",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Welche Begriffe treffen zu, wenn ein Unternehmen offene Verbindlichkeiten über das Bankkonto an seine Gläubiger überweist?",
+      "answers": [
+        {
+          "text": "erfolgswirksam",
+          "isCorrect": false
+        },
+        {
+          "text": "erfolgsneutral",
+          "isCorrect": true
+        },
+        {
+          "text": "Auszahlung",
+          "isCorrect": true
+        },
+        {
+          "text": "Aufwand",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Welche Begriffe treffen zu, wenn ein Unternehmen Material zum sofortigen Verbrauch einkauft?",
+      "answers": [
+        {
+          "text": "erfolgswirksam",
+          "isCorrect": false
+        },
+        {
+          "text": "erfolgsneutral",
+          "isCorrect": false
+        },
+        {
+          "text": "Ausgabe",
+          "isCorrect": false
+        },
+        {
+          "text": "Aufwand",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Welche Begriffe treffen zu, wenn ein Unternehmen seine Forderungen abwertet?",
+      "answers": [
+        {
+          "text": "erfolgswirksam",
+          "isCorrect": true
+        },
+        {
+          "text": "liquiditätswirksam",
+          "isCorrect": false
+        },
+        {
+          "text": "Auszahlung",
+          "isCorrect": false
+        },
+        {
+          "text": "Aufwand",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Welche Begriffe treffen zu, wenn ein Unternehmen Zuschreibungen zum Anlagevermögen vornimmt?",
+      "answers": [
+        {
+          "text": "erfolgsneutral",
+          "isCorrect": false
+        },
+        {
+          "text": "erfolgswirksam",
+          "isCorrect": true
+        },
+        {
+          "text": "Einzahlung",
+          "isCorrect": false
+        },
+        {
+          "text": "Ertrag",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Welche Begriffe treffen zu, wenn ein Unternehmen offene Forderungen von einem Schuldner überwiesen bekommt?",
+      "answers": [
+        {
+          "text": "erfolgsneutral",
+          "isCorrect": false
+        },
+        {
+          "text": "erfolgswirksam",
+          "isCorrect": false
+        },
+        {
+          "text": "Einzahlung",
+          "isCorrect": true
+        },
+        {
+          "text": "Ertrag",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Welche Begriffe treffen zu, wenn ein Unternehmen Gewinne ausschüttet?",
+      "answers": [
+        {
+          "text": "erfolgsneutral",
+          "isCorrect": true
+        },
+        {
+          "text": "erfolgswirksam",
+          "isCorrect": false
+        },
+        {
+          "text": "Auszahlung",
+          "isCorrect": true
+        },
+        {
+          "text": "Ertrag",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Welche Kombinationen von Bilanzen MUSS ein Unternehmen veröffentlichen, das nach UGB bilanziert?",
+      "answers": [
+        {
+          "text": "Ordentliche Bilanz - Steuerbilanz - Externe Bilanz - Planbilanz",
+          "isCorrect": false
+        },
+        {
+          "text": "Ordentliche Bilanz - Externe Bilanz - Schlussbilanz - Einzelbilanz",
+          "isCorrect": true
+        },
+        {
+          "text": "Interne Bilanz - Konzernbilanz - Planbilanz - Einzelbilanz",
+          "isCorrect": false
+        },
+        {
+          "text": "Istbilanz - Einzelbilanz - gesetzliche Bilanz - Eröffnungsbilanz",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Sie besitzen einen Supermarkt. Da vielleicht externe Partner in das Geschäft einsteigen wollen, legen Sie diesen potenziellen Partnern am 1.7. und nicht erst am 31.12. eine Bilanz vor. Es handelt sich um eine",
+      "answers": [
+        {
+          "text": "Zwischenbilanz",
+          "isCorrect": true
+        },
+        {
+          "text": "Steuerbilanz",
+          "isCorrect": false
+        },
+        {
+          "text": "Sonderbilanz",
+          "isCorrect": false
+        },
+        {
+          "text": "freiwillige Bilanz",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Steuergrundlage ist die",
+      "answers": [
+        {
+          "text": "Zwischenbilanz",
+          "isCorrect": false
+        },
+        {
+          "text": "Unternehmensbilanz",
+          "isCorrect": true
+        },
+        {
+          "text": "interne Bilanz",
+          "isCorrect": false
+        },
+        {
+          "text": "Planbilanz",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Sie errechnen am Jahresende den Gewinn Ihrer Aktiengesellschaft mittels",
+      "answers": [
+        {
+          "text": "Einnahmen-Ausgabenrechnung",
+          "isCorrect": true
+        },
+        {
+          "text": "GuV",
+          "isCorrect": true
+        },
+        {
+          "text": "Bilanz",
+          "isCorrect": true
+        },
+        {
+          "text": "Anhang",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Der Bestätigungsvermerk",
+      "answers": [
+        {
+          "text": "wird vom Steuerberater ausgestellt",
+          "isCorrect": false
+        },
+        {
+          "text": "wird im Lagebericht veröffentlicht",
+          "isCorrect": false
+        },
+        {
+          "text": "bedeutet, dass der Jahresabschluss ordnungsgemäß durchgeführt wurde",
+          "isCorrect": true
+        },
+        {
+          "text": "ist rechtlich unerheblich",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn Sie einen Umsatz von 100.000 € pro Jahr machen,",
+      "answers": [
+        {
+          "text": "sind Sie dadurch körperschaftsteuerpflichtig",
+          "isCorrect": false
+        },
+        {
+          "text": "müssen Sie doppelte Buchhaltung machen",
+          "isCorrect": false
+        },
+        {
+          "text": "sind Sie Einnahmen-Ausgaben-Rechner",
+          "isCorrect": true
+        },
+        {
+          "text": "müssen Sie Steuern vom Einkommen und Ertrag zahlen",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Welchen Bilanzstichtag werden Sie als eine Bildungseinrichtung für Nachhilfekurse wählen?",
+      "answers": [
+        {
+          "text": "31.12., weil es dem Gesetz entspricht",
+          "isCorrect": false
+        },
+        {
+          "text": "30.06., weil das Semester endet",
+          "isCorrect": true
+        },
+        {
+          "text": "31.12., weil es dem Kalenderjahr entspricht",
+          "isCorrect": false
+        },
+        {
+          "text": "31.07., weil Sie in den Ferien ausreichend Zeit haben",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Wenn ein Skiverein hauptsächlich im Winter aktiv ist, aber auch einen durchgehenden Sommer- und Wanderbetrieb anbietet, wird/werden welche(r) Bilanzstichtag/e sinnvoll sein?",
+      "answers": [
+        {
+          "text": "31.10.",
+          "isCorrect": true
+        },
+        {
+          "text": "01.07.",
+          "isCorrect": false
+        },
+        {
+          "text": "31.12.",
+          "isCorrect": false
+        },
+        {
+          "text": "30.04.",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Steuergrundlage ist die",
+      "answers": [
+        {
+          "text": "Zwischenbilanz",
+          "isCorrect": false
+        },
+        {
+          "text": "Planbilanz",
+          "isCorrect": false
+        },
+        {
+          "text": "Steuerbilanz",
+          "isCorrect": true
+        },
+        {
+          "text": "Handelsbilanz",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+
+    {
+      "question": "Welche Begriffe passen zusammen?",
+      "answers": [
+        {
+          "text": "kalkulatorische Auszahlungen",
+          "isCorrect": false
+        },
+        {
+          "text": "Soll-Haben-Gleichheit",
+          "isCorrect": false
+        },
+        {
+          "text": "Herstellungsnebenkosten",
+          "isCorrect": true
+        },
+        {
+          "text": "pagatorische Aufwendungen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Ein Unternehmen verbucht erfolgswirksam, wenn:",
+      "answers": [
+        {
+          "text": "es einen Aufwand oder Ertrag verbucht",
+          "isCorrect": true
+        },
+        {
+          "text": "sich die Bilanzsumme erhöht",
+          "isCorrect": false
+        },
+        {
+          "text": "der Verkaufspreis höher als der Einkaufspreis ist",
+          "isCorrect": false
+        },
+        {
+          "text": "am Geschäftsjahresende ein Gewinn ausgewiesen wird",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Ein Unternehmen kauft am 3.4.20X1 eine Maschine zur eigenen Produktion um €800 (exkl. USt.) und überweist den Betrag 10 Tage später. Bei einem anderen Händler hätte diese Maschine €900 gekostet. Handelt es sich am 31.12. um eine:",
+      "answers": [
+        {
+          "text": "Bilanzverlängerung",
+          "isCorrect": true
+        },
+        {
+          "text": "Bilanzverkürzung",
+          "isCorrect": false
+        },
+        {
+          "text": "Erfolgswirksame Buchung",
+          "isCorrect": false
+        },
+        {
+          "text": "Aktivtausch",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn ein Unternehmen einen Kredit aufnimmt und der Betrag auf das Girokonto überwiesen wird, handelt es sich um eine:",
+      "answers": [
+        {
+          "text": "einen Aktivtausch",
+          "isCorrect": false
+        },
+        {
+          "text": "eine Bilanzverkürzung",
+          "isCorrect": false
+        },
+        {
+          "text": "eine Passivtausch",
+          "isCorrect": false
+        },
+        {
+          "text": "eine Bilanzverlängerung",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Welche Aussagen bzgl. erfolgswirksamer Buchungen stimmen?",
+      "answers": [
+        {
+          "text": "Die Buchungen betreffen zumindest ein Konto der G&V und der Bilanz",
+          "isCorrect": true
+        },
+        {
+          "text": "Beispiel: Kassa an Umsatzerlöse",
+          "isCorrect": true
+        },
+        {
+          "text": "Erfolgswirksame Buchungen führen immer zu einer Bilanzverlängerung",
+          "isCorrect": false
+        },
+        {
+          "text": "Erfolgswirksame Buchungen erhöhen immer den Gewinn",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Ein alter schattiger Baum, der unter Naturschutz steht, fällt aufgrund eines Sturmes auf einen Firmenparkplatz um. ",
+      "answers": [
+        {
+          "text": "Es kommen auf die Firma Ausgaben zu, weil der Parkplatz renoviert werden muss",
+          "isCorrect": true
+        },
+        {
+          "text": "In der Folge verliert die Firma Liquidität, weil ein Gärtner den Baum zerschneiden und abtransportieren muss",
+          "isCorrect": true
+        },
+        {
+          "text": "Es handelt sich um einen Aufwand, weil die Firma einen Wert verliert",
+          "isCorrect": true
+        },
+        {
+          "text": "Es handelt sich um eine Auszahlung, weil kein Schatten mehr vorhanden ist",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Welche Aussagen bzgl. erfolgsneutraler Buchungen stimmen? ",
+      "answers": [
+        {
+          "text": "Bei einem Aktivtausch erhöht sich die Bilanzsumme",
+          "isCorrect": false
+        },
+        {
+          "text": "Bei einer Bilanzverlängerung wird der Gewinn erhöht",
+          "isCorrect": false
+        },
+        {
+          "text": "Bei einer Bilanzverkürzung kann es zu einer Reduktion von Schulden kommen",
+          "isCorrect": true
+        },
+        {
+          "text": "Ein Aktivtausch führt letztendlich zu einer Erhöhung des Eigenkapitals",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Erfolgsneutrale Buchungen eines Schiliftbetreibers sind ",
+      "answers": [
+        {
+          "text": "Rückzahlungen der Verbindlichkeiten LL",
+          "isCorrect": true
+        },
+        {
+          "text": "Erhöhung des Lagerbestandes von Diesel als Reserve gegen Barzahlung",
+          "isCorrect": true
+        },
+        {
+          "text": "der Verkauf von Skikarten",
+          "isCorrect": false
+        },
+        {
+          "text": "Ankauf von Schiständern",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Erfolgsneutrale Geschäftsfälle für einen Spielwarenerzeuger sind ",
+      "answers": [
+        {
+          "text": "Verkauf von Spielzeug",
+          "isCorrect": false
+        },
+        {
+          "text": "Einkauf der Puppen",
+          "isCorrect": false
+        },
+        {
+          "text": "Begleichung von Verbindlichkeiten LL",
+          "isCorrect": true
+        },
+        {
+          "text": "Produktion von Bausteinen",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Welche Geschäftsfälle sind erfolgsneutral? ",
+      "answers": [
+        {
+          "text": "Einkauf von sofort eingesetzten Schmiermitteln",
+          "isCorrect": false
+        },
+        {
+          "text": "Verkauf eines Fahrrades zum Restbuchwert",
+          "isCorrect": false
+        },
+        {
+          "text": "Einkauf eines neuen Fahrrades",
+          "isCorrect": true
+        },
+        {
+          "text": "Abschreibung eines Fahrrades",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Spielergehälter bei einem Sportverein ",
+      "answers": [
+        {
+          "text": "sind Kosten",
+          "isCorrect": true
+        },
+        {
+          "text": "sind Aufwand",
+          "isCorrect": true
+        },
+        {
+          "text": "werden als Humankapital aktiviert",
+          "isCorrect": false
+        },
+        {
+          "text": "reduzieren liquide Mittel",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+
+    {
+      "question": "Wenn ein Schiliftbetreiber Gruppenreisen auf Ziel verkauft und der Verkaufspreis bisher nicht überwiesen wurde, handelt es sich um eine(n): ",
+      "answers": [
+        {
+          "text": "Einzahlung",
+          "isCorrect": false
+        },
+        {
+          "text": "Einnahme",
+          "isCorrect": true
+        },
+        {
+          "text": "Ertrag",
+          "isCorrect": false
+        },
+        {
+          "text": "Bareinlage",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Welche Kontenrahmen kann/muss ein Hotel verwenden? ",
+      "answers": [
+        {
+          "text": "Einheitskontenrahmen – muss",
+          "isCorrect": false
+        },
+        {
+          "text": "Einheitskontenrahmen – kann",
+          "isCorrect": true
+        },
+        {
+          "text": "IFRS-Kontenrahmen – muss, falls börsennotiert",
+          "isCorrect": true
+        },
+        {
+          "text": "Selbstentwickelter Kontenrahmen – kann",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Doppelte Buchhaltung bedeutet, dass Sie: ",
+      "answers": [
+        {
+          "text": "jeden Geschäftsvorfall zumindest einmal auf der Soll- und der Habenseite erfassen",
+          "isCorrect": true
+        },
+        {
+          "text": "eine Unternehmensbilanz und eine Steuerbilanz erstellen",
+          "isCorrect": false
+        },
+        {
+          "text": "die Geschäftsvorgänge chronologisch und systematisch erfassen",
+          "isCorrect": true
+        },
+        {
+          "text": "eine Bestandsrechnung und eine Flussrechnung durchführen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Ein Kühlschrank kann verbucht werden als: ",
+      "answers": [
+        {
+          "text": "Handelswareneinsatz",
+          "isCorrect": false
+        },
+        {
+          "text": "Anlagevermögen",
+          "isCorrect": true
+        },
+        {
+          "text": "Umlaufvermögen",
+          "isCorrect": true
+        },
+        {
+          "text": "Materialaufwand",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Welche Zuordnung stimmt? ",
+      "answers": [
+        {
+          "text": "'Auflösung unversteuerter Rücklagen' ist eine Position der Mittelverwendung",
+          "isCorrect": false
+        },
+        {
+          "text": "'Erhaltene Anzahlungen' stehen in der Bilanz",
+          "isCorrect": true
+        },
+        {
+          "text": "'Satzungsmäßige Rücklagen' sind eine Position der Mittelherkunft",
+          "isCorrect": true
+        },
+        {
+          "text": "'Bestandsveränderung' ist eine Position des Aufwandes oder des Ertrages",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+
+    {
+      "question": "Im Zuge der Einführung eines neuen EDV-Systems überlegen Sie eine Änderung des Kontenrahmens und der Kontennummern. Was ist gesetzlich vorgeschrieben? ",
+      "answers": [
+        {
+          "text": "10 Kontoklassen",
+          "isCorrect": false
+        },
+        {
+          "text": "Österreichischer Einheitskontenrahmen",
+          "isCorrect": false
+        },
+        {
+          "text": "dass Sie die Bedeutung von Abkürzungen, Zahlen etc. nachvollziehbar dokumentieren",
+          "isCorrect": true
+        },
+        {
+          "text": "dass sich ein sachverständiger Dritter innerhalb angemessener Zeit einen Überblick über die Führung der Bücher verschaffen können muss",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Der Saldo Ihres Girokontos steht – ganz unfachmännisch gesprochen – beim T-Konto auf der rechten Seite. Als Fachfrau / Fachmann sprechen Sie von einem ",
+      "answers": [
+        {
+          "text": "Habensaldo",
+          "isCorrect": true
+        },
+        {
+          "text": "Bilanzsaldo",
+          "isCorrect": false
+        },
+        {
+          "text": "Soll-Saldo",
+          "isCorrect": false
+        },
+        {
+          "text": "Banksaldo",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Ein Saldo eines Kontos ",
+      "answers": [
+        {
+          "text": "ist eine Differenz",
+          "isCorrect": true
+        },
+        {
+          "text": "steht immer auf der Seite des Kontos, die den höheren Wert von Soll und Haben aufweist",
+          "isCorrect": true
+        },
+        {
+          "text": "kann immer nur auf einer Seite des Kontos stehen",
+          "isCorrect": false
+        },
+        {
+          "text": "geht am Bilanzstichtag in die Bilanz bzw. G&V ein",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Wenn die Differenz eines T-Kontos auf der linken Seite steht, ",
+      "answers": [
+        {
+          "text": "kann es sich um ein Kapitalkonto handeln",
+          "isCorrect": false
+        },
+        {
+          "text": "kann es sich um das Konto Kassa handeln",
+          "isCorrect": true
+        },
+        {
+          "text": "spricht man von einem Haben-Saldo",
+          "isCorrect": true
+        },
+        {
+          "text": "hat das Konto ein Minus",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Der Posten „Dotierung Gewinnrücklage“ ",
+      "answers": [
+        {
+          "text": "wird außerplanmäßig abgeschrieben",
+          "isCorrect": false
+        },
+        {
+          "text": "wird im Aufwand in der G&V gebucht",
+          "isCorrect": false
+        },
+        {
+          "text": "ist ein Ertrag in der G&V",
+          "isCorrect": false
+        },
+        {
+          "text": "ist ein Posten der Bilanz",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+
+    {
+      "question": "Doppelte Buchhaltung bedeutet für Sie, dass Sie ",
+      "answers": [
+        {
+          "text": "jeden Geschäftsvorfall zumindest einmal auf der Soll- und der Habenseite erfassen",
+          "isCorrect": true
+        },
+        {
+          "text": "die Geschäftsvorgänge chronologisch und systematisch erfassen",
+          "isCorrect": true
+        },
+        {
+          "text": "eine Bestandsrechnung und eine Flussrechnung durchführen",
+          "isCorrect": true
+        },
+        {
+          "text": "eine Unternehmensbilanz und eine Planbilanz erstellen",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Ein nicht selbst erstelltes Fernsehgerät kann gebucht werden in ",
+      "answers": [
+        {
+          "text": "eine Aufwandsposition",
+          "isCorrect": true
+        },
+        {
+          "text": "eine Ertragsposition",
+          "isCorrect": false
+        },
+        {
+          "text": "Anlagevermögen",
+          "isCorrect": true
+        },
+        {
+          "text": "Umlaufvermögen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Eine Aktiengesellschaft produziert 2 Millionen Löffel pro Jahr und hat 7 MitarbeiterInnen. Mittels welcher Kontenformen wird gebucht? ",
+      "answers": [
+        {
+          "text": "T-Konto",
+          "isCorrect": false
+        },
+        {
+          "text": "Buchungssätze",
+          "isCorrect": false
+        },
+        {
+          "text": "elektronisches System",
+          "isCorrect": true
+        },
+        {
+          "text": "Druckschlagpapier",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Vermögen ",
+      "answers": [
+        {
+          "text": "wird nach UGB in Anlagevermögen und Umlaufvermögen gegliedert",
+          "isCorrect": true
+        },
+        {
+          "text": "steht in der Bilanz auf der Aktivseite",
+          "isCorrect": true
+        },
+        {
+          "text": "wird in der Bilanz mit den historischen Anschaffungs- und Herstellungskosten ausgewiesen",
+          "isCorrect": false
+        },
+        {
+          "text": "unterliegt nach IAS/IFRS einer vorgegebenen Reihenfolge",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Der Kontenrahmen ",
+      "answers": [
+        {
+          "text": "beinhaltet 10 Ziffern",
+          "isCorrect": false
+        },
+        {
+          "text": "dient der Kostenstellenrechnung",
+          "isCorrect": false
+        },
+        {
+          "text": "ist österreichweit standardisiert",
+          "isCorrect": true
+        },
+        {
+          "text": "ist in Kontenklassen unterteilt",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+
+    {
+      "question": "Den Gewinn/Verlust eines Geschäftsjahres kann man wie folgt errechnen:",
+      "answers": [
+        {
+          "text": "Vermögen am Anfang des Geschäftsjahres minus Schulden am Anfang des Geschäftsjahres minus Eigenkapital am Ende des Jahres",
+          "isCorrect": false
+        },
+        {
+          "text": "Vermögen am Ende des Geschäftsjahres minus Schulden am Ende des Geschäftsjahres minus Eigenkapital am Ende des Jahres",
+          "isCorrect": false
+        },
+        {
+          "text": "Erträge minus Aufwendungen",
+          "isCorrect": true
+        },
+        {
+          "text": "Vermögen am Ende des Gescäftsjahres minus Schulden am Ende des Geschäftsjahres minus Eigenkapital am Anfang des Jahres",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Zum 1.1. eines Geschäftsjahres (Bilanzstichtag 31.12.):",
+      "answers": [
+        {
+          "text": "wird eine Eröffnungsbilanz erstellt",
+          "isCorrect": true
+        },
+        {
+          "text": "wird ein Eröffnungsbilanzkonto erstellt",
+          "isCorrect": true
+        },
+        {
+          "text": "werden die Konten der Bilanz eröffnet",
+          "isCorrect": true
+        },
+        {
+          "text": "werden die Konten der G&V eröffnet",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Ein Unternehmen kann seinen pagatorischen Gewinn ausrechnen, indem es:",
+      "answers": [
+        {
+          "text": "sein Eigenkapital des heurigen und des vergangenen Geschäftsjahres vergleicht",
+          "isCorrect": true
+        },
+        {
+          "text": "eine Kostenträgererfolgsrechnung durchführt",
+          "isCorrect": false
+        },
+        {
+          "text": "die Differenz aus Vermögen minus Fremdkapital minus Eigenkapital des Vorjahres berechnet",
+          "isCorrect": false
+        },
+        {
+          "text": "seine Erträge und Aufwendungen gegenüberstellt",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Welche Werte können in einer ordentlichen Bilanz mit einem Minus angegeben werden?",
+      "answers": [
+        {
+          "text": "Verlust",
+          "isCorrect": true
+        },
+        {
+          "text": "Girokonto",
+          "isCorrect": false
+        },
+        {
+          "text": "Schulden",
+          "isCorrect": false
+        },
+        {
+          "text": "ausstehende Einlagen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Der Bilanzgewinn einer Aktiengesellschaft kann wie folgt berechnet werden:",
+      "answers": [
+        {
+          "text": "Vermögen am Ende des Geschäftsjahres minus Schulden am Ende des Geschäftsjahres minus Eigenkapital am Anfang des Geschäftsjahres",
+          "isCorrect": true
+        },
+        {
+          "text": "Erlöse minus Aufwendungen",
+          "isCorrect": true
+        },
+        {
+          "text": "Bilanzsumme am Anfang des Geschäftsjahres minus Schulden minus Eigenkapital am Anfang des Geschäftsjahres",
+          "isCorrect": false
+        },
+        {
+          "text": "Einzahlungen minus Auszahlungen",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+
+    {
+      "question": "Welche rechtlichen Vorschriften muss ein österreichisches Einzelunternehmen in seiner Rechnungslegung berücksichtigen?",
+      "answers": [
+        {
+          "text": "UGB",
+          "isCorrect": true
+        },
+        {
+          "text": "EStG",
+          "isCorrect": true
+        },
+        {
+          "text": "IAS",
+          "isCorrect": false
+        },
+        {
+          "text": "BAO",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Die österreichische Rechnungslegung, die auch der Steuerberechnung dient, bezieht sich u.a.",
+      "answers": [
+        {
+          "text": "auf das HGB",
+          "isCorrect": false
+        },
+        {
+          "text": "auf das 3. Buch des UGB",
+          "isCorrect": true
+        },
+        {
+          "text": "auf das EStG",
+          "isCorrect": true
+        },
+        {
+          "text": "auf die EU-Bilanzrichtlinie",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Ordentliche Bilanz bedeutet, dass",
+      "answers": [
+        {
+          "text": "sie ordentlich im Sinne von übersichtlich gestaltet ist",
+          "isCorrect": false
+        },
+        {
+          "text": "einem ordentlichen Bilanzierungsanlass folgt",
+          "isCorrect": true
+        },
+        {
+          "text": "keine Sonderbilanz ist",
+          "isCorrect": true
+        },
+        {
+          "text": "eine Planbilanz ist",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Sie erstellen am Jahresende einen Jahresabschluss. Dieser enthält:",
+      "answers": [
+        {
+          "text": "G&V",
+          "isCorrect": true
+        },
+        {
+          "text": "Lagebericht",
+          "isCorrect": false
+        },
+        {
+          "text": "Anhang",
+          "isCorrect": true
+        },
+        {
+          "text": "Bilanz",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Der Anhang",
+      "answers": [
+        {
+          "text": "ist Teil des Jahresabschlusses",
+          "isCorrect": true
+        },
+        {
+          "text": "enthält Detailinformationen zur Bilanz und G&V",
+          "isCorrect": true
+        },
+        {
+          "text": "ist Teil des Lageberichts",
+          "isCorrect": false
+        },
+        {
+          "text": "wird vom Wirtschaftsprüfer geprüft",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Welche Berichte muss ein börsennotiertes Unternehmen u.a. veröffentlichen?",
+      "answers": [
+        {
+          "text": "Lagebericht",
+          "isCorrect": true
+        },
+        {
+          "text": "Jahresabschluss",
+          "isCorrect": true
+        },
+        {
+          "text": "Corporate Governance Bericht",
+          "isCorrect": true
+        },
+        {
+          "text": "Steuerbilanz",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+
+    {
+      "question": "Ein Unternehmen hält aus strategischen Gründen 4% Anteile an einem anderen Unternehmen. ",
+      "answers": [
+        {
+          "text": "Es muss eine Konzernbilanz vorlegen",
+          "isCorrect": false
+        },
+        {
+          "text": "Die Anteile werden im Anlagevermögen ausgewiesen",
+          "isCorrect": true
+        },
+        {
+          "text": "Die Anteile werden im Umlaufvermögen ausgewiesen",
+          "isCorrect": false
+        },
+        {
+          "text": "Da die Anteile unter 5% sind, handelt es sich um GWGs",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Zur internationalen Ergebnisdarstellung: ",
+      "answers": [
+        {
+          "text": "Amortization ist mit 'Abschreibungen vom Sachanlagevermögen' gleichzusetzen",
+          "isCorrect": false
+        },
+        {
+          "text": "Depreciation umfasst den Begriff 'Abschreibungen'",
+          "isCorrect": true
+        },
+        {
+          "text": "Die Finanzierungsaufwendungen sind inhaltlich ident mit den Aufwendungen für Finanzinvestitionen",
+          "isCorrect": false
+        },
+        {
+          "text": "Tax bezieht sich auf 'Steuern EE'",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "!?Steuern auf folgende Leistungen eines Schiliftbetreibers sind in den Steuern EE enthalten: ",
+      "answers": [
+        {
+          "text": "Steuern aus dem Verkauf von Liftkarten",
+          "isCorrect": true
+        },
+        {
+          "text": "Steuern aus dem Verkauf von Handelsware",
+          "isCorrect": true
+        },
+        {
+          "text": "Körperschaftssteuer",
+          "isCorrect": false
+        },
+        {
+          "text": "Umsatzsteuer",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "!?Am Geschäftsjahresanfang ",
+      "answers": [
+        {
+          "text": "eröffnet jede Aktiengesellschaft alle Konten des Vorjahres",
+          "isCorrect": false
+        },
+        {
+          "text": "wird auf jedem Konto der Saldo errechnet",
+          "isCorrect": false
+        },
+        {
+          "text": "erstellt jede Aktiengesellschaft eine Eröffnungs-G&V",
+          "isCorrect": false
+        },
+        {
+          "text": "erstellt jede Aktiengesellschaft eine Eröffnungsbilanz",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Welche Posten werden Sie in Ihrer G&V unter Aufwendungen ausweisen? ",
+      "answers": [
+        {
+          "text": "Materialaufwand",
+          "isCorrect": true
+        },
+        {
+          "text": "Gewinnvortrag",
+          "isCorrect": false
+        },
+        {
+          "text": "Auflösung stiller Reserven",
+          "isCorrect": false
+        },
+        {
+          "text": "Dotierung Gewinnrücklage",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Welche Posten können in die Eröffnungsbilanz eines Hotels inkludiert werden?",
+      "answers": [
+        {
+          "text": "Gebäudeabschreibung",
+          "isCorrect": false
+        },
+        {
+          "text": "Reisebus",
+          "isCorrect": true
+        },
+        {
+          "text": "Stromaggregat",
+          "isCorrect": true
+        },
+        {
+          "text": "Energieaufwand",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "!?Ein Unternehmen schließt am Bilanzstichtag alle Konten der G&V ab. Welche Aussagen sind richtig?",
+      "answers": [
+        {
+          "text": "Jedes einzelne Konto wird direkt in die G&V übernommen",
+          "isCorrect": false
+        },
+        {
+          "text": "Jedes Konto wird direkt gegen Eigenkapital abgeschlossen",
+          "isCorrect": false
+        },
+        {
+          "text": "Das Konto Umsatzerlöse wird stets mit einem Habensaldo abgeschlossen",
+          "isCorrect": true
+        },
+        {
+          "text": "Die G&V-Konten werden im Folgejahr nicht eröffnet",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Wenn Sie am Bilanzstichtag Ihre Konten schließen, müssen Sie",
+      "answers": [
+        {
+          "text": "die Fremdwährungsverbindlichkeiten bewerten",
+          "isCorrect": false
+        },
+        {
+          "text": "alle Konten saldieren",
+          "isCorrect": true
+        },
+        {
+          "text": "die Materialaufwendungen bewerten",
+          "isCorrect": false
+        },
+        {
+          "text": "alle Konten gegen SBK abschließen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Der Materialaufwand eines Schiliftes",
+      "answers": [
+        {
+          "text": "ist im Verhältnis zum Personalaufwand gering",
+          "isCorrect": true
+        },
+        {
+          "text": "kann Diesel und Streusalz beinhalten",
+          "isCorrect": true
+        },
+        {
+          "text": "wird auf die Bilanzsumme bezogen, um die Materialintensität auszurechnen",
+          "isCorrect": false
+        },
+        {
+          "text": "wird durch selbsthergestellte Produkte verändert",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Der Gewinnvortrag",
+      "answers": [
+        {
+          "text": "wird steuerlich mit dem Verlustvortrag gleichbehandelt",
+          "isCorrect": false
+        },
+        {
+          "text": "muss so lange mit 5% dotiert werden, bis 10% des Nennkapitals erreicht werden",
+          "isCorrect": false
+        },
+        {
+          "text": "ist der Gewinn, der heuer nicht ausgeschüttet, sondern in den Gewinnrücklagen thesauriert wird",
+          "isCorrect": true
+        },
+        {
+          "text": "wird in der G&V ausgewiesen",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+
+    {
+      "question": "Ein Unternehmen erstellt seine G&V nach dem Gesamtkostenverfahren. Welche Positionen sind NICHT enthalten? ",
+      "answers": [
+        {
+          "text": "Herstellungskosten der abgesetzten Menge",
+          "isCorrect": true
+        },
+        {
+          "text": "Abschreibungen zu Immateriellem Vermögen und Sachanlagevermögen",
+          "isCorrect": false
+        },
+        {
+          "text": "Vertriebskosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Materialaufwand",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Bestandsveränderungen sind zu finden: ",
+      "answers": [
+        {
+          "text": "G&V aktiv",
+          "isCorrect": true
+        },
+        {
+          "text": "Bilanz passiv",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilanz aktiv",
+          "isCorrect": true
+        },
+        {
+          "text": "G&V passiv",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Wenn ein Unternehmen Segment Reporting durchführt, ",
+      "answers": [
+        {
+          "text": "muss es die Bilanz nach Regionen und Produkten gliedern",
+          "isCorrect": false
+        },
+        {
+          "text": "ist es dazu verpflichtet, wenn es eine Kapitalgesellschaft ist bzw. die Umsätze 2x größer als 700.000 € oder 1x größer als 1 Mio € sind",
+          "isCorrect": false
+        },
+        {
+          "text": "macht es dies aufgrund gesetzlicher Vorschriften im UGB",
+          "isCorrect": false
+        },
+        {
+          "text": "müssen nach IFRS Segmenterlöse, Segmentergebnisse oder des Gesamtvermögens umfassen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Segment Reporting ",
+      "answers": [
+        {
+          "text": "ist in einem Standard des IFRS vorgeschrieben",
+          "isCorrect": true
+        },
+        {
+          "text": "bezieht sich nur auf die Segmentierung von Kunden",
+          "isCorrect": false
+        },
+        {
+          "text": "ist ein verpflichtender Teil im Anhang gemäß UGB",
+          "isCorrect": false
+        },
+        {
+          "text": "ist verpflichtend durchzuführen, wenn Segmentumsatzerlöse, -ergebnisse oder -vermögen > 10% der Gesamterlöse, -ergebnisse oder -vermögen ist",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Die G&V einer Aktiengesellschaft nach UGB ",
+      "answers": [
+        {
+          "text": "muss als Gesamtkostenverfahren und als Umsatzkostenverfahren veröffentlicht werden",
+          "isCorrect": false
+        },
+        {
+          "text": "umfasst als Zwischensummen das Betriebsergebnis, Finanzergebnis, ao. Ergebnis, Steuern EE, Rücklagenergebnis und Bilanzgewinn/Verlust",
+          "isCorrect": true
+        },
+        {
+          "text": "beinhaltet Positionen der Gewinnermittlung und der Gewinnverwendung",
+          "isCorrect": false
+        },
+        {
+          "text": "wird in Staffelform veröffentlicht",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Die Gewinn- und Verlustrechnung",
+      "answers": [
+        {
+          "text": "wird in Staffelform dargestellt",
+          "isCorrect": true
+        },
+        {
+          "text": "kann als Staffelform oder T-Konto veröffentlicht werden",
+          "isCorrect": false
+        },
+        {
+          "text": "muss unabhängig von der Darstellung zum gleichen Ergebnis kommen",
+          "isCorrect": true
+        },
+        {
+          "text": "kann als Umsatzkostenverfahren, Gesamtkostenverfahren oder Segmentberichterstattung präsentiert werden",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Bestandsveränderungen",
+      "answers": [
+        {
+          "text": "beziehen sich auf die produzierte und verkaufte Menge selbst erstellter Erzeugnisse",
+          "isCorrect": true
+        },
+        {
+          "text": "gehen in die Gewinn- und Verlustrechnung ein",
+          "isCorrect": true
+        },
+        {
+          "text": "werden mit dem Einkaufspreis aktiviert",
+          "isCorrect": false
+        },
+        {
+          "text": "zeigen sich indirekt in der Bilanz",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "!?\"Dotierung\" bedeutet in der Buchhaltung",
+      "answers": [
+        {
+          "text": "Budgetierung",
+          "isCorrect": false
+        },
+        {
+          "text": "Zuweisung",
+          "isCorrect": true
+        },
+        {
+          "text": "Aufwand in der G&V",
+          "isCorrect": true
+        },
+        {
+          "text": "Haben-Buchung in der G&V",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Die Gewinn- und Verlustrechnung ",
+      "answers": [
+        {
+          "text": "wird in Form eines T-Kontos veröffentlicht",
+          "isCorrect": false
+        },
+        {
+          "text": "enthält Aufwendungen und Erträge",
+          "isCorrect": true
+        },
+        {
+          "text": "wird in Staffelform veröffentlicht",
+          "isCorrect": true
+        },
+        {
+          "text": "enthält Zwischenergebnisse",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Welche Positionen werden u.a. im Umsatzkostenverfahren abgebildet?",
+      "answers": [
+        {
+          "text": "Herstellungskosten der produzierten Menge",
+          "isCorrect": true
+        },
+        {
+          "text": "Bestandserhöhung",
+          "isCorrect": false
+        },
+        {
+          "text": "Bruttoergebnis vom Umsatz",
+          "isCorrect": true
+        },
+        {
+          "text": "Vertriebskosten",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Im Umsatzkostenverfahren gemäß UGB",
+      "answers": [
+        {
+          "text": "werden die Herstellungskosten der produzierten Mengen ausgewiesen",
+          "isCorrect": true
+        },
+        {
+          "text": "wird das Bruttoergebnis vom Umsatz ausgewiesen",
+          "isCorrect": true
+        },
+        {
+          "text": "wird das Finanzergebnis genau wie beim Gesamtkostenverfahren berechnet",
+          "isCorrect": false
+        },
+        {
+          "text": "stehen die Umsätze an erster Stelle",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+
+    {
+      "question": "Die Umsatzerlöse eines Eissalons",
+      "answers": [
+        {
+          "text": "müssen um Erlösschmälerungen (Skonti, Rabatte) bereinigt werden",
+          "isCorrect": true
+        },
+        {
+          "text": "müssen in der G&V getrennt in Inlands- und Exportgeschäfte ausgewiesen werden",
+          "isCorrect": false
+        },
+        {
+          "text": "müssen in der G&V getrennt in in- und ausländische Kunden getrennt werden",
+          "isCorrect": false
+        },
+        {
+          "text": "werden i.a. inklusive Umsatzsteuer verbucht",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Die Wirtschaftskrise wirkt sich auf die Gewinn- und Verlustrechnung eines Tourismusbetriebes wie folgt aus:",
+      "answers": [
+        {
+          "text": "Die Umsatzerlöse gehen zurück",
+          "isCorrect": true
+        },
+        {
+          "text": "Die Abschreibungen reduzieren sich linear mit dem Besucherschwund",
+          "isCorrect": false
+        },
+        {
+          "text": "Der Gewinn bleibt gleich, weil weniger Kunden weniger Aufwand bedeuten",
+          "isCorrect": false
+        },
+        {
+          "text": "Der Zinsaufwand könnte steigen, weil die Kredite nicht so rasch zurückgezahlt werden können",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Das Gesamtkostenverfahren eines Eissalons",
+      "answers": [
+        {
+          "text": "lässt Aussagen darüber zu, wie einzelne Eissorten und Portionsgrößen zum Betriebserfolg beigetragen haben",
+          "isCorrect": false
+        },
+        {
+          "text": "ermittelt alle Einzahlungen und Aufwendungen und rechnet daraus den Gewinn aus",
+          "isCorrect": false
+        },
+        {
+          "text": "bezieht die Bestandsveränderungen ein",
+          "isCorrect": true
+        },
+        {
+          "text": "ist gut für die kurzfristige Erfolgskontrolle geeignet, da eine Trennung nach betrieblichen und betriebsfremden Aufwendungen und Erträgen möglich ist",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn man einen Gegenstand in die Bilanz aufnimmt, wird er",
+      "answers": [
+        {
+          "text": "ins Inventar aufgenommen",
+          "isCorrect": false
+        },
+        {
+          "text": "bewertet",
+          "isCorrect": false
+        },
+        {
+          "text": "verwendet",
+          "isCorrect": false
+        },
+        {
+          "text": "aktiviert",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn ein Unternehmen auf eine neue gekaufte Maschine einen Skontonachlass erhält,",
+      "answers": [
+        {
+          "text": "reduziert dieser die Abschreibungsbasis",
+          "isCorrect": true
+        },
+        {
+          "text": "erhöht dieser die Verbindlichkeiten des Unternehmens",
+          "isCorrect": false
+        },
+        {
+          "text": "wird die Maschine mit einem geringeren Wert in der Bilanz ausgewiesen",
+          "isCorrect": true
+        },
+        {
+          "text": "erhöht dieser den Gewinn in Höhe des Skontos",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Zu den Anschaffungsnebenkosten beim Kauf eines Gebäudes zählen",
+      "answers": [
+        {
+          "text": "Transportkosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Notariatskosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Externe Buchhalter",
+          "isCorrect": false
+        },
+        {
+          "text": "Grunderwerbsteuer",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Immaterielles Anlagevermögen",
+      "answers": [
+        {
+          "text": "darf in Österreich nur aktiviert werden, wenn es nicht selbst erstellt ist",
+          "isCorrect": true
+        },
+        {
+          "text": "ist nicht abnutzbar",
+          "isCorrect": false
+        },
+        {
+          "text": "wird im Englischen Intangible Asset Value genannt",
+          "isCorrect": false
+        },
+        {
+          "text": "unterliegt dem gemilderten Niederstwertprinzip",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Eine Holding",
+      "answers": [
+        {
+          "text": "ist eine rechtlich definierte Rechtsform",
+          "isCorrect": false
+        },
+        {
+          "text": "ist ein Konzern",
+          "isCorrect": false
+        },
+        {
+          "text": "verwendet die Begriffe Mutter und Tochter",
+          "isCorrect": true
+        },
+        {
+          "text": "integriert zumindest zwei Unternehmen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Unternehmen A wird von Unternehmen B gekauft. In der neuen Bilanz wird ein Firmenwert ausgewiesen. Dieser",
+      "answers": [
+        {
+          "text": "muss gemäß UGB abgeschrieben werden",
+          "isCorrect": true
+        },
+        {
+          "text": "entspricht dem Marktwert des Unternehmens",
+          "isCorrect": false
+        },
+        {
+          "text": "heißt Goodwill, wenn er positiv ist",
+          "isCorrect": true
+        },
+        {
+          "text": "wird derivativer Firmenwert genannt",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Wenn Sie als Privatperson Aktien eines Unternehmens",
+      "answers": [
+        {
+          "text": "verkaufen, verringert dies die Liquidität des Unternehmens",
+          "isCorrect": false
+        },
+        {
+          "text": "besitzen, halten Sie risikoreiche Papiere",
+          "isCorrect": true
+        },
+        {
+          "text": "verkaufen, verändert das dies das Eigenkapital des Unternehmens",
+          "isCorrect": false
+        },
+        {
+          "text": "halten, ist der Gegenwert in der Position 'Finanzanlagevermögen' abgebildet",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Der Firmenwert eines Unternehmens",
+      "answers": [
+        {
+          "text": "wird immer als immaterielles Anlagevermögen aktiviert",
+          "isCorrect": false
+        },
+        {
+          "text": "errechnet sich als die Differenz aus Kaufpreis und Substanzwert",
+          "isCorrect": true
+        },
+        {
+          "text": "wird laut UGB über 5 Jahre abgeschrieben",
+          "isCorrect": false
+        },
+        {
+          "text": "kann positiv oder negativ sein",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "GwG",
+      "answers": [
+        {
+          "text": "müssen als wirtschaftliche Einheit betrachtet werden",
+          "isCorrect": true
+        },
+        {
+          "text": "sind nicht im UGB verankert",
+          "isCorrect": false
+        },
+        {
+          "text": "sind zur Zeit 400 € inkl. USt",
+          "isCorrect": true
+        },
+        {
+          "text": "ist die Abkürzung für Geringwertige Wirtschaftsgüter",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Sie besitzen eine exzellente Kundendatei. Diese aktivieren Sie",
+      "answers": [
+        {
+          "text": "als Umlaufvermögen",
+          "isCorrect": false
+        },
+        {
+          "text": "als Firmenwert",
+          "isCorrect": false
+        },
+        {
+          "text": "gar nicht",
+          "isCorrect": false
+        },
+        {
+          "text": "als immaterielles Anlagevermögen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Konzerne",
+      "answers": [
+        {
+          "text": "haben eine Holding",
+          "isCorrect": false
+        },
+        {
+          "text": "sind im UGB definiert",
+          "isCorrect": true
+        },
+        {
+          "text": "bilanzieren nach UGB und gem. §243a auch nach IAS / IFRS",
+          "isCorrect": true
+        },
+        {
+          "text": "können Enkel, Töchter und Mütter haben",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+
+    {
+      "question": "Ein Konzern",
+      "answers": [
+        {
+          "text": "ist gesetzlich mit einer Holding gleichzusetzen",
+          "isCorrect": false
+        },
+        {
+          "text": "umfasst zumindest zwei Unternehmen",
+          "isCorrect": true
+        },
+        {
+          "text": "ist börsennotiert",
+          "isCorrect": false
+        },
+        {
+          "text": "hat zusätzliche Rechnungslegungsvorschriften zu erfüllen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Wertpapiere auf der Aktivseite der Bilanz",
+      "answers": [
+        {
+          "text": "sind Anlage- oder Umlaufvermögen",
+          "isCorrect": true
+        },
+        {
+          "text": "werden mit den Bilanzkursen bewertet",
+          "isCorrect": true
+        },
+        {
+          "text": "sind Eigenkapital",
+          "isCorrect": false
+        },
+        {
+          "text": "sind ausschließlich Aktien",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Wenn ein Unternehmen eine Konzernstruktur aufweist,",
+      "answers": [
+        {
+          "text": "hat es verbundene Unternehmen, assoziierte Unternehmen und Minderheitsbeteiligungen",
+          "isCorrect": false
+        },
+        {
+          "text": "ist es Konzerntochter",
+          "isCorrect": true
+        },
+        {
+          "text": "muss es eine Konzernbilanz erstellen",
+          "isCorrect": false
+        },
+        {
+          "text": "muss es jedenfalls nach IFRS bilanzieren",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Der Schatten eines alten Baumes auf Firmengelände ",
+      "answers": [
+        {
+          "text": "ist nicht ansetzbar, weil er originären Firmenwert darstellt, auch wenn Nachbarn wegen des Schattens gerne die Bäume kaufen würden",
+          "isCorrect": true
+        },
+        {
+          "text": "stellt einen immateriellen Vermögensgegenstand dar, weil er angenehm kühlt",
+          "isCorrect": false
+        },
+        {
+          "text": "wird in der G&V als Aufwand verbucht, weil der Baum die Solarzellen verdunkelt",
+          "isCorrect": false
+        },
+        {
+          "text": "ist ein immaterieller Ertrag, weil er sich positiv auf die Mitarbeiter und Mitarbeiterinnen auswirkt",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Ein Gerät, das im täglichen Gebrauch eines Unternehmens eingesetzt wird, kostet 27,90 €. In der Buchhaltung wird dieses Gerät ",
+      "answers": [
+        {
+          "text": "als GwG abgeschrieben",
+          "isCorrect": true
+        },
+        {
+          "text": "als Anlagevermögen aktiviert",
+          "isCorrect": true
+        },
+        {
+          "text": "als Umlaufvermögen aktiviert",
+          "isCorrect": false
+        },
+        {
+          "text": "als Handelswareneinsatz verbucht",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    
+      {
+        "question": "Ein Unternehmen kauft unterschiedliche Produkte aus dem Internet. Bei welchen handelt es sich um GwG?",
+        "answers": [
+          {
+            "text": "elektrischer Werkzeugkasten mit 10 Werkzeugen zu je 190 €",
+            "isCorrect": false
+          },
+          {
+            "text": "manueller Werkzeugkasten mit 5 Werkzeugen zu je 190 €",
+            "isCorrect": true
+          },
+          {
+            "text": "4 Reifen zum Weiterverkauf zu je 30 €",
+            "isCorrect": false
+          },
+          {
+            "text": "2 Taschenrechner zu je 20 €",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswersCount": 2
+      },
+      {
+        "question": "GwG",
+        "answers": [
+          {
+            "text": "steht für Geringwertige Wirtschaftsgüter",
+            "isCorrect": true
+          },
+          {
+            "text": "sind europaweit einheitlich geregelt",
+            "isCorrect": false
+          },
+          {
+            "text": "bezeichnen Anlagevermögen in Höhe bis zu 1000 € exkl. USt",
+            "isCorrect": true
+          },
+          {
+            "text": "sind steuerlich nicht absetzbar",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswersCount": 2
+      },
+      {
+        "question": "Wenn ein Spielwarenerzeuger 10 Werkzeuge zu je 190 € für die Produktion von Verpackungsmaterial benötigt, handelt es sich um",
+        "answers": [
+          {
+            "text": "GwG",
+            "isCorrect": false
+          },
+          {
+            "text": "Anlagevermögen",
+            "isCorrect": true
+          },
+          {
+            "text": "Materialaufwand",
+            "isCorrect": false
+          },
+          {
+            "text": "Umlaufvermögen",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswersCount": 1
+      },
+      {
+        "question": "Mobile Fußballtore eines großen Vereins sind",
+        "answers": [
+          {
+            "text": "Eigenkapital, weil sie vom Verein gekauft wurden",
+            "isCorrect": false
+          },
+          {
+            "text": "monetäres Umlaufvermögen, falls sie in bar gekauft wurden",
+            "isCorrect": false
+          },
+          {
+            "text": "Immaterielle Vermögensgegenstände, weil Weltfußballer X bedeutende Tore hineingeschossen hat",
+            "isCorrect": false
+          },
+          {
+            "text": "Sachanlagevermögen, weil sie dauerhaft dem Verein dienen",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswersCount": 1
+      },
+      {
+        "question": "Welches Anlagevermögen ist nicht planmäßig abnutzbar?",
+        "answers": [
+          {
+            "text": "Grundstücke",
+            "isCorrect": true
+          },
+          {
+            "text": "Gebäude",
+            "isCorrect": false
+          },
+          {
+            "text": "Kunstwerke",
+            "isCorrect": true
+          },
+          {
+            "text": "Maschinen",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswersCount": 2
+      },
+      
+        {
+          "question": "Welche Art von Vermögen kann planmäßig abgeschrieben werden?",
+          "answers": [
+            {
+              "text": "Firmenwert",
+              "isCorrect": true
+            },
+            {
+              "text": "Forderungen",
+              "isCorrect": false
+            },
+            {
+              "text": "Betriebs- und Geschäftsausstattung",
+              "isCorrect": true
+            },
+            {
+              "text": "Software",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswersCount": 3
+        },
+        {
+          "question": "Bei welcher Art von Vermögen kommt es zu keiner Folgebewertung?",
+          "answers": [
+            {
+              "text": "Lizenzen",
+              "isCorrect": false
+            },
+            {
+              "text": "Staatsanleihen",
+              "isCorrect": false
+            },
+            {
+              "text": "Forderungen",
+              "isCorrect": false
+            },
+            {
+              "text": "GwG",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswersCount": 1
+        },
+        {
+          "question": "Bei welcher Art von Anlagevermögen können selbst erstellte Anschaffungs- und Herstellungskosten in der Bilanz aktiviert werden?",
+          "answers": [
+            {
+              "text": "Firmenwert",
+              "isCorrect": false
+            },
+            {
+              "text": "Maschinen",
+              "isCorrect": true
+            },
+            {
+              "text": "Gebäude",
+              "isCorrect": true
+            },
+            {
+              "text": "Aktien",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswersCount": 2
+        },
+        {
+          "question": "Der Anlagespiegel",
+          "answers": [
+            {
+              "text": "ist gesetzlich vorgeschrieben",
+              "isCorrect": true
+            },
+            {
+              "text": "beinhaltet historische Werte und Restbuchwerte",
+              "isCorrect": true
+            },
+            {
+              "text": "besteht aus den Fixkosten der Anlagen",
+              "isCorrect": false
+            },
+            {
+              "text": "zeigt die Nutzungsdauern",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswersCount": 2
+        },
+        {
+          "question": "Wenn es nur folgende Positionen gäbe, was wäre die gesetzliche Reihenfolge der Präsentation in der Bilanz?",
+          "answers": [
+            {
+              "text": "Lizenzen – Anleihen – Grundstücke – Maschinen",
+              "isCorrect": false
+            },
+            {
+              "text": "Firmenwert – Gebäude – Betriebs- und Geschäftsausstattung – Anleihen",
+              "isCorrect": true
+            },
+            {
+              "text": "Konzessionen – technische Anlagen – Anteile an verbundenen Unternehmen – Beteiligungen",
+              "isCorrect": true
+            },
+            {
+              "text": "geleistete Anzahlungen auf immaterielles Vermögen – Bauten auf fremden Grund – Maschinen – Ausleihungen",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswersCount": 3
+        },
+        
+          {
+            "question": "Welches Vermögen ist inhaltlich im Firmenwert enthalten, auch wenn es nicht ausgewiesen werden darf?",
+            "answers": [
+              {
+                "text": "Humankapital",
+                "isCorrect": true
+              },
+              {
+                "text": "selbst erstellte Rezepturen in Eigenverwendung",
+                "isCorrect": true
+              },
+              {
+                "text": "selbst erstellte Produkte",
+                "isCorrect": false
+              },
+              {
+                "text": "Vertriebsaufwendungen",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1
+          },
+          {
+            "question": "Wenn ein Unternehmen Firmenwert in seiner Bilanz stehen hat,",
+            "answers": [
+              {
+                "text": "hat es viel in Forschung und Entwicklung investiert",
+                "isCorrect": false
+              },
+              {
+                "text": "hat es ein anderes Unternehmen aufgekauft",
+                "isCorrect": true
+              },
+              {
+                "text": "handelt es sich vielleicht um einen Konzernrechnungslegung",
+                "isCorrect": true
+              },
+              {
+                "text": "verfügt es über gute Kundenlisten",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 2
+          },
+          {
+            "question": "Ein negativer Firmenwert",
+            "answers": [
+              {
+                "text": "steht mit einem Minus unter der Position 'Immaterielles Anlagevermögen'",
+                "isCorrect": false
+              },
+              {
+                "text": "signalisiert einen vorteilhaften Unternehmenskauf",
+                "isCorrect": true
+              },
+              {
+                "text": "heißt auch badwill",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2
+          },
+          {
+            "question": "Das Finanzanlagevermögen",
+            "answers": [
+              {
+                "text": "besteht aus Aktien",
+                "isCorrect": false
+              },
+              {
+                "text": "beinhaltet alle monetären Werte des Unternehmens",
+                "isCorrect": false
+              },
+              {
+                "text": "kann außerplanmäßig abgeschrieben werden",
+                "isCorrect": true
+              },
+              {
+                "text": "präsentiert auch langfristige Unternehmensbeteiligungen",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2
+          },
+          {
+            "question": "Der Einstandspreis für einen Motorroller errechnet sich als",
+            "answers": [
+              {
+                "text": "Einkaufspreis netto",
+                "isCorrect": false
+              },
+              {
+                "text": "Einkaufspreis netto + Nebenkosten netto",
+                "isCorrect": true
+              },
+              {
+                "text": "Anschaffungspreis brutto",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1
+          },
+          
+            {
+              "question": "Wenn ein Unternehmen zum Bilanzstichtag Inventur macht, wird:",
+              "answers": [
+                {
+                  "text": "die Anwendung des Festwertverfahrens zielführend sein",
+                  "isCorrect": false
+                },
+                {
+                  "text": "dies, weil es gesetzlich vorgeschrieben ist",
+                  "isCorrect": true
+                },
+                {
+                  "text": "diese an einem einzigen Tag durchgeführt",
+                  "isCorrect": false
+                },
+                {
+                  "text": "diese genau am Bilanzstichtag durchgeführt",
+                  "isCorrect": false
+                }
+              ],
+              "correctAnswersCount": 1
+            },
+            {
+              "question": "Wenn ein Unternehmen 5 Fernseher kauft, kann dies sein:",
+              "answers": [
+                {
+                  "text": "Betriebs- und Geschäftsausstattung",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Umlaufvermögen",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Anlagevermögen",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Materialaufwand",
+                  "isCorrect": false
+                }
+              ],
+              "correctAnswersCount": 3
+            },
+            {
+              "question": "Bei Kalkulation von selbst erstelltem Umlaufvermögen sind in der Buchhaltung jedenfalls zu berücksichtigen:",
+              "answers": [
+                {
+                  "text": "Vertriebsgemeinkosten",
+                  "isCorrect": false
+                },
+                {
+                  "text": "Materialeinzelkosten",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Sonderkosten",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Personaleinzelkosten",
+                  "isCorrect": true
+                }
+              ],
+              "correctAnswersCount": 3
+            },
+            {
+              "question": "Wenn Sie auf eine neue Maschine einen Skontoabzug erhalten, dann:",
+              "answers": [
+                {
+                  "text": "reduziert dieser die Abschreibungsbasis",
+                  "isCorrect": true
+                },
+                {
+                  "text": "wird die Maschine mit einem geringeren Wert in der Bilanz ausgewiesen",
+                  "isCorrect": false
+                },
+                {
+                  "text": "erhöht dieser Ihre Verbindlichkeiten",
+                  "isCorrect": false
+                },
+                {
+                  "text": "erhöht dieser Ihren Aufwand",
+                  "isCorrect": false
+                }
+              ],
+              "correctAnswersCount": 1
+            },
+            {
+              "question": "Welche Art des Rechnungsausgleichs werden Sie als Nachhilfeinstitut bevorzugen:",
+              "answers": [
+                {
+                  "text": "Barzahlung bei Kursbeginn",
+                  "isCorrect": false
+                },
+                {
+                  "text": "Überweisung innerhalb einer definierten Zeitspanne",
+                  "isCorrect": false
+                },
+                {
+                  "text": "Auslandsforderung",
+                  "isCorrect": false
+                },
+                {
+                  "text": "Vorauszahlung bei Anmeldung",
+                  "isCorrect": true
+                }
+              ],
+              "correctAnswersCount": 2
+            },
+            {
+              "question": "Aktive Transitorien:",
+              "answers": [
+                {
+                  "text": "werden unter den Sonstigen Forderungen verbucht",
+                  "isCorrect": false
+                },
+                {
+                  "text": "sind Rechnungsabgrenzungsposten",
+                  "isCorrect": true
+                },
+                {
+                  "text": "ergeben sich aus dem Grundsatz der Periodeneinheit",
+                  "isCorrect": true
+                },
+                {
+                  "text": "werden in der Bilanz meist als ARA abgekürzt",
+                  "isCorrect": true
+                }
+              ],
+              "correctAnswersCount": 3 
+            }
+          
+          
+        
+        
+      
+      
+    
+    
+  ]
+}
