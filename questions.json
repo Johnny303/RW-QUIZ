@@ -3415,8 +3415,1235 @@
                 }
               ],
               "correctAnswersCount": 3 
-            }
-          
+            },
+            
+              {
+                "question": "Rechnungsabgrenzungsposten können wie gegliedert werden?",
+                "answers": [
+                  {
+                    "text": "können in Antizipationen und Transitionen gegliedert werden",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "können aktiv und passiv sein",
+                    "isCorrect": true
+                  },
+                  {
+                    "text": "sind wegen des Grundsatzes der Periodeneinheit zu bilden",
+                    "isCorrect": true
+                  },
+                  {
+                    "text": "betreffen die Bilanz und die G&V",
+                    "isCorrect": true
+                  }
+                ],
+                "correctAnswersCount": 3
+              },
+              {
+                "question": "Wenn ein Unternehmen seine Miete im April ein Jahr im Voraus bezahlt und der Bilanzstichtag der 31.12. ist, handelt es sich um was?",
+                "answers": [
+                  {
+                    "text": "handelt es sich um Aktive Transitorien",
+                    "isCorrect": true
+                  },
+                  {
+                    "text": "wird eine PRA in der Bilanz verbucht",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "wird der Aufwand in der G&V anteilig reduziert",
+                    "isCorrect": true
+                  },
+                  {
+                    "text": "muss eine Rechnungsabgrenzung durchgeführt werden",
+                    "isCorrect": true
+                  }
+                ],
+                "correctAnswersCount": 3
+              },
+              {
+                "question": "Forderungen gegenüber verbundenen Unternehmen sind wie zu behandeln?",
+                "answers": [
+                  {
+                    "text": "gegenüber Verbundenen Unternehmen sind aufgrund ihrer Langfristigkeit eine Position des Anlagevermögens",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "dürfen mit Verbindlichkeiten des gleichen Unternehmens auf einem gemeinsamen Konto geführt werden",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "werden als nicht-monetäres Umlaufvermögen bewertet",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "unterliegen dem strengen Niederstwertprinzip",
+                    "isCorrect": true
+                  }
+                ],
+                "correctAnswersCount": 1
+              },
+              {
+                "question": "Wenn ein Betrieb mit Bilanzstichtag 31.12. am 1.5.X1 Miete für 12 Monate zahlt, was muss er tun?",
+                "answers": [
+                  {
+                    "text": "muss er eine aktive Rechnungsabgrenzung in Höhe von 4 Monatsmieten bilden",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "muss er eine aktive Rechnungsabgrenzung in Höhe von 8 Monatsmieten bilden",
+                    "isCorrect": true
+                  },
+                  {
+                    "text": "werden alle 12 Monate in der finalen Gewinn- und Verlustrechnung ausgewiesen",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "weist er Forderungen von 8 Monatsmieten aus",
+                    "isCorrect": false
+                  }
+                ],
+                "correctAnswersCount": 1
+              },
+              {
+                "question": "Forderungen sind wie zu gliedern?",
+                "answers": [
+                  {
+                    "text": "sind nach UGB und IFRS identisch gegliedert",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "sind im Forderungsspiegel nach ihrem Risiko zu gliedern",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "dürfen mit Verbindlichkeiten desselben Unternehmens saldiert werden",
+                    "isCorrect": false
+                  },
+                  {
+                    "text": "werden laut UGB in der Bilanz in vier Unterpunkte gegliedert",
+                    "isCorrect": true
+                  }
+                ],
+                "correctAnswersCount": 1
+              },
+              
+                {
+                  "question": "Ein Unternehmen vermietet Räumlichkeiten von Mai X6 bis April X7 und der Kunde zahlt sofort. Sie buchen",
+                  "answers": [
+                    {
+                      "text": "passive Transitorien",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "aktive Transitorien",
+                      "isCorrect": true
+                    },
+                    {
+                      "text": "aktive Antizipationen",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "passive Antizipationen",
+                      "isCorrect": false
+                    }
+                  ],
+                  "correctAnswersCount": 1
+                },
+                {
+                  "question": "Handelswaren im Wert von insgesamt 300 €",
+                  "answers": [
+                    {
+                      "text": "sind Anlagevermögen",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "sind Umlaufvermögen",
+                      "isCorrect": true
+                    },
+                    {
+                      "text": "sind GWs",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "sind Materialaufwand",
+                      "isCorrect": false
+                    }
+                  ],
+                  "correctAnswersCount": 1
+                },
+                {
+                  "question": "In der Bilanzposition „Kassa“ verrechnet eine AG auch",
+                  "answers": [
+                    {
+                      "text": "Münzen in Fremdwährungen",
+                      "isCorrect": true
+                    },
+                    {
+                      "text": "Schecks",
+                      "isCorrect": true
+                    },
+                    {
+                      "text": "Wechsel",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "Kurzfristig gehaltene Wertpapiere",
+                      "isCorrect": true
+                    }
+                  ],
+                  "correctAnswersCount": 3
+                },
+                {
+                  "question": "Bei einem Schraubenhändler werden die Muttern zu den Schrauben verbucht als",
+                  "answers": [
+                    {
+                      "text": "Anlagevermögen",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "Materialaufwand",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "GWG",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "Umlaufvermögen",
+                      "isCorrect": true
+                    }
+                  ],
+                  "correctAnswersCount": 1
+                },
+                {
+                  "question": "Wenn ein Bauer selbst Honig produziert, handelt es sich dabei um",
+                  "answers": [
+                    {
+                      "text": "selbsterstellte Erzeugnisse",
+                      "isCorrect": true
+                    },
+                    {
+                      "text": "Handelsware",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "Umsatz",
+                      "isCorrect": false
+                    },
+                    {
+                      "text": "Vorräte",
+                      "isCorrect": true
+                    }
+                  ],
+                  "correctAnswersCount": 2
+                },
+                
+                  {
+                    "question": "Was sind in einem Café 50 Sessel und 7 Sonnenschirme, die bei Ersteinrichtung zu je 72 € eingekauft wurden?",
+                    "answers": [
+                      {
+                        "text": "GwG",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "Betriebs- und Geschäftsausstattung",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "Anlagevermögen",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "Umlaufvermögen",
+                        "isCorrect": false
+                      }
+                    ],
+                    "correctAnswersCount": 2
+                  },
+                  {
+                    "question": "Wenn ein Hotel selbstgebrannte Schnäpse erzeugt und vertreibt, werden diese",
+                    "answers": [
+                      {
+                        "text": "zum Umlaufvermögen gezählt",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "zur Gänze im Materialaufwand verbucht",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "wie folgt kalkuliert: MEK+MGK+FEK+FGK+ Allgemeine Verwaltungsgemeinkosten",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "als Handelsware ausgewiesen",
+                        "isCorrect": false
+                      }
+                    ],
+                    "correctAnswersCount": 1
+                  },
+                  {
+                    "question": "Vorräte für einen Schiliftbetreiber sind",
+                    "answers": [
+                      {
+                        "text": "ein Notstromaggregat",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "Merchandising-Produkte, z.B. Aufkleber",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "Wasserreserven für die Pistenpräparierung",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "Schistücke zum Verkauf",
+                        "isCorrect": true
+                      }
+                    ],
+                    "correctAnswersCount": 3
+                  },
+                  {
+                    "question": "Wenn ein europäischer Sportverein über die Ablöse eines brasilianischen Spielers verhandelt, ist welche Währung risikoadvers?",
+                    "answers": [
+                      {
+                        "text": "$",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "SFR",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "€",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "BRL",
+                        "isCorrect": false
+                      }
+                    ],
+                    "correctAnswersCount": 1
+                  },
+                  {
+                    "question": "Beim FIFO-Verfahren (denken Sie logisch)",
+                    "answers": [
+                      {
+                        "text": "werden Durchschnittskosten berechnet",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "wird zuerst der Wert als Handelswareneinsatz genommen, der als Erstes eingekauft wurde; wenn dieser abgebucht ist, der Zweite ….",
+                        "isCorrect": true
+                      },
+                      {
+                        "text": "wird der Schwund mit dem Preis des letzten Einkaufs berechnet",
+                        "isCorrect": false
+                      },
+                      {
+                        "text": "werden implizit Inflationsanstiege berücksichtigt",
+                        "isCorrect": true
+                      }
+                    ],
+                    "correctAnswersCount": 2
+                  },
+                  
+                    {
+                      "question": "Wenn ein oberösterreichisches Hotel mit Ländern, die diese Währungen verwenden, langfristige Verträge abschließen wird, welche Währung wird in Zeiten starker Währungsschwankungen und Risikoaversion bevorzugt?",
+                      "answers": [
+                        {
+                          "text": "€",
+                          "isCorrect": true
+                        },
+                        {
+                          "text": "£",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "$",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "JPY",
+                          "isCorrect": false
+                        }
+                      ],
+                      "correctAnswersCount": 1
+                    },
+                    {
+                      "question": "In welcher der Positionen steckt das geringste Risiko?",
+                      "answers": [
+                        {
+                          "text": "Grundstücke",
+                          "isCorrect": true
+                        },
+                        {
+                          "text": "Rückstellungen",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "Vorräte",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "Girokonto",
+                          "isCorrect": false
+                        }
+                      ],
+                      "correctAnswersCount": 1
+                    },
+                    {
+                      "question": "Bei der Kalkulation der Herstellungskosten einer selbstgemachten Torte sind welche Kosten jedenfalls NICHT inkludiert?",
+                      "answers": [
+                        {
+                          "text": "Materialeinzelkosten",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "Sonderkosten für einen speziellen Zuckerguss",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "Vertriebsgemeinkosten",
+                          "isCorrect": true
+                        },
+                        {
+                          "text": "Fertigungseinzelkosten",
+                          "isCorrect": false
+                        }
+                      ],
+                      "correctAnswersCount": 1
+                    },
+                    {
+                      "question": "Welche Positionen des Umlaufvermögens werden nicht bewertet?",
+                      "answers": [
+                        {
+                          "text": "Anzahlungen",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "sonstige Forderungen",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "Kassa",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "es wird grundsätzlich alles bewertet",
+                          "isCorrect": true
+                        }
+                      ],
+                      "correctAnswersCount": 1
+                    },
+                    {
+                      "question": "Warum bzw. wann ist auch monetäres Umlaufvermögen zu bewerten?",
+                      "answers": [
+                        {
+                          "text": "bei Fremdwährungen",
+                          "isCorrect": true
+                        },
+                        {
+                          "text": "weil Anlagevermögen genauso bewertet wird",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "Inflationsbereinigung",
+                          "isCorrect": false
+                        },
+                        {
+                          "text": "gesetzliche Vorschrift",
+                          "isCorrect": true
+                        }
+                      ],
+                      "correctAnswersCount": 2
+                    },
+                    
+                      {
+                        "question": "Was ist bei einer Folgebewertung im Umlaufvermögen speziell zu beachten?",
+                        "answers": [
+                          {
+                            "text": "Erstellung des Umlaufvermögensspiegels",
+                            "isCorrect": false
+                          },
+                          {
+                            "text": "Fremdwährungskurse",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "Schwund",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "Marktwerte am Bilanzstichtag",
+                            "isCorrect": true
+                          }
+                        ],
+                        "correctAnswersCount": 3
+                      },
+                      {
+                        "question": "Werden alle Forderungen, die in der Bilanz aktiviert sind, nach identischen Vorschriften bewertet?",
+                        "answers": [
+                          {
+                            "text": "ja, weil alle Forderungen im Umlaufvermögen stehen und strenges Niederstwertprinzip gilt",
+                            "isCorrect": false
+                          },
+                          {
+                            "text": "nein, weil Forderungen des Umlaufvermögens je nach ihren vier Unterteilungen anders zu bewerten sind",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "nein, weil auch Forderungen existieren, die nicht im Umlaufvermögen stehen",
+                            "isCorrect": false
+                          },
+                          {
+                            "text": "ja, weil alle Forderungen und Verbindlichkeiten nach gleichem Maßstab zu bewerten sind",
+                            "isCorrect": false
+                          }
+                        ],
+                        "correctAnswersCount": 1
+                      },
+                      {
+                        "question": "Welches Risiko kann im monetären Umlaufvermögen stecken?",
+                        "answers": [
+                          {
+                            "text": "Der Kunde kann nicht mehr zahlen",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "Die Fremdwährungen meiner Forderungen verschlechtern sich",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "Ich habe einen Liquiditätsengpass",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "Die Börsenkurse sinken",
+                            "isCorrect": false
+                          }
+                        ],
+                        "correctAnswersCount": 3
+                      },
+                      {
+                        "question": "Vermögen wird als kurzfristig definiert, wenn es",
+                        "answers": [
+                          {
+                            "text": "maximal ein Jahr im Unternehmen verbleibt",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "den Charakter von Umlaufvermögen hat",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "dazu dient, rasch umgeschlagen zu werden und die Umsätze zu erhöhen",
+                            "isCorrect": false
+                          },
+                          {
+                            "text": "die Restnutzungsdauer weniger als die Hälfte der historischen Nutzungsdauer beträgt",
+                            "isCorrect": false
+                          }
+                        ],
+                        "correctAnswersCount": 2
+                      },
+                      {
+                        "question": "Wertpapiere stehen im Umlaufvermögen, wenn sie",
+                        "answers": [
+                          {
+                            "text": "Aktien sind",
+                            "isCorrect": false
+                          },
+                          {
+                            "text": "zum baldigen Verkauf vorgesehen sind",
+                            "isCorrect": true
+                          },
+                          {
+                            "text": "Forderungscharakter haben",
+                            "isCorrect": false
+                          },
+                          {
+                            "text": "eigene Anleihen sind",
+                            "isCorrect": false
+                          }
+                        ],
+                        "correctAnswersCount": 1
+                      },
+                      
+                        {
+                          "question": "Bei der Präsentation des Umlaufvermögens muss was beachtet werden?",
+                          "answers": [
+                            {
+                              "text": "muss ein Umlaufvermögensspiegel errichtet werden",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "sind nähere Informationen im Anhang zu finden",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "wird nach der Liquidität gegliedert",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "sind 4 Unterkategorien vorgeschrieben",
+                              "isCorrect": false
+                            }
+                          ],
+                          "correctAnswersCount": 2
+                        },
+                        {
+                          "question": "In der Bilanzposition Kassa werden welche Posten zusammengefasst?",
+                          "answers": [
+                            {
+                              "text": "Bargeld",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "Girokonten",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "kurzfristige Forderungen",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "Wechsel",
+                              "isCorrect": true
+                            }
+                          ],
+                          "correctAnswersCount": 3
+                        },
+                        {
+                          "question": "Wenn es nur diese Positionen im Umlaufvermögen gäbe, welche Reihenfolge wäre dann in der Bilanz lt. Mindestgliederung korrekt?",
+                          "answers": [
+                            {
+                              "text": "fertige Erzeugnisse und Waren – sonstige Forderungen und Vermögensgegenstände – Kassa – Girokonto",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "unfertige Erzeugnisse – Forderungen aus Lieferungen und Leistungen – sonstige Wertpapiere – Kassa",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "Roh-, Hilfs- und Betriebsstoffe – Forderungen gegenüber verbundenen Unternehmen – Anteile an verbundenen Unternehmen – Rechnungsabgrenzungsposten",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "Noch nicht geleistete Anzahlungen – Forderungen aus Lieferungen und Leistungen – sonstige Wertpapiere – Kassa",
+                              "isCorrect": true
+                            }
+                          ],
+                          "correctAnswersCount": 2
+                        },
+                        {
+                          "question": "Unfertige Erzeugnisse haben welche Eigenschaften?",
+                          "answers": [
+                            {
+                              "text": "werden im Materialaufwand abgebildet",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "unterliegen der planmäßigen Abschreibung",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "werden als Antizipationen abgegrenzt",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "beziehen sich auf selbst erstellte Produkte",
+                              "isCorrect": true
+                            }
+                          ],
+                          "correctAnswersCount": 1
+                        },
+                        {
+                          "question": "Bilanziell liegt der Unterschied zwischen Handelsware und selbst erstellten Produkten worin?",
+                          "answers": [
+                            {
+                              "text": "in den unterschiedlichen Bewertungsprinzipien",
+                              "isCorrect": false
+                            },
+                            {
+                              "text": "in der unterschiedlichen Verbuchung",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "im getrennten Ausweis in der Bilanz",
+                              "isCorrect": true
+                            },
+                            {
+                              "text": "in der Einbeziehung des Verwaltungsaufwandes in die Kalkulation",
+                              "isCorrect": false
+                            }
+                          ],
+                          "correctAnswersCount": 2
+                        },
+                        
+                          {
+                            "question": "Ein Hotel hat nicht alle Versprechungen in den Werbeprospekten erfüllt. Erste Kunden klagen. In welcher Bilanzposition spiegeln sich am Bilanzstichtag möglicherweise künftige Zahlungen in der Bilanz des laufenden Geschäftsjahres wider?",
+                            "answers": [
+                              {
+                                "text": "Verbindlichkeiten",
+                                "isCorrect": false
+                              },
+                              {
+                                "text": "Rückstellungen",
+                                "isCorrect": true
+                              },
+                              {
+                                "text": "Rücklagen",
+                                "isCorrect": false
+                              },
+                              {
+                                "text": "Kassa/Bank",
+                                "isCorrect": false
+                              }
+                            ],
+                            "correctAnswersCount": 1,
+                            "Kapitel": 5
+                          },
+                          {
+                            "question": "Sie legen für die künftige Erweiterung eines Parkplatzes 2000 € aus dem Gewinn beiseite.",
+                            "answers": [
+                              {
+                                "text": "Wenn Sie doch nicht bauen, wird die Rücklage jedenfalls aufgelöst",
+                                "isCorrect": false
+                              },
+                              {
+                                "text": "Dieser Betrag wird als Materialaufwand verbucht",
+                                "isCorrect": false
+                              },
+                              {
+                                "text": "Diese Rückstellungen stehen auf der Passivseite der Bilanz",
+                                "isCorrect": true
+                              },
+                              {
+                                "text": "Dieser Betrag wird in der G&V dotiert",
+                                "isCorrect": false
+                              }
+                            ],
+                            "correctAnswersCount": 1,
+                            "Kapitel": 5
+                          },
+                          {
+                            "question": "Gewinnrücklagen",
+                            "answers": [
+                              {
+                                "text": "sind versteuert",
+                                "isCorrect": true
+                              },
+                              {
+                                "text": "sind ungesichert",
+                                "isCorrect": false
+                              },
+                              {
+                                "text": "sind Teil des Eigenkapitals",
+                                "isCorrect": true
+                              },
+                              {
+                                "text": "werden dotiert",
+                                "isCorrect": true
+                              }
+                            ],
+                            "correctAnswersCount": 3,
+                            "Kapitel": 5
+                          },
+                          {
+                            "question": "Die Verbindlichkeiten, die unter der Bilanzsumme stehen,",
+                            "answers": [
+                              {
+                                "text": "sind der Anteil der Verbindlichkeiten, welche weniger als fünf Jahre alt sind",
+                                "isCorrect": false
+                              },
+                              {
+                                "text": "repräsentieren Risiko",
+                                "isCorrect": true
+                              },
+                              {
+                                "text": "sind Eventualverbindlichkeiten",
+                                "isCorrect": true
+                              },
+                              {
+                                "text": "sind innerhalb des Konzerns zurückzuzahlen",
+                                "isCorrect": false
+                              }
+                            ],
+                            "correctAnswersCount": 2,
+                            "Kapitel": 5
+                          },
+                          {
+                            "question": "Wenn ein Unternehmen einen Gewinnvortrag verbucht,",
+                            "answers": [
+                              {
+                                "text": "wird dieser versteuert",
+                                "isCorrect": false
+                              },
+                              {
+                                "text": "wird er über 7 Jahre abgeschrieben",
+                                "isCorrect": false
+                              },
+                              {
+                                "text": "steht er in der letzten Zeile der G&V vor dem Bilanzgewinn",
+                                "isCorrect": true
+                              },
+                              {
+                                "text": "\"wird dieser unter Verbindlichkeiten gegenüber Shareholdern\" verbucht",
+                                "isCorrect": false
+                              }
+                            ],
+                            "correctAnswersCount": 1,
+                            "Kapitel": 5
+                          },
+                          
+                            {
+                              "question": "Wenn ein Produkt eines Unternehmens fehlerhaft sein könnte und der betroffene Kunde nächstes Jahr ein Recht auf Ersatz hat,",
+                              "answers": [
+                                {
+                                  "text": "reduziert das Produkt bereits heuer die Liquidität",
+                                  "isCorrect": false
+                                },
+                                {
+                                  "text": "bildet das Unternehmen eine Garantierückstellung",
+                                  "isCorrect": true
+                                },
+                                {
+                                  "text": "weist das Unternehmen einen geringeren Gewinn aus",
+                                  "isCorrect": true
+                                },
+                                {
+                                  "text": "dotiert das Unternehmen eine Garantierücklage",
+                                  "isCorrect": false
+                                }
+                              ],
+                              "correctAnswersCount": 2,
+                              "Kapitel": 5
+                            },
+                            {
+                              "question": "Wenn ein Unternehmen nächstes Jahr seine Gastherme verpflichtend reparieren lassen muss, obwohl es gesetzlich bereits heuer vorgeschrieben gewesen wäre, verbucht es eine",
+                              "answers": [
+                                {
+                                  "text": "Rücklage",
+                                  "isCorrect": false
+                                },
+                                {
+                                  "text": "Anzahlung",
+                                  "isCorrect": false
+                                },
+                                {
+                                  "text": "Verbindlichkeit",
+                                  "isCorrect": false
+                                },
+                                {
+                                  "text": "Rückstellung",
+                                  "isCorrect": true
+                                }
+                              ],
+                              "correctAnswersCount": 1,
+                              "Kapitel": 5
+                            },
+                            {
+                              "question": "Ein Unternehmen schreibt per Gesetz Eventualverbindlichkeiten",
+                              "answers": [
+                                {
+                                  "text": "unter der Position „Rückstellungen“ in die Bilanz",
+                                  "isCorrect": false
+                                },
+                                {
+                                  "text": "unter die Bilanzsumme",
+                                  "isCorrect": true
+                                },
+                                {
+                                  "text": "in den Lagebericht",
+                                  "isCorrect": false
+                                },
+                                {
+                                  "text": "unter der Position „Verbindlichkeiten“ in die Bilanz",
+                                  "isCorrect": false
+                                }
+                              ],
+                              "correctAnswersCount": 1,
+                              "Kapitel": 5
+                            },
+                            {
+                              "question": "Kapitalrücklagen Ihres Nachhilfeinstituts können entstehen, wenn Sie",
+                              "answers": [
+                                {
+                                  "text": "offene Schulden als Sicherheit rückstellen",
+                                  "isCorrect": false
+                                },
+                                {
+                                  "text": "Gewinn rückstellen",
+                                  "isCorrect": false
+                                },
+                                {
+                                  "text": "Höheres Eigenkapital einzahlen als im Nennkapital ausgewiesen ist",
+                                  "isCorrect": true
+                                },
+                                {
+                                  "text": "Fremdkapital aufnehmen",
+                                  "isCorrect": false
+                                }
+                              ],
+                              "correctAnswersCount": 1,
+                              "Kapitel": 5
+                            },
+                            {
+                              "question": "Eigene Aktien stehen in der",
+                              "answers": [
+                                {
+                                  "text": "Bilanz auf der Passivseite",
+                                  "isCorrect": true
+                                },
+                                {
+                                  "text": "&G auf der Aktivseite",
+                                  "isCorrect": false
+                                },
+                                {
+                                  "text": "&G auf der Passivseite",
+                                  "isCorrect": false
+                                },
+                                {
+                                  "text": "&G auf der Aktivseite",
+                                  "isCorrect": false
+                                }
+                              ],
+                              "correctAnswersCount": 1,
+                              "Kapitel": 5
+                            },
+                            
+                              {
+                                "question": "Ein Metallwarenerzeuger muss Rückstellungen bilden, weil",
+                                "answers": [
+                                  {
+                                    "text": "es dem Vorsichtsprinzip entspricht",
+                                    "isCorrect": true
+                                  },
+                                  {
+                                    "text": "das Eigenkapital erhöht werden muss",
+                                    "isCorrect": false
+                                  },
+                                  {
+                                    "text": "es für bestimmte Aufwendungen gesetzliche Regelungen gibt",
+                                    "isCorrect": true
+                                  },
+                                  {
+                                    "text": "die Höhe des zu zahlenden Betrages unklar ist",
+                                    "isCorrect": true
+                                  }
+                                ],
+                                "correctAnswersCount": 3,
+                                "Kapitel": 5
+                              },
+                              {
+                                "question": "Ein Fahrradverleih hat 900 € Gewinnrücklagen. Diese könnten wie folgt entstanden sein:",
+                                "answers": [
+                                  {
+                                    "text": "600 € in X0 direkt aus Eigenkapitalerhöhung und 300 € in X1 aus Gewinnthesaurierung",
+                                    "isCorrect": false
+                                  },
+                                  {
+                                    "text": "900 € in X0 aus Gewinnthesaurierung",
+                                    "isCorrect": true
+                                  },
+                                  {
+                                    "text": "500 € in X0 aus Gewinnthesaurierung und 400 € in X1 aus dem Agio der Kapitalerhöhung in X1",
+                                    "isCorrect": false
+                                  },
+                                  {
+                                    "text": "400 € in X0 und 500 € in X1 aus Gewinnthesaurierung",
+                                    "isCorrect": true
+                                  }
+                                ],
+                                "correctAnswersCount": 1,
+                                "Kapitel": 5
+                              },
+                              {
+                                "question": "Die Privatentnahmen eines Unternehmers",
+                                "answers": [
+                                  {
+                                    "text": "verändern nicht den Gewinn",
+                                    "isCorrect": true
+                                  },
+                                  {
+                                    "text": "verändern nicht das Eigenkapital",
+                                    "isCorrect": false
+                                  },
+                                  {
+                                    "text": "können auch in Naturalien geschehen",
+                                    "isCorrect": true
+                                  },
+                                  {
+                                    "text": "sind abzuschreiben",
+                                    "isCorrect": false
+                                  }
+                                ],
+                                "correctAnswersCount": 2,
+                                "Kapitel": 5
+                              },
+                              {
+                                "question": "Rückstellungen für Abfertigung des Personals werden:",
+                                "answers": [
+                                  {
+                                    "text": "dotiert",
+                                    "isCorrect": false
+                                  },
+                                  {
+                                    "text": "gebildet",
+                                    "isCorrect": true
+                                  },
+                                  {
+                                    "text": "aufgelöst",
+                                    "isCorrect": true
+                                  },
+                                  {
+                                    "text": "zugewiesen",
+                                    "isCorrect": false
+                                  }
+                                ],
+                                "correctAnswersCount": 2,
+                                "Kapitel": 5
+                              },
+                              {
+                                "question": "Für welche potenziellen Verluste oder Zahlungen darf ein Schiliftbetreiber gemäß UGB-Rückstellungen bilden?",
+                                "answers": [
+                                  {
+                                    "text": "Pensionsrückstellungen",
+                                    "isCorrect": true
+                                  },
+                                  {
+                                    "text": "Produktionsausfall aufgrund fehlender Wartung",
+                                    "isCorrect": false
+                                  },
+                                  {
+                                    "text": "Steuerrückstellungen",
+                                    "isCorrect": true
+                                  },
+                                  {
+                                    "text": "Rückzahlungsansprüche aufgrund Schiliftgebrechens",
+                                    "isCorrect": true
+                                  }
+                                ],
+                                "correctAnswersCount": 3,
+                                "Kapitel": 5
+                              },
+                              
+                                {
+                                  "question": "Die Passivseite der Bilanz eines Unternehmens könnte beinhalten:",
+                                  "answers": [
+                                    {
+                                      "text": "Kapitalrücklagen",
+                                      "isCorrect": true
+                                    },
+                                    {
+                                      "text": "Wechselverbindlichkeiten",
+                                      "isCorrect": true
+                                    },
+                                    {
+                                      "text": "Bestandsveränderungen",
+                                      "isCorrect": false
+                                    },
+                                    {
+                                      "text": "Steuerrückstellungen",
+                                      "isCorrect": true
+                                    }
+                                  ],
+                                  "correctAnswersCount": 3,
+                                  "Kapitel": 5
+                                },
+                                {
+                                  "question": "Die Gewinnrücklagen in einer Bilanz",
+                                  "answers": [
+                                    {
+                                      "text": "sind Fremdkapital",
+                                      "isCorrect": false
+                                    },
+                                    {
+                                      "text": "wurden dotiert",
+                                      "isCorrect": true
+                                    },
+                                    {
+                                      "text": "werden per Gesetz im Folgejahr als Gewinn ausgeschüttet",
+                                      "isCorrect": false
+                                    },
+                                    {
+                                      "text": "werden über 7 Jahre abgeschrieben",
+                                      "isCorrect": false
+                                    }
+                                  ],
+                                  "correctAnswersCount": 1,
+                                  "Kapitel": 5
+                                },
+                                {
+                                  "question": "Es sind gemäß UGB folgende Eigenkapitalpositionen vorgesehen:",
+                                  "answers": [
+                                    {
+                                      "text": "Kapitalrücklagen",
+                                      "isCorrect": true
+                                    },
+                                    {
+                                      "text": "satzungsmäßige Rücklagen",
+                                      "isCorrect": true
+                                    },
+                                    {
+                                      "text": "freie Rücklagen",
+                                      "isCorrect": true
+                                    },
+                                    {
+                                      "text": "sonstige Rückstellungen",
+                                      "isCorrect": false
+                                    }
+                                  ],
+                                  "correctAnswersCount": 3,
+                                  "Kapitel": 5
+                                },
+                                {
+                                  "question": "Der Spielwarenerzeuger weiß, dass in X1 6% aller Bausteine fehlerhaft sind. Das bedeutet in der Buchhaltung, wenn keine weiteren Informationen vorliegen:",
+                                  "answers": [
+                                    {
+                                      "text": "dass der ausgewiesene Gewinn in X2 sinkt",
+                                      "isCorrect": false
+                                    },
+                                    {
+                                      "text": "dass Gewinnrücklagen aufzulösen sind",
+                                      "isCorrect": false
+                                    },
+                                    {
+                                      "text": "dass eine Garantierückstellung zu bilden ist",
+                                      "isCorrect": true
+                                    },
+                                    {
+                                      "text": "dass in X2 die Liquidität sinkt",
+                                      "isCorrect": false
+                                    }
+                                  ],
+                                  "correctAnswersCount": 1,
+                                  "Kapitel": 5
+                                },
+                                {
+                                  "question": "Die Auslandsschulden eines Unternehmens",
+                                  "answers": [
+                                    {
+                                      "text": "müssen in bar beglichen werden",
+                                      "isCorrect": false
+                                    },
+                                    {
+                                      "text": "können aus Materialeinkäufen aus dem Ausland resultieren",
+                                      "isCorrect": true
+                                    },
+                                    {
+                                      "text": "können durch ausländische Bankkredite verursacht werden",
+                                      "isCorrect": true
+                                    },
+                                    {
+                                      "text": "müssen nach strengem Höchstwertprinzip bewertet werden",
+                                      "isCorrect": true
+                                    }
+                                  ],
+                                  "correctAnswersCount": 3,
+                                  "Kapitel": 5
+                                },
+                                  {
+                                    "question": "Wenn eine Universität damit rechnen muss, zu viel einbezahlte Studiengebühren in den Folgejahren rücküberweisen zu müssen, wird sie",
+                                    "answers": [
+                                      {
+                                        "text": "Rücklagen aufbauen",
+                                        "isCorrect": false
+                                      },
+                                      {
+                                        "text": "Rückstellungen bilden",
+                                        "isCorrect": true
+                                      },
+                                      {
+                                        "text": "Verbindlichkeiten buchen",
+                                        "isCorrect": false
+                                      },
+                                      {
+                                        "text": "Forderungen ausweisen",
+                                        "isCorrect": false
+                                      }
+                                    ],
+                                    "correctAnswersCount": 1,
+                                    "Kapitel": 5
+                                  },
+                                  {
+                                    "question": "Wenn ein Unternehmen ihren Mitarbeitern je nach Betriebszugehörigkeit Jubiläumsgelder zahlen muss,",
+                                    "answers": [
+                                      {
+                                        "text": "muss es die künftigen Beträge unter Personalrücklagen buchen",
+                                        "isCorrect": true
+                                      },
+                                      {
+                                        "text": "ist der jeweilige Betrag in den Sonstigen Rückstellungen enthalten",
+                                        "isCorrect": true
+                                      },
+                                      {
+                                        "text": "wird dies im Anhang angegeben",
+                                        "isCorrect": false
+                                      },
+                                      {
+                                        "text": "werden Rücklagen aufgelöst, wenn der Mitarbeiter selber kündigt",
+                                        "isCorrect": false
+                                      }
+                                    ],
+                                    "correctAnswersCount": 2,
+                                    "Kapitel": 5
+                                  },
+                                  {
+                                    "question": "Wenn eine Aktiengesellschaft erstmals an die Börse geht, erhöht / erhöhen sich",
+                                    "answers": [
+                                      {
+                                        "text": "ihr Nennkapital",
+                                        "isCorrect": true
+                                      },
+                                      {
+                                        "text": "die Zahlungsmittel",
+                                        "isCorrect": true
+                                      },
+                                      {
+                                        "text": "der Gewinn",
+                                        "isCorrect": false
+                                      },
+                                      {
+                                        "text": "die Bilanzsumme",
+                                        "isCorrect": true
+                                      }
+                                    ],
+                                    "correctAnswersCount": 3,
+                                    "Kapitel": 5
+                                  },
+                                  {
+                                    "question": "Rückstellungen",
+                                    "answers": [
+                                      {
+                                        "text": "sind Eigenkapital",
+                                        "isCorrect": false
+                                      },
+                                      {
+                                        "text": "sind gesetzlich definiert",
+                                        "isCorrect": true
+                                      },
+                                      {
+                                        "text": "erhöhen teilweise die Risikokapitalquote",
+                                        "isCorrect": true
+                                      },
+                                      {
+                                        "text": "sind ungewiss",
+                                        "isCorrect": true
+                                      }
+                                    ],
+                                    "correctAnswersCount": 3,
+                                    "Kapitel": 5
+                                  }
+                                
+                                
+                              
+                              
+                            
+
           
         
         
