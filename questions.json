@@ -6164,6 +6164,1328 @@
       ],
       "correctAnswersCount": 2,
       "Kapitel": 6
+    },
+
+    {
+      "question": "Ein Unternehmen führt eine Betriebsanalyse durch und analysiert im Gegensatz zur Abschlussanalyse externer Stakeholder",
+      "answers": [
+        {
+          "text": "die veröffentlichte Bilanz",
+          "isCorrect": false
+        },
+        {
+          "text": "die internen Daten aus der Buchhaltung und Kostenrechnung",
+          "isCorrect": true
+        },
+        {
+          "text": "die interne Bilanz",
+          "isCorrect": true
+        },
+        {
+          "text": "die Steuerbilanz",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Die Abkürzung OeNB steht für",
+      "answers": [
+        {
+          "text": "Oesterreichische Notenbank",
+          "isCorrect": false
+        },
+        {
+          "text": "Oesterreichische Nationalbank",
+          "isCorrect": true
+        },
+        {
+          "text": "Oesterreichische Nationalbörse",
+          "isCorrect": false
+        },
+        {
+          "text": "Öffentliche Nationalbibliothek",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 7
+    },
+    {
+      "question": "Forderungen aus Lieferungen und Leistungen",
+      "answers": [
+        {
+          "text": "sollten in einer genauen Berechnung für die Bilanzanalyse in einem zusätzlichen Rechenschritt bereinigt werden",
+          "isCorrect": true
+        },
+        {
+          "text": "können in den Forderungen gegenüber Verbundenen Unternehmen enthalten sein",
+          "isCorrect": true
+        },
+        {
+          "text": "enthalten Forderungen gegenüber Verbundenen Unternehmen",
+          "isCorrect": false
+        },
+        {
+          "text": "können mit den Verbindlichkeiten aus Lieferungen und Leistungen saldiert werden",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Wenn ein Unternehmen eine Reinvestitionsquote von 70% aufweist,",
+      "answers": [
+        {
+          "text": "wurde mehr Anlagevermögen verkauft als eingekauft",
+          "isCorrect": false
+        },
+        {
+          "text": "sollte man sich jedenfalls auch die Kennzahlen der vergangenen 3 Jahre ansehen",
+          "isCorrect": true
+        },
+        {
+          "text": "ist diese Kennzahl berechnet als Abschreibung/Investitionen",
+          "isCorrect": false
+        },
+        {
+          "text": "bedeutet dies einen Substanzverlust",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Die Verschuldungsquote in der Bilanzanalyse",
+      "answers": [
+        {
+          "text": "bezieht sich auf die Verbindlichkeiten LL, wobei die Verbindlichkeiten aus Lieferungen und Leistungen gegenüber Verbundenen Unternehmen und Unternehmen, mit denen ein Beteiligungsverhältnis besteht, einbezogen werden sollten",
+          "isCorrect": true
+        },
+        {
+          "text": "- vereinfacht gesprochen - aus, wie hoch die Verschuldung gegenüber den Lieferanten ist",
+          "isCorrect": false
+        },
+        {
+          "text": "- sagt aus, wie hoch das Fremdkapital des Unternehmens in % zur Bilanzsumme ist",
+          "isCorrect": true
+        },
+        {
+          "text": "- kann sich nach Anwendung der gesetzlichen Bewertungsvorschriften verändern",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+
+    {
+      "question": "Ein Unternehmen hat eine hohe Forderungsintensität. Das bedeutet, dass",
+      "answers": [
+        {
+          "text": "alle Forderungen im Verhältnis zur Bilanzsumme einen überdurchschnittlichen Wert einnehmen",
+          "isCorrect": true
+        },
+        {
+          "text": "das Unternehmen ein hohes Risiko trägt, ob die Forderungen überhaupt einbringlich sind",
+          "isCorrect": false
+        },
+        {
+          "text": "das Unternehmen seine Liquidität 1. Grades erhöhen könnte, wenn es die Forderungen eintreibt",
+          "isCorrect": true
+        },
+        {
+          "text": "das Unternehmen wahrscheinlich im Einzelhandel tätig ist",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Wenn ein Unternehmen eine Anlagenintensität von 70% hat,",
+      "answers": [
+        {
+          "text": "bedeutet das eine hohe Liquidität",
+          "isCorrect": false
+        },
+        {
+          "text": "ist dies in der Regel ein hoher Wert",
+          "isCorrect": true
+        },
+        {
+          "text": "ist dies ein guter Wert",
+          "isCorrect": false
+        },
+        {
+          "text": "bedeutet das eine hohe Kapitalbindung",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Welche Instrumente kann man für eine Bilanzanalyse verwenden?",
+      "answers": [
+        {
+          "text": "Neuronale Netze",
+          "isCorrect": false
+        },
+        {
+          "text": "Kennzahlenanalyse",
+          "isCorrect": true
+        },
+        {
+          "text": "Kennzahlensysteme",
+          "isCorrect": true
+        },
+        {
+          "text": "Diskriminantenanalyse",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Ein hohes Anlagevermögen bedeutet für ein Unternehmen",
+      "answers": [
+        {
+          "text": "geringe Abschreibungsintensität",
+          "isCorrect": false
+        },
+        {
+          "text": "weniger Flexibilität",
+          "isCorrect": true
+        },
+        {
+          "text": "hohe Belastung mit Fremdkapitalzinsen",
+          "isCorrect": false
+        },
+        {
+          "text": "hohe Kapitalbindung",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Was kann ein Unternehmen, das eine langfristige Reinvestitionsquote unter 1 hat, betriebswirtschaftlich sinnvoll tun?",
+      "answers": [
+        {
+          "text": "renovieren",
+          "isCorrect": false
+        },
+        {
+          "text": "höhere Investitionen tätigen",
+          "isCorrect": true
+        },
+        {
+          "text": "Leasing",
+          "isCorrect": true
+        },
+        {
+          "text": "weniger abschreiben",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+
+    {
+      "question": "Ein hohes immaterielles Anlagevermögen ist wahrscheinlich ein Anzeichen dafür, dass",
+      "answers": [
+        {
+          "text": "das Unternehmen viel forscht",
+          "isCorrect": true
+        },
+        {
+          "text": "hohe Lizenzgebühren bezahlt werden",
+          "isCorrect": false
+        },
+        {
+          "text": "vor kurzem ein anderes Unternehmen mit hohem Goodwill gekauft wurde",
+          "isCorrect": true
+        },
+        {
+          "text": "das Immaterielle Anlagevermögen lange Nutzungsdauern hat",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Wie soll ein Manager reagieren, wenn das Anlagevermögen im Verhältnis zum Umlaufvermögen 60% beträgt?",
+      "answers": [
+        {
+          "text": "Anlagevermögen veräußern, um durch den Aktivtausch das Umlaufvermögen zu erhöhen",
+          "isCorrect": false
+        },
+        {
+          "text": "Finanzanlagen in Wertpapiere des Umlaufvermögens umschichten",
+          "isCorrect": false
+        },
+        {
+          "text": "Gar nichts, wenn das Verhältnis im Branchenschnitt liegt",
+          "isCorrect": true
+        },
+        {
+          "text": "Höhere Abschreibungen tätigen",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 7
+    },
+    {
+      "question": "Ein hohes Umlaufvermögen in % Bilanzsumme zeigt dem Bilanzleser an, dass",
+      "answers": [
+        {
+          "text": "es sich wahrscheinlich um keinen Produktionsbetrieb handelt",
+          "isCorrect": true
+        },
+        {
+          "text": "die Liquidität recht hoch ist",
+          "isCorrect": true
+        },
+        {
+          "text": "aufgrund der Kurzfristigkeit des Umlaufvermögens kein Risiko im Vermögen verborgen ist",
+          "isCorrect": false
+        },
+        {
+          "text": "Der Vorratsumschlag gering ist",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Wenn die Forderungen gegenüber Verbundenen Unternehmen hoch sind, dann",
+      "answers": [
+        {
+          "text": "macht das Unternehmen viele konzerninterne Transaktionen",
+          "isCorrect": true
+        },
+        {
+          "text": "hat es ein erhöhtes Risiko für Forderungsverluste",
+          "isCorrect": true
+        },
+        {
+          "text": "werden diese eher langfristig sein",
+          "isCorrect": false
+        },
+        {
+          "text": "sollten diese eher im Anlagevermögen ausgewiesen werden",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Ein hoher Forderungsumschlag deutet darauf hin, dass",
+      "answers": [
+        {
+          "text": "die Forderungen rasch eingemahnt werden",
+          "isCorrect": true
+        },
+        {
+          "text": "es sich eher um ein Einzelhandelsunternehmen handelt",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapital kürzer gebunden ist",
+          "isCorrect": true
+        },
+        {
+          "text": "das Unternehmen hohe Umsätze macht",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+
+    {
+      "question": "Ein hoher Prozentsatz an Aktiven Rechnungsabgrenzungsposten weist darauf hin, dass",
+      "answers": [
+        {
+          "text": "die Kunden erst im Folgejahr bezahlen müssen",
+          "isCorrect": false
+        },
+        {
+          "text": "das Unternehmen im Dienstleistungssektor arbeitet",
+          "isCorrect": true
+        },
+        {
+          "text": "das Unternehmen ein schiefes Geschäftsjahr hat",
+          "isCorrect": true
+        },
+        {
+          "text": "zu viel Ware auf Lager liegt",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Wenn in einer Bilanz ein hoher Prozentsatz an Latenten Steuern ausgewiesen wird, weist das darauf hin, dass",
+      "answers": [
+        {
+          "text": "das Unternehmen unternehmensrechtlich und steuerrechtlich sehr abweichend bewertet",
+          "isCorrect": true
+        },
+        {
+          "text": "das Unternehmen eine Mehr-Weniger-Rechnung macht",
+          "isCorrect": true
+        },
+        {
+          "text": "das steuerliche Ergebnis geringer ist als das unternehmensrechtliche",
+          "isCorrect": true
+        },
+        {
+          "text": "es sich um ein mittleres oder großes Unternehmen handelt",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Bei einem hohen Lagerumschlag",
+      "answers": [
+        {
+          "text": "verkauft das Unternehmen seine Ware sehr rasch ohne lange Lagerzeiten",
+          "isCorrect": true
+        },
+        {
+          "text": "wird weniger Umsatz generiert als bei einem niedrigen Umschlag",
+          "isCorrect": false
+        },
+        {
+          "text": "ist relativ wenig Kapital gebunden",
+          "isCorrect": true
+        },
+        {
+          "text": "ist auch der Forderungsumschlag hoch",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Eine hohe negative Bestandsveränderung weist darauf hin, dass",
+      "answers": [
+        {
+          "text": "das Unternehmen mehr produziert als verkauft",
+          "isCorrect": false
+        },
+        {
+          "text": "der Lagerumschlag sehr hoch ist",
+          "isCorrect": false
+        },
+        {
+          "text": "das Lager reduziert wurde",
+          "isCorrect": true
+        },
+        {
+          "text": "der Bestand an Handelsware abnimmt",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 7
+    },
+    {
+      "question": "Warum wird bei der Forderungsintensität nur die Position „Forderungen aus Lieferungen und Leistungen“ einbezogen? Weil",
+      "answers": [
+        {
+          "text": "die anderen Positionen keine hohe Aussagekraft haben",
+          "isCorrect": true
+        },
+        {
+          "text": "hier das größte Risiko vorhanden ist",
+          "isCorrect": false
+        },
+        {
+          "text": "diese Position den höchsten Wert hat",
+          "isCorrect": false
+        },
+        {
+          "text": "weil auch bei den Verbindlichkeiten nur die Verbindlichkeiten LL betrachtet werden",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 7
+    },
+
+    {
+      "question": "Eine niedrige Vorratsintensität bedeutet, dass",
+      "answers": [
+        {
+          "text": "wenig verkauft wurde",
+          "isCorrect": false
+        },
+        {
+          "text": "wenig Ware auf Lager liegt",
+          "isCorrect": false
+        },
+        {
+          "text": "der Lagerumschlag hoch ist",
+          "isCorrect": true
+        },
+        {
+          "text": "wenig Kapital im Lager gebunden ist",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Eine im Vergleich zum Vorjahr niedrige Forderungsintensität kann ein Hinweis darauf sein, dass",
+      "answers": [
+        {
+          "text": "das Unternehmen generell viel Barzahlung hat",
+          "isCorrect": true
+        },
+        {
+          "text": "das Mahnwesen verbessert wurde",
+          "isCorrect": true
+        },
+        {
+          "text": "heuer weniger Umsatz erwirtschaftet wurde",
+          "isCorrect": true
+        },
+        {
+          "text": "aufgrund einer Investition ein höherer Bargeldbestand notwendig wurde",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Beim Factoring",
+      "answers": [
+        {
+          "text": "sinkt die Liquidität",
+          "isCorrect": false
+        },
+        {
+          "text": "sinkt die Forderungsintensität",
+          "isCorrect": true
+        },
+        {
+          "text": "steigt der Umsatz",
+          "isCorrect": false
+        },
+        {
+          "text": "steigen die Vorräte",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 7
+    },
+    {
+      "question": "Wenn die Roh-, Hilfs- und Betriebsstoffe in einem Unternehmen in Prozent der Bilanzsumme relativ hoch sind, könnte das bedeuten, dass",
+      "answers": [
+        {
+          "text": "das Unternehmen ein Produktionsbetrieb ist",
+          "isCorrect": true
+        },
+        {
+          "text": "das Unternehmen mit diesen Roh-, Hilfs- und Betriebsstoffen handelt",
+          "isCorrect": true
+        },
+        {
+          "text": "der Rohstoffmarkt sehr volatil ist, dh, dass Angebot und/oder Preis schwanken",
+          "isCorrect": true
+        },
+        {
+          "text": "risikoavers agiert",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Wenn die Roh-, Hilfs- und Betriebsstoffe in einem Unternehmen im Vergleich zum Vorjahr sehr hoch sind, kann das bedeuten, dass",
+      "answers": [
+        {
+          "text": "in diesem Geschäftsjahr weniger als geplant produziert wurde",
+          "isCorrect": true
+        },
+        {
+          "text": "aufgrund steigender Beschaffungspreise ein höheres Lager mit noch niedrigeren Preisen angelegt wurde",
+          "isCorrect": true
+        },
+        {
+          "text": "sich die Einkaufsabteilung bei den Prognosen verschätzt hat",
+          "isCorrect": true
+        },
+        {
+          "text": "sich auch die Umsätze erhöht haben",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Sie wollen, dass Ihre Kunden in bar und nicht mit Kreditkarte zahlen,",
+      "answers": [
+        {
+          "text": "weil Sie keine Kreditkartenspesen zahlen müssen",
+          "isCorrect": true
+        },
+        {
+          "text": "weil es die Liquidität 3. Grades erhöht",
+          "isCorrect": false
+        },
+        {
+          "text": "weil das Geld im Safe sicherer ist als auf der Bank",
+          "isCorrect": false
+        },
+        {
+          "text": "weil es risikoloser ist als Kundenforderungen",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 7
+    },
+    {
+      "question": "Sie haben als Unternehmer eine alte Maschine und sind sich nicht sicher, ob Sie diese reparieren sollen.",
+      "answers": [
+        {
+          "text": "Ja, weil Sie bisher viel in die Maschine investiert haben",
+          "isCorrect": false
+        },
+        {
+          "text": "Ja, weil Sie zu wenig Liquidität haben, um eine neue zu kaufen",
+          "isCorrect": false
+        },
+        {
+          "text": "Vielleicht. Sie kalkulieren die künftigen Kosten und vergleichen Sie mit den bisher getätigten Investitionen",
+          "isCorrect": true
+        },
+        {
+          "text": "Vielleicht. Sie kalkulieren die künftigen Kosten beider Alternativen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Ein Eissalon kann finanzielle Mittel lukrieren, indem er",
+      "answers": [
+        {
+          "text": "Bankschulden zurückzahlt",
+          "isCorrect": false
+        },
+        {
+          "text": "Mobiliar verkauft",
+          "isCorrect": true
+        },
+        {
+          "text": "Rezepturen verkauft",
+          "isCorrect": true
+        },
+        {
+          "text": "Umsätze generiert",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Liquidität",
+      "answers": [
+        {
+          "text": "bedeutet Zahlungsfähigkeit",
+          "isCorrect": true
+        },
+        {
+          "text": "basiert auf individuellen Fondsdefinitionen",
+          "isCorrect": false
+        },
+        {
+          "text": "wird in der Bilanz ausgewiesen",
+          "isCorrect": true
+        },
+        {
+          "text": "ist eine unabdingbare Notwendigkeit eines Unternehmens",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Welche Unternehmensstrategien können sehr rasch zu Liquiditätsengpässen führen?",
+      "answers": [
+        {
+          "text": "flache Hierarchien",
+          "isCorrect": false
+        },
+        {
+          "text": "rasche Expansion",
+          "isCorrect": true
+        },
+        {
+          "text": "Filialeröffnungen, überwiegend mittels Fremdkapitals bei geringen Umsätzen",
+          "isCorrect": true
+        },
+        {
+          "text": "kundenfreundliches Mahnwesen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+
+    {
+      "question": "Ein Unternehmen überlegt, seine Fahrzeuge zu leasen. Welche Vorteile ergeben sich dadurch gegenüber einem Kauf?",
+      "answers": [
+        {
+          "text": "kurzfristig eine höhere Liquidität",
+          "isCorrect": true
+        },
+        {
+          "text": "Steuervorteile",
+          "isCorrect": true
+        },
+        {
+          "text": "weniger Treibstoffverbrauch",
+          "isCorrect": false
+        },
+        {
+          "text": "kein Pickerl in Wien",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Es erhöht sich die Liquidität Ihres Unternehmens, wenn",
+      "answers": [
+        {
+          "text": "Sie einen Kredit zurückzahlen",
+          "isCorrect": false
+        },
+        {
+          "text": "Kunden langfristige Forderungen begleichen",
+          "isCorrect": true
+        },
+        {
+          "text": "Sie das Eigenkapital erhöhen",
+          "isCorrect": true
+        },
+        {
+          "text": "der Lagerbestand zunimmt",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Wenn Sie alle Verbindlichkeiten zurückzahlen,",
+      "answers": [
+        {
+          "text": "verringert sich Ihre Liquidität",
+          "isCorrect": true
+        },
+        {
+          "text": "erhöht sich Ihre Eigenkapitalquote",
+          "isCorrect": true
+        },
+        {
+          "text": "besteht Ihr Fremdkapital nur noch aus Rücklagen",
+          "isCorrect": false
+        },
+        {
+          "text": "haben Sie eine Eigenkapitalquote von 100%",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Sie haben eine sehr geringe Liquidität, benötigen aber Räumlichkeiten für 20 Stunden monatlich. Welche Alternative werden Sie wählen?",
+      "answers": [
+        {
+          "text": "stundenweise Einmietung für 25 € / Stunde",
+          "isCorrect": true
+        },
+        {
+          "text": "Umbau der eigenen Wohnung für 1.000 €",
+          "isCorrect": false
+        },
+        {
+          "text": "Mietwohnung für 600 €",
+          "isCorrect": false
+        },
+        {
+          "text": "Kauf einer Wohnung um 20.000 €",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 7
+    },
+    {
+      "question": "Die Liquidität eines Sportvereins ist abhängig von",
+      "answers": [
+        {
+          "text": "der Höhe des Eigenkapitals des Vereins",
+          "isCorrect": false
+        },
+        {
+          "text": "dem Wert der Sportanlagen",
+          "isCorrect": false
+        },
+        {
+          "text": "dem Ablösewert der Spieler",
+          "isCorrect": false
+        },
+        {
+          "text": "der Anzahl der verkauften Eintrittskarten",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 7
+    },
+
+    {
+      "question": "Ein Fahrradverleih ermöglicht es Kunden auch später zu bezahlen. Dabei ist zu beachten:",
+      "answers": [
+        {
+          "text": "Bei Ausfall der Bezahlung wird der Betrag abgeschrieben",
+          "isCorrect": true
+        },
+        {
+          "text": "Für offene Beträge gilt zu Geschäftsjahresende das strenge Niederstwertprinzip",
+          "isCorrect": true
+        },
+        {
+          "text": "Die unter 3300 Verbindlichkeiten LL verbuchten Beträge werden in der Bilanz unter dem Umlaufvermögen ausgewiesen",
+          "isCorrect": true
+        },
+        {
+          "text": "Der Betrag wird in € verbucht, kann aber auch in einer anderen Währung bezahlt werden.",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Wenn ein Hotel zubauen möchte, kann es entweder Geld von den Eigentümern oder Geld von einem Fremdkapitalgeber verwenden. Welche Überlegungen sind korrekt?",
+      "answers": [
+        {
+          "text": "Die bereits verbuchten und zu bezahlenden Eigenkapitalzinsen reduzieren die Liquidität",
+          "isCorrect": false
+        },
+        {
+          "text": "Die Hereinnahme neuer Eigentümer erhöht die Eigenkapitalquote",
+          "isCorrect": true
+        },
+        {
+          "text": "Die Erhöhung des Fremdkapitals geht in diesem Fall nur über die Erhöhung von Verbindlichkeiten aus Lieferung und Leistung",
+          "isCorrect": false
+        },
+        {
+          "text": "Fremdkapitalzinsen belasten die Liquidität",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Sie überlegen, einen Shop an Ihr Museum anzuschließen. Welche Informationen werden für die Entscheidungsfindung nötig sein?",
+      "answers": [
+        {
+          "text": "Um den Shop zu bewerben, ist eine neue, teure Marketingstrategie notwendig",
+          "isCorrect": true
+        },
+        {
+          "text": "Die berechneten Cash Flows für die kommenden 5 Jahre sind positiv",
+          "isCorrect": true
+        },
+        {
+          "text": "Schokoriegel kosten im Einkauf 1 €, bei der Konkurrenz im Verkauf 1,30 €",
+          "isCorrect": true
+        },
+        {
+          "text": "Das Gebäude wurde vor 2 Jahren außerplanmäßig abgeschrieben und muss, um den Verlust gutzumachen, besser ausgenutzt werden",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Der Cash Flow",
+      "answers": [
+        {
+          "text": "wird wie folgt berechnet: Ergebnis der gewöhnlichen Geschäftstätigkeit + Abschreibung vom Anlagevermögen (Immaterielles Anlagevermögen + Sachanlagevermögen) + Abschreibung vom Anlagevermögen (Finanzanlagevermögen + Wertpapiere des Umlaufvermögens) + Differenz Sozialkapital (heuer - Vorjahr) + Differenz langfristige Rückstellungen (heuer - Vorjahr)",
+          "isCorrect": true
+        },
+        {
+          "text": "ist die Differenz von Einzahlungen minus Auszahlungen",
+          "isCorrect": true
+        },
+        {
+          "text": "basiert auf der Cash-Definition einzelner Fonds",
+          "isCorrect": false
+        },
+        {
+          "text": "ist im UGB definiert",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+
+    {
+      "question": "Ihr ROI beträgt 5%. Um diesen Wert zu steigern, können Sie",
+      "answers": [
+        {
+          "text": "das Gesamtkapital erhöhen",
+          "isCorrect": false
+        },
+        {
+          "text": "weniger Material verbrauchen",
+          "isCorrect": true
+        },
+        {
+          "text": "den Umsatz steigern",
+          "isCorrect": true
+        },
+        {
+          "text": "Schulden zurückbezahlen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Eine hohe Exportquote",
+      "answers": [
+        {
+          "text": "bedeutet, dass das Unternehmen viele ausländische Lieferanten hat",
+          "isCorrect": false
+        },
+        {
+          "text": "birgt ein erhöhtes Risiko von Fremdwährungsverbindlichkeiten",
+          "isCorrect": false
+        },
+        {
+          "text": "wird berechnet als Exportumsätze/Betriebsergebnis",
+          "isCorrect": false
+        },
+        {
+          "text": "beinhaltet die Chance auf höhere Umsatzerlöse durch größere Märkte",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 7
+    },
+    {
+      "question": "Der Cash Flow",
+      "answers": [
+        {
+          "text": "bezieht sich auf Einzahlungen und Auszahlungen",
+          "isCorrect": true
+        },
+        {
+          "text": "wird für Entscheidungsrechnungen benötigt",
+          "isCorrect": true
+        },
+        {
+          "text": "ist eindeutig definiert",
+          "isCorrect": false
+        },
+        {
+          "text": "wird aus der Gewinn- und Verlustrechnung abgeleitet",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Bei der Analyse der Kapitalstruktur",
+      "answers": [
+        {
+          "text": "benötigt man Informationen über die Fristigkeit von Vermögen",
+          "isCorrect": false
+        },
+        {
+          "text": "ist die Unterscheidung zwischen Eigenkapital und Fremdkapital wesentlich",
+          "isCorrect": true
+        },
+        {
+          "text": "hat die Betriebswirtschaft klare Antworten, wie das ideale Verhältnis von Eigenkapital und Fremdkapital definiert ist",
+          "isCorrect": false
+        },
+        {
+          "text": "gibt es Positionen, die sowohl Eigenkapital- als auch Fremdkapitalcharakter beinhalten",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Der Return on Investment",
+      "answers": [
+        {
+          "text": "wird identisch mit der Gesamtkapitalrentabilität berechnet",
+          "isCorrect": false
+        },
+        {
+          "text": "Nettoerlöse : Aktiva) x (EGT : Nettoerlöse",
+          "isCorrect": true
+        },
+        {
+          "text": "berücksichtigt die vorhandene Kapitalstruktur",
+          "isCorrect": false
+        },
+        {
+          "text": "(bezieht sich auf Investitionen)",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+
+    {
+      "question": "Ein Unternehmen produziert fast ausschließlich mit Maschinen und sehr wenig Personal. Welche Kennzahlen werden aussagekräftig sein?",
+      "answers": [
+        {
+          "text": "Personalintensität",
+          "isCorrect": false
+        },
+        {
+          "text": "Abschreibungsintensität",
+          "isCorrect": true
+        },
+        {
+          "text": "Materialintensität",
+          "isCorrect": true
+        },
+        {
+          "text": "Zinsertragsintensität",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "ROI",
+      "answers": [
+        {
+          "text": "Steht für Return on Interest",
+          "isCorrect": false
+        },
+        {
+          "text": "Ist mit der Gesamtkapitalrentabilität ident",
+          "isCorrect": false
+        },
+        {
+          "text": "Berechnet sich aus Umsatzrentabilität * Gesamtkapitalumschlag",
+          "isCorrect": true
+        },
+        {
+          "text": "Ist eine Liquiditätskennzahl",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 7
+    },
+    {
+      "question": "Zum EBIT",
+      "answers": [
+        {
+          "text": "Das EBIT ist eine Gewinngröße aus der Gewinn- und Verlustrechnung nach UGB",
+          "isCorrect": false
+        },
+        {
+          "text": "Das EBIT ist eine Gewinngröße aus der Gewinn- und Verlustrechnung nach HGB",
+          "isCorrect": false
+        },
+        {
+          "text": "Das EBIT ist eine Gewinngröße, die international üblich ist",
+          "isCorrect": true
+        },
+        {
+          "text": "Das EBIT kann aus der Gewinn- und Verlustrechnung errechnet werden",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Wenn ein Sportverein Zusatzeinnahmen über ein überraschend angesetztes Freundschaftsspiel lukriert,",
+      "answers": [
+        {
+          "text": "kann dieser Abend zu einem Verlust führen",
+          "isCorrect": false
+        },
+        {
+          "text": "kann dies den Cash Flow erhöhen",
+          "isCorrect": true
+        },
+        {
+          "text": "unterliegen diese Einnahmen nicht den ansonsten gültigen Steuersätzen",
+          "isCorrect": false
+        },
+        {
+          "text": "sind diese Einnahmen im BAB für die regelmäßige Budgetierung auszuscheiden",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Wenn ein Autoverleih Einsparungen treffen muss, werden welche Kennzahlen interessant sein?",
+      "answers": [
+        {
+          "text": "Reinvestitionsquote",
+          "isCorrect": false
+        },
+        {
+          "text": "Personalaufwand pro Mitarbeiter",
+          "isCorrect": true
+        },
+        {
+          "text": "Materialaufwand in % des Umsatzes",
+          "isCorrect": false
+        },
+        {
+          "text": "Personalaufwand in % des Umsatzes",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+
+    {
+      "question": "EBIT bedeutet",
+      "answers": [
+        {
+          "text": "Earnings before interest and tax",
+          "isCorrect": true
+        },
+        {
+          "text": "Ergebnis einer innerbetrieblichen Transferverrechnung",
+          "isCorrect": false
+        },
+        {
+          "text": "Ergebnis inklusive Transferzahlungen",
+          "isCorrect": false
+        },
+        {
+          "text": "Earnings before intangible transactions",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 7
+    },
+    {
+      "question": "Welche Kennzahlen sind für ein Hotel sinnvoll und steuerungswirksam, wenn nur wenig Ware umgesetzt wird?",
+      "answers": [
+        {
+          "text": "Umsatz/Personalaufwand",
+          "isCorrect": true
+        },
+        {
+          "text": "ROI",
+          "isCorrect": true
+        },
+        {
+          "text": "Vorräteschlag",
+          "isCorrect": false
+        },
+        {
+          "text": "Forderungsumschlag (für Pauschalreisen)",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Welche Kapitalstruktur ist für einen familiär geführten Eissalon vorteilhaft?",
+      "answers": [
+        {
+          "text": "70% Eigenkapital",
+          "isCorrect": true
+        },
+        {
+          "text": "80% Bankverschuldung",
+          "isCorrect": false
+        },
+        {
+          "text": "20% Gewinnrücklage",
+          "isCorrect": false
+        },
+        {
+          "text": "30% Rückstellungen für Sozialkapital",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 7
+    },
+    {
+      "question": "Eine hohe Eigenkapitalrentabilität zeigt, dass",
+      "answers": [
+        {
+          "text": "man gut angelegt hat",
+          "isCorrect": false
+        },
+        {
+          "text": "das Eigenkapital zu hoch ist, wenn die Gesamtkapitalrentabilität höher ist",
+          "isCorrect": false
+        },
+        {
+          "text": "das Unternehmen effizient arbeitet",
+          "isCorrect": true
+        },
+        {
+          "text": "das Unternehmen wahrscheinlich auch eine hohe Eigenkapitalquote hat",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Hohe Abschreibungen in % des Umsatzes bedeuten, dass",
+      "answers": [
+        {
+          "text": "hohes Anlagevermögen vorhanden ist",
+          "isCorrect": true
+        },
+        {
+          "text": "das Anlagevermögen alt ist",
+          "isCorrect": false
+        },
+        {
+          "text": "wahrscheinlich ein Produktionsbetrieb vorliegt",
+          "isCorrect": true
+        },
+        {
+          "text": "das Unternehmen eine hohe Fixkostenstruktur hat",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+
+    {
+      "question": "Eine langfristig hohe Exportquote weist darauf hin, dass",
+      "answers": [
+        {
+          "text": "das Unternehmen wahrscheinlich ein hohes Risiko in Fremdwährungen hat",
+          "isCorrect": true
+        },
+        {
+          "text": "es viele Filialen im Ausland gibt",
+          "isCorrect": false
+        },
+        {
+          "text": "das Unternehmen viel Auslandserfahrung hat",
+          "isCorrect": true
+        },
+        {
+          "text": "die Produkte auf internationale Nutzenfunktionen hin produziert werden",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 7
+    },
+    {
+      "question": "Zum kurzfristigen Vermögen kann man zählen:",
+      "answers": [
+        {
+          "text": "C&CE",
+          "isCorrect": true
+        },
+        {
+          "text": "Vorräte",
+          "isCorrect": true
+        },
+        {
+          "text": "Anteile an Verbundenen Unternehmen",
+          "isCorrect": false
+        },
+        {
+          "text": "Dividendenerträge",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
+    },
+    {
+      "question": "Zum kurzfristigen Fremdkapital kann man zählen:",
+      "answers": [
+        {
+          "text": "Eventualverbindlichkeiten",
+          "isCorrect": false
+        },
+        {
+          "text": "PRA",
+          "isCorrect": true
+        },
+        {
+          "text": "Pensionsrückstellungen",
+          "isCorrect": false
+        },
+        {
+          "text": "Sonstige Verbindlichkeiten",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 7
     }
   ]
 }
