@@ -8064,6 +8064,1378 @@
       ],
       "correctAnswersCount": 1,
       "Kapitel": 8
-    }
+    },
+
+    {
+      "question": "Ein Unternehmen hat einen fix angestellten Mitarbeiter, dem es 1.000 € pro Monat auszahlt.",
+      "answers": [
+        {
+          "text": "Wenn der Mitarbeiter 3 Tage krank ist, bekommt er keine Bezahlung",
+          "isCorrect": false
+        },
+        {
+          "text": "Der Mitarbeiter arbeitet nur die Zeit, die er bezahlt wird",
+          "isCorrect": false
+        },
+        {
+          "text": "Der Mitarbeiter kostet das Unternehmen 1.000 €",
+          "isCorrect": false
+        },
+        {
+          "text": "Der Mitarbeiter kostet das Unternehmen 1.000 € und zumindest alle weiteren gesetzlich festgelegten Beträge",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 9
+    },
+    {
+      "question": "Bei der leistungsabhängigen Abschreibung sind welche Informationen notwendig?",
+      "answers": [
+        {
+          "text": "ND",
+          "isCorrect": false
+        },
+        {
+          "text": "AHK",
+          "isCorrect": true
+        },
+        {
+          "text": "Leistung in der betrachteten Periode",
+          "isCorrect": true
+        },
+        {
+          "text": "Gesamtleistung",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 9
+    },
+    {
+      "question": "Wenn ein Marmeladeglas zerbricht, handelt es sich um",
+      "answers": [
+        {
+          "text": "eine Auszahlung",
+          "isCorrect": false
+        },
+        {
+          "text": "einen Aufwand",
+          "isCorrect": true
+        },
+        {
+          "text": "eine Ausgabe",
+          "isCorrect": false
+        },
+        {
+          "text": "Kosten",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Sie kaufen eine Kopiermaschine. Die Nutzungsdauer ist 4 Jahre, die Kapazität liegt bei 10 Millionen Kopien. Welche Abschreibungsmethode ist am besten geeignet?",
+      "answers": [
+        {
+          "text": "leistungsabhängig",
+          "isCorrect": true
+        },
+        {
+          "text": "progressiv",
+          "isCorrect": false
+        },
+        {
+          "text": "degressiv",
+          "isCorrect": false
+        },
+        {
+          "text": "linear",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 9
+    },
+    {
+      "question": "Die kalkulatorischen Abschreibungen",
+      "answers": [
+        {
+          "text": "gehen in den BAB ein",
+          "isCorrect": true
+        },
+        {
+          "text": "werden nach den Vorschriften des UGB und EStG berechnet",
+          "isCorrect": false
+        },
+        {
+          "text": "können auch leistungsabhängig berechnet werden",
+          "isCorrect": true
+        },
+        {
+          "text": "werden in der Bilanz veröffentlicht",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+
+    {
+      "question": "Neutrale Aufwendungen können sein",
+      "answers": [
+        {
+          "text": "Aufwendungen, die nicht zum kalkulierten Produkt gehören",
+          "isCorrect": true
+        },
+        {
+          "text": "Aufwendungen, die in außerordentlichen Geschäftsvorgängen anfallen",
+          "isCorrect": true
+        },
+        {
+          "text": "Aufwendungen, die nicht in die kalkulierte Periode fallen",
+          "isCorrect": true
+        },
+        {
+          "text": "Aufwendungen, die in anderer Höhe als Kosten anfallen",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 9
+    },
+    {
+      "question": "Grundsätzlich sollten Kostenberechnungen so exakt wie möglich sein. Manchmal ist aber eine Glättung von kurzfristigen Schwankungen sinnvoll. Solche Kosten nennt man:",
+      "answers": [
+        {
+          "text": "gewogene Kosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Normalkosten",
+          "isCorrect": true
+        },
+        {
+          "text": "geglättete Kosten",
+          "isCorrect": false
+        },
+        {
+          "text": "gleitende Kosten",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 9
+    },
+    {
+      "question": "Führt ein Unternehmen eine Kostenüberleitung durch,",
+      "answers": [
+        {
+          "text": "wird ein Betriebsabrechnungsbogen verwendet",
+          "isCorrect": true
+        },
+        {
+          "text": "werden Aufwendungen sachlich, zeitlich und bewertungsmäßig abgegrenzt",
+          "isCorrect": false
+        },
+        {
+          "text": "werden die GoBs angewandt",
+          "isCorrect": false
+        },
+        {
+          "text": "weicht der pagatorische Gewinn vom kalkulatorischen Gewinn ab",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Kosten, die unabhängig von der produzierten Menge anfallen,",
+      "answers": [
+        {
+          "text": "sind ausschließlich Verwaltungskosten",
+          "isCorrect": false
+        },
+        {
+          "text": "sind Fixkosten",
+          "isCorrect": true
+        },
+        {
+          "text": "sind Deckungsbeitrag",
+          "isCorrect": false
+        },
+        {
+          "text": "werden bei der Berechnung von economies of scale berücksichtigt",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Unter Verhalten bei Variation eines Einflussfaktors versteht man u.a. folgende Kosten:",
+      "answers": [
+        {
+          "text": "Teilkosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Anderskosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Opportunitätskosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Sprungfixe Kosten",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 9
+    },
+    {
+      "question": "Im Rahmen der Prozesskostenrechnung",
+      "answers": [
+        {
+          "text": "wird der Produktionsprozess kalkuliert",
+          "isCorrect": false
+        },
+        {
+          "text": "werden Produkte und Leistungen kalkuliert",
+          "isCorrect": true
+        },
+        {
+          "text": "wird ein BAB gerechnet",
+          "isCorrect": false
+        },
+        {
+          "text": "wird eine Kostenträgerrechnung durchgeführt",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 9
+    },
+
+    {
+      "question": "Verwaltungskosten",
+      "answers": [
+        {
+          "text": "beinhalten auch Materialaufwand",
+          "isCorrect": false
+        },
+        {
+          "text": "sind ausschließlich Gemeinkosten",
+          "isCorrect": true
+        },
+        {
+          "text": "sind in den Herstellungskosten enthalten",
+          "isCorrect": false
+        },
+        {
+          "text": "sind in den Selbstkosten enthalten",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Wenn sich die Gesamtkosten bei zunehmender Stückzahl nicht verändern,",
+      "answers": [
+        {
+          "text": "handelt es sich um Fixkosten",
+          "isCorrect": true
+        },
+        {
+          "text": "spricht man von variablen Kosten",
+          "isCorrect": false
+        },
+        {
+          "text": "kann man dieses Kostenverhalten als \"economies of scale\" ausnutzen",
+          "isCorrect": true
+        },
+        {
+          "text": "liegt jedenfalls Vollkostenrechnung vor",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 9
+    },
+    {
+      "question": "Wenn die Gesamtkosten von der Produktionsmenge abhängig sind,",
+      "answers": [
+        {
+          "text": "hat das Unternehmen jedenfalls Fixkosten",
+          "isCorrect": false
+        },
+        {
+          "text": "hat das Unternehmen jedenfalls variable Kosten",
+          "isCorrect": true
+        },
+        {
+          "text": "ist Grenzkostenrechnung möglich",
+          "isCorrect": true
+        },
+        {
+          "text": "liegt linear Kostenverlauf vor",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Materialkosten",
+      "answers": [
+        {
+          "text": "können fix und variabel sein",
+          "isCorrect": true
+        },
+        {
+          "text": "können Einzel- und Gemeinkosten sein",
+          "isCorrect": true
+        },
+        {
+          "text": "sind gleichzusetzen mit dem Materialaufwand",
+          "isCorrect": false
+        },
+        {
+          "text": "sind gleichzusetzen mit den Ausgaben",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Economies of scale",
+      "answers": [
+        {
+          "text": "existieren nur bei linearem Kostenverlauf",
+          "isCorrect": false
+        },
+        {
+          "text": "bedeutet, dass die Gesamtkosten pro Stück günstiger werden, je mehr Stück produziert werden",
+          "isCorrect": true
+        },
+        {
+          "text": "bedeutet, dass Größeneffekte ausgenutzt werden",
+          "isCorrect": true
+        },
+        {
+          "text": "bedeutet, dass größere Maschinen stets kostengünstiger produzieren",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+
+    {
+      "question": "Wenn ein Unternehmen mit Vollkosten pro produziertem Stück rechnet",
+      "answers": [
+        {
+          "text": "werden die Fixkosten der für die Produktion notwendigen Maschine berücksichtigt",
+          "isCorrect": true
+        },
+        {
+          "text": "schließt dies eine Plankostenrechnung aus",
+          "isCorrect": false
+        },
+        {
+          "text": "sind die variablen Kosten inkludiert",
+          "isCorrect": true
+        },
+        {
+          "text": "schließt das eine Vollkostenrechnung für andere selbsterstellte Produkte aus, die auf derselben Maschine produziert werden",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Eine Betriebsüberleitung wird wie folgt durchgeführt:",
+      "answers": [
+        {
+          "text": "zeitlich",
+          "isCorrect": true
+        },
+        {
+          "text": "bewertungsmäßig",
+          "isCorrect": true
+        },
+        {
+          "text": "sachlich",
+          "isCorrect": true
+        },
+        {
+          "text": "steuerrechtlich",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 9
+    },
+    {
+      "question": "Sie betreiben einen Gebrauchtwagenhandel mit einer Werkstatt. Welche der Kosten sind für Sie variabel?",
+      "answers": [
+        {
+          "text": "die Steuer für die fest montierten Werbeplakate",
+          "isCorrect": false
+        },
+        {
+          "text": "die Boni, die Sie Ihren Mitarbeiter bei Verkauf eines Wagens bezahlen",
+          "isCorrect": true
+        },
+        {
+          "text": "Abschreibung des Parkplatzes, auf dem die Gebrauchtwagen stehen",
+          "isCorrect": false
+        },
+        {
+          "text": "die Autowäsche für jeden Wagen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Wenn Sie ein neues Kostenrechnungssystem einführen wollen, könnte es sein, dass Sie",
+      "answers": [
+        {
+          "text": "Prozesskostenrechnung nicht wählen, weil die benötigten Informationen schwierig zu erhalten sind",
+          "isCorrect": true
+        },
+        {
+          "text": "Produktkostenrechnung wählen, weil sie relativ einfach durchzuführen ist",
+          "isCorrect": true
+        },
+        {
+          "text": "Prozesskostenrechnung wählen, weil es jeder macht",
+          "isCorrect": false
+        },
+        {
+          "text": "Prozesskostenrechnung wählen, weil sie die einzelnen Arbeitsschritte genau nachvollziehen wollen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 9
+    },
+    {
+      "question": "Die Produktionskosten eines Kugelschreibers setzen sich zu 80% aus Fixkosten und 20% aus variablen Kosten zusammen. Sie werden die Standardkosten kalkulieren mit",
+      "answers": [
+        {
+          "text": "Vollkosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Grenzkosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Plankosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Vergangenheitskosten",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+
+    {
+      "question": "Sie leiten Ihren Aufwand aus der Buchhaltung in Kosten über, Ihre Erträge in Leistungen. Welche Positionen werden Sie grundsätzlich nicht übernehmen?",
+      "answers": [
+        {
+          "text": "Steuern vom Einkommen und Ertrag",
+          "isCorrect": true
+        },
+        {
+          "text": "Gewinnvortrag",
+          "isCorrect": true
+        },
+        {
+          "text": "Erträge aus Beteiligung",
+          "isCorrect": false
+        },
+        {
+          "text": "Auflösung unversteuerter Rücklagen",
+          "isCorrect": true
+        }
+      ],
+      "Kapitel": 9
+    },
+    {
+      "question": "Sie wollen Ihre Maschine leistungsabhängig abschreiben. Welche Leistungseinheiten werden Sinn machen?",
+      "answers": [
+        {
+          "text": "Anzahl der bedienenden MitarbeiterInnen",
+          "isCorrect": false
+        },
+        {
+          "text": "Anzahl der Maschinenstunden",
+          "isCorrect": true
+        },
+        {
+          "text": "Nutzungsdauer",
+          "isCorrect": false
+        },
+        {
+          "text": "Anzahl der produzierten Waren",
+          "isCorrect": true
+        }
+      ],
+      "Kapitel": 9
+    },
+    {
+      "question": "Eigenkapitalzinsen",
+      "answers": [
+        {
+          "text": "werden aktiviert",
+          "isCorrect": false
+        },
+        {
+          "text": "erhöhen die Kosten eines Produktes",
+          "isCorrect": false
+        },
+        {
+          "text": "werden unter Aufwand verbucht",
+          "isCorrect": true
+        },
+        {
+          "text": "fallen an, wenn Sie Ihre Ersparnisse in Ihr Nachhilfeinstitut stecken",
+          "isCorrect": false
+        }
+      ],
+      "Kapitel": 9
+    },
+    {
+      "question": "Welche Kosten sind aus dem Blickwinkel der Kostenrechnung innerhalb von 3 Monaten variabel?",
+      "answers": [
+        {
+          "text": "Abschreibungen auf ein Gebäude",
+          "isCorrect": false
+        },
+        {
+          "text": "Abschreibungen auf eine Maschine",
+          "isCorrect": false
+        },
+        {
+          "text": "Personalaufwand",
+          "isCorrect": true
+        },
+        {
+          "text": "Zinsaufwand für ein 5-jähriges Darlehen",
+          "isCorrect": false
+        }
+      ],
+      "Kapitel": 9
+    },
+    {
+      "question": "Eine Kostenüberleitung ist",
+      "answers": [
+        {
+          "text": "gesetzlich vorgeschrieben",
+          "isCorrect": false
+        },
+        {
+          "text": "sinnvoll, weil buchhalterische und kalkulatorische Werte nicht immer übereinstimmen",
+          "isCorrect": true
+        },
+        {
+          "text": "zielführend, weil in der Kostenrechnung mit realistischen Werten gerechnet werden soll",
+          "isCorrect": true
+        },
+        {
+          "text": "Voraussetzung für den Betriebsabrechnungsbogen",
+          "isCorrect": false
+        }
+      ],
+      "Kapitel": 9
+    },
+
+    {
+      "question": "Sie agieren als Nachhilfeinstitut in dem Spannungsfeld zwischen hoher Qualität - wenige Teilnehmer pro Nachhilfekurs und Gewinnmaximierung = viele Teilnehmer pro Kurs. Welche Kosteneffekte sind zu berücksichtigen?",
+      "answers": [
+        {
+          "text": "Opportunitätskosten für abgewiesenen Teilnehmer",
+          "isCorrect": true
+        },
+        {
+          "text": "Sunk costs für die Verwaltung",
+          "isCorrect": false
+        },
+        {
+          "text": "Economies of scale",
+          "isCorrect": true
+        },
+        {
+          "text": "Lernkurveneffekt",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Wenn ein Volleyballverein eines seiner nicht genutzten Trainingsfelder an eine Schule für den täglichen Sport vermietet,",
+      "answers": [
+        {
+          "text": "kann er dadurch die Schüler als potenzielle Mitglieder anwerben",
+          "isCorrect": true
+        },
+        {
+          "text": "kann er Leerkosten vermeiden",
+          "isCorrect": true
+        },
+        {
+          "text": "kann er die economies of scale bezüglich Platzwart ausnutzen",
+          "isCorrect": true
+        },
+        {
+          "text": "hat er sunk costs, wenn er kurzfristig den Platz selber bespielt und den Vertrag löst",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 9
+    },
+    {
+      "question": "Wenn ein Spielwarenerzeuger mit neuem Plastik für Bausteine experimentiert, dies aber nicht funktioniert, handelt es sich beim Plastik und bei der Forschung um",
+      "answers": [
+        {
+          "text": "Entgangene Gewinne",
+          "isCorrect": false
+        },
+        {
+          "text": "Materialaufwand",
+          "isCorrect": true
+        },
+        {
+          "text": "Verwaltungsaufwand",
+          "isCorrect": false
+        },
+        {
+          "text": "Sunk costs",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Wenn Verkäufer in der Pause rauchen, handelt es sich um",
+      "answers": [
+        {
+          "text": "Nicht-Anwesenheitszeit",
+          "isCorrect": false
+        },
+        {
+          "text": "Anwesenheitszeit",
+          "isCorrect": false
+        },
+        {
+          "text": "Leistungszeit",
+          "isCorrect": false
+        },
+        {
+          "text": "Nicht-Leistungszeit",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 9
+    },
+    {
+      "question": "Ein Spielwarenerzeuger kann entweder billige Bausteine oder die teure Puppen auf einer bestimmten Regalfläche unterbringen. Er entscheidet sich für die billigeren und weniger gewinnträchtigen Bausteine. Dadurch entstehen",
+      "answers": [
+        {
+          "text": "Sunk costs",
+          "isCorrect": false
+        },
+        {
+          "text": "Fixkosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Opportunitätskosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Entscheidungsrelevante Kosten",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+
+    {
+      "question": "Wie kann ein Fahrradverleih die Fixkosten pro Kunden senken?",
+      "answers": [
+        {
+          "text": "Öffnung der internen Reparaturstelle für externe Kunden",
+          "isCorrect": true
+        },
+        {
+          "text": "Senkung von Personalkosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Reduktion der Reinigung des Rades, wenn es zurückgegeben wird",
+          "isCorrect": false
+        },
+        {
+          "text": "Kein kostenloser Radstadtplan mehr",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Opportunitätskosten für einen Fahrrad-Verleih könnten sein:",
+      "answers": [
+        {
+          "text": "Entgangene Gewinne aufgrund von Kapazitätsengpässen",
+          "isCorrect": true
+        },
+        {
+          "text": "Fremdkapitalzinsen",
+          "isCorrect": false
+        },
+        {
+          "text": "Eigenkapitalzinsen",
+          "isCorrect": true
+        },
+        {
+          "text": "Ausbildungskosten",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Ein Unternehmen produziert Speiseeis. Die Milch im Speiseeis wird pro Kugel verrechnet als",
+      "answers": [
+        {
+          "text": "Variable Kosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Einzelkosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Gemeinkosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Fixkosten",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 9
+    },
+    {
+      "question": "Mit Hilfe der Betriebsüberleitung wandelt ein Eissalon für seine interne Berechnung Aufwendungen in Kosten und Erträge in Leistungen über. Welche der folgenden Größen werden dabei NICHT übernommen?",
+      "answers": [
+        {
+          "text": "Mietertrag aus der Vermietung eines nicht für den Eissalon genutzten Gebäudes",
+          "isCorrect": true
+        },
+        {
+          "text": "Reparaturaufwand für den Privat-PKW",
+          "isCorrect": true
+        },
+        {
+          "text": "Verkaufserlöse des Eises des Salons",
+          "isCorrect": false
+        },
+        {
+          "text": "Privatverkauf von Eis ohne Rechnung",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 9
+    },
+    {
+      "question": "Ein Eissalon hatte wetterbedingt ein schlechtes Umsatzergebnis im Mai. Welche Aussagen sind in diesem Zusammenhang richtig?",
+      "answers": [
+        {
+          "text": "Die Kosten für das zusätzlich angestellte Personal sind sunk costs",
+          "isCorrect": true
+        },
+        {
+          "text": "Der Gewinnentgang ist als Verlust zu verbuchen",
+          "isCorrect": false
+        },
+        {
+          "text": "Hätte man anstelle von Eis Glühwein verkauft, hätte man wahrscheinlich einen Gewinn von 10% des Umsatzes erwirtschaften können. Dieser Betrag repräsentiert Opportunitätskosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Das Wetter ist für einen Eissalon in der Prognoserechnung zu berücksichtigen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 9
+    },
+    {
+      "question": "Fixe Kosten eines Eissalons sind",
+      "answers": [
+        {
+          "text": "Beschäftigungsabhängig",
+          "isCorrect": false
+        },
+        {
+          "text": "Sicherheitsbestand an Schokolade- und Vanilleeis",
+          "isCorrect": true
+        },
+        {
+          "text": "Für eine Grenzkostenbetrachtung nicht primär relevant",
+          "isCorrect": true
+        },
+        {
+          "text": "Nicht gegeben",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Die Vollkostenrechnung eines Eissalons",
+      "answers": [
+        {
+          "text": "Entspricht einer kurzfristig entscheidungsorientierten Kalkulation für 1 Kugel Eis",
+          "isCorrect": false
+        },
+        {
+          "text": "Verstößt gegen das Niederstwertprinzip des Lagers",
+          "isCorrect": false
+        },
+        {
+          "text": "Umfasst u.a. alle Kosten von Erdbeereis einer Periode",
+          "isCorrect": true
+        },
+        {
+          "text": "Ist nur bei Vollauslastung der Produktion zielführend",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Wenn ein Hotel ein Fitnesscenter, das nicht gegen gesonderte Bezahlung benutzt werden kann, anbietet und dieses Angebot nicht genutzt wird, handelt es sich für den Gast an dem Tag, an dem er das Fitnesscenter nicht benutzt, um",
+      "answers": [
+        {
+          "text": "Sunk Costs",
+          "isCorrect": true
+        },
+        {
+          "text": "Entscheidungsrelevante Kosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Plankosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Opportunitätskosten",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 9
+    },
+    {
+      "question": "Ein Hotel hat durch Pauschalerträge mit Reiseveranstaltern alle Fixkosten des Hotels und die den Reiseveranstaltern zurechenbaren variablen Kosten gedeckt. Wie könnten neue Zimmer (Preis pro Nacht) kalkuliert werden, um die günstigste Konkurrenz zu unterbieten?",
+      "answers": [
+        {
+          "text": "Grenzkosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Vollkosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Variable Kosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Opportunitätskosten",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 9
+    },
+    {
+      "question": "Ein Hotel ist mit Preisen konfrontiert, die geringfügig, aber sehr oft schwanken. Welche Werte wird es sinnvollerweise einer Preiskalkulation zugrunde legen?",
+      "answers": [
+        {
+          "text": "Istpreise",
+          "isCorrect": false
+        },
+        {
+          "text": "Vergangenheitspreise",
+          "isCorrect": false
+        },
+        {
+          "text": "Planpreise",
+          "isCorrect": false
+        },
+        {
+          "text": "Durchschnittspreise",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 9
+    },
+
+    {
+      "question": "Welche Kosten wird ein Schiliftbetreiber ansetzen, wenn er Saisonkarten für die kommende Saison berechnet?",
+      "answers": [
+        {
+          "text": "Grenzkosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Vollkosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Plankosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Istkosten",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+
+      "Kapitel": 9
+    },
+    {
+      "question": "Ein Schiliftbetreiber beschließt, Jahreskarten zu variablen Kosten auszugeben.",
+      "answers": [
+        {
+          "text": "Er deckt damit alle Kosten ab, die diese Kunden verursachen",
+          "isCorrect": false
+        },
+        {
+          "text": "Er erhöht damit seinen Umsatz, wenn diese Kunden sonst keine Karten kaufen würden",
+          "isCorrect": true
+        },
+        {
+          "text": "Er deckt damit die variablen Kosten dieser Kunden ab und kann auf Zusatzgeschäft hoffen",
+          "isCorrect": true
+        },
+        {
+          "text": "Er erreicht damit economies of scale",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+
+      "Kapitel": 9
+    },
+    {
+      "question": "Sprungfixe Kosten eines Schiliftbetreibers fallen an, wenn",
+      "answers": [
+        {
+          "text": "aufgrund von Überlastung ein neuer Lift in Betrieb genommen wird",
+          "isCorrect": true
+        },
+        {
+          "text": "das Personal an der Kassa Mehrarbeit pro Stunde abgegolten bekommt",
+          "isCorrect": false
+        },
+        {
+          "text": "abgesehen von den Treibstoffpreisen das Pistenräumgerät immer für 5 Stunden en bloc gemietet werden kann und 7 Stunden benötigt werden",
+          "isCorrect": true
+        },
+        {
+          "text": "das Kassagebäude neu angemalt wird",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+
+      "Kapitel": 9
+    },
+    {
+      "question": "Opportunitätskosten eines Schiliftbetreibers können entstehen, wenn",
+      "answers": [
+        {
+          "text": "Gruppentickets anstelle Einzelkarten verkauft werden",
+          "isCorrect": false
+        },
+        {
+          "text": "der Schiliftbetreiber Eigenkapital in die Finanzierung eines neuen Liftes investiert anstelle privat Anleihen zu kaufen",
+          "isCorrect": true
+        },
+        {
+          "text": "der Schiliftbetreiber umweltfreundliches Streusalz verwendet",
+          "isCorrect": false
+        },
+        {
+          "text": "der Schiliftbetreiber eine Pistenraupe kauft",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+
+      "Kapitel": 9
+    },
+    {
+      "question": "Sunk costs eines Schiliftbetreibers sind",
+      "answers": [
+        {
+          "text": "der variable Personalaufwand",
+          "isCorrect": false
+        },
+        {
+          "text": "der laufende Materialaufwand",
+          "isCorrect": false
+        },
+        {
+          "text": "die einbetonierten Pfeiler der Schilifte",
+          "isCorrect": true
+        },
+        {
+          "text": "die vergangenen Sicherheitsschulungen des Personals",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+
+      "Kapitel": 9
+    },
+    
+      {
+        "question": "Wie könnte ein Schiliftbetreiber kurzfristige (1 Woche) variable Kosten reduzieren?",
+        "answers": [
+          {
+            "text": "Indem das Kassagebäude verkauft und zurückgeleast wird",
+            "isCorrect": false
+          },
+          {
+            "text": "Indem die Liftkarten auf billigeres Material gedruckt werden",
+            "isCorrect": true
+          },
+          {
+            "text": "Indem an weniger Tagen beschneit wird und somit weniger Wasser verbraucht wird",
+            "isCorrect": true
+          },
+          {
+            "text": "Indem fest angestellte Mitarbeiter entlassen werden",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswersCount": 2,
+        "Kapitel": 9
+      },
+      {
+        "question": "Gemeinkosten eines Schiliftbetreibers könnten sein:",
+        "answers": [
+          {
+            "text": "Stromverbrauch",
+            "isCorrect": true
+          },
+          {
+            "text": "Abschreibungen",
+            "isCorrect": true
+          },
+          {
+            "text": "Stundenweise engagierte Mitarbeiter",
+            "isCorrect": false
+          },
+          {
+            "text": "Lohnnebenkosten",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswersCount": 3,
+        "Kapitel": 9
+      },
+      {
+        "question": "Wenn ein Schiliftbetreiber die kalkulatorischen Abschreibungen für den Schilift berechnet, wird er die...",
+        "answers": [
+          {
+            "text": "lineare Abschreibungsmethode wählen, weil sie auch steuerlich erlaubt ist",
+            "isCorrect": false
+          },
+          {
+            "text": "progressive Abschreibungsmethode wählen, weil bei alten Anlagen höhere Reparaturen anfallen",
+            "isCorrect": false
+          },
+          {
+            "text": "degressive Abschreibungsmethode wählen, weil moderne Anlagen anfangs den größten Wertverlust haben",
+            "isCorrect": true
+          },
+          {
+            "text": "leistungsabhängige Abschreibungsmethode wählen",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswersCount": 2,
+        "Kapitel": 9
+      },
+      {
+        "question": "Wie könnte ein Schiliftbetreiber die Fixkosten der Liftanlagen pro Fahrgast reduzieren? Beachten Sie, dass ausschließlich Tageskarten ausgegeben werden.",
+        "answers": [
+          {
+            "text": "Mehr Fahrgäste anziehen",
+            "isCorrect": true
+          },
+          {
+            "text": "Einen Lift zusperren",
+            "isCorrect": true
+          },
+          {
+            "text": "Die täglichen Fahrzeiten verringern",
+            "isCorrect": false
+          },
+          {
+            "text": "Die Saison durch mehr Öffnungstage verlängern",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswersCount": 3,
+        "Kapitel": 9
+      },
+      {
+        "question": "Wird für einen kleinen Fahrradverleih in Form einer Offenen Gesellschaft die Einführung eines BÜB sein:",
+        "answers": [
+          {
+            "text": "gesetzlich vorgeschrieben",
+            "isCorrect": true
+          },
+          {
+            "text": "nicht notwendig",
+            "isCorrect": false
+          },
+          {
+            "text": "notwendig",
+            "isCorrect": true
+          },
+          {
+            "text": "aufwändig",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswersCount": 2,
+        "Kapitel": 9
+      },
+      
+        {
+          "question": "Dienstleistungen können",
+          "answers": [
+            {
+              "text": "nur mittels Prozesskostenrechnung kalkuliert werden",
+              "isCorrect": false
+            },
+            {
+              "text": "mittels Plankostenrechnung kalkuliert werden",
+              "isCorrect": true
+            },
+            {
+              "text": "mittels Grenzkostenrechnung kalkuliert werden",
+              "isCorrect": true
+            },
+            {
+              "text": "auch mittels Produktkostenrechnung kalkuliert werden",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswersCount": 3,
+          "Kapitel": 9
+        },
+        {
+          "question": "Zur Entscheidungsfindung, welches Fahrzeug neu angeschafft werden soll, bezieht ein Unternehmen in die Berechnungen ein",
+          "answers": [
+            {
+              "text": "Sunk costs",
+              "isCorrect": false
+            },
+            {
+              "text": "mögliche Folgekosten",
+              "isCorrect": true
+            },
+            {
+              "text": "Gemeinkosten des Vertriebs",
+              "isCorrect": false
+            },
+            {
+              "text": "Finanzierungskosten des Fahrzeugs",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswersCount": 2,
+          "Kapitel": 9
+        },
+        {
+          "question": "Welche pagatorischen Größen haben auch Kostencharakter?",
+          "answers": [
+            {
+              "text": "Verlustvortrag",
+              "isCorrect": false
+            },
+            {
+              "text": "Dotierung Gewinnrücklage",
+              "isCorrect": false
+            },
+            {
+              "text": "Abschreibungen",
+              "isCorrect": true
+            },
+            {
+              "text": "Materialaufwand",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswersCount": 2,
+          "Kapitel": 9
+        },
+        {
+          "question": "Welche Posten können zu Unterschieden zwischen pagatorischem und kalkulatorischem Gewinn führen?",
+          "answers": [
+            {
+              "text": "Eigenkapitalzinsen",
+              "isCorrect": true
+            },
+            {
+              "text": "Dotierung unversteuerter Rücklagen",
+              "isCorrect": true
+            },
+            {
+              "text": "Abschreibungen",
+              "isCorrect": true
+            },
+            {
+              "text": "Gewinnvortrag",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswersCount": 3,
+          "Kapitel": 9
+        },
+        {
+          "question": "Kalkulatorische Wagnisse eines Unternehmens",
+          "answers": [
+            {
+              "text": "sind unter „Sonstige betriebliche Aufwendungen“ verbucht",
+              "isCorrect": false
+            },
+            {
+              "text": "sind in den Rückstellungen enthalten",
+              "isCorrect": false
+            },
+            {
+              "text": "beinhalten potenzielle Kosten, die beispielsweise aufgrund von Schlechtwetter anfallen",
+              "isCorrect": true
+            },
+            {
+              "text": "sind Teil der Betriebsüberleitung",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswersCount": 2,
+          "Kapitel": 9
+        },
+        
+          {
+            "question": "Sonderkosten in der Produktion könnten sein",
+            "answers": [
+              {
+                "text": "Überstunden der Mitarbeiter",
+                "isCorrect": true
+              },
+              {
+                "text": "Aufkleber auf der Verpackung",
+                "isCorrect": true
+              },
+              {
+                "text": "Wunschfarbe des Kunden",
+                "isCorrect": true
+              },
+              {
+                "text": "Vermögenssteuer",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 9
+          },
+          {
+            "question": "Welche Aussagen bzgl. Rechengrößen stimmen?",
+            "answers": [
+              {
+                "text": "Abschreibungen sind Kosten",
+                "isCorrect": true
+              },
+              {
+                "text": "Abschreibungen sind Ausgaben",
+                "isCorrect": false
+              },
+              {
+                "text": "Kumulierte Abschreibungen sind Aufwand",
+                "isCorrect": false
+              },
+              {
+                "text": "Zuschreibungen sind Ertrag",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 9
+          },
+          {
+            "question": "Abschreibungen sind",
+            "answers": [
+              {
+                "text": "Ausgaben",
+                "isCorrect": false
+              },
+              {
+                "text": "Aufwand",
+                "isCorrect": true
+              },
+              {
+                "text": "Auszahlungen",
+                "isCorrect": false
+              },
+              {
+                "text": "Kosten",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 9
+          }
+        
+      
+      
+    
   ]
 }
