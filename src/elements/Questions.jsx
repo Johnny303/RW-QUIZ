@@ -1,32 +1,32 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react"
 
 function Questions() {
-  const [submittedQuestions, setSubmittedQuestions] = useState([]);
-  const [data, setData] = useState([]);
-  const [selectedAnswers, setSelectedAnswers] = useState({});
-  const [submittedData, setSubmittedData] = useState([]);
-  const [randomizedQuestions, setRandomizedQuestions] = useState([]);
-  const [showAll, setShowAll] = useState(false);
-  const questionsPerPage = 20;
+  const [submittedQuestions, setSubmittedQuestions] = useState([])
+  const [data, setData] = useState([])
+  const [selectedAnswers, setSelectedAnswers] = useState({})
+  const [submittedData, setSubmittedData] = useState([])
+  const [randomizedQuestions, setRandomizedQuestions] = useState([])
+  const [showAll, setShowAll] = useState(false)
+  const questionsPerPage = 20
 
   const getRandomQuestions = () => {
     if (data.length < questionsPerPage) {
-      setRandomizedQuestions(data.map((q, i) => ({ ...q, originalIndex: i })));
-      setShowAll(true); // If fewer than 20, just show everything
-      return;
+      setRandomizedQuestions(data.map((q, i) => ({ ...q, originalIndex: i })))
+      setShowAll(true) // If fewer than 20, just show everything
+      return
     }
 
     const shuffled = [...data]
       .map((q, i) => ({ ...q, originalIndex: i })) // Add original index
-      .sort(() => Math.random() - 0.5); // Shuffle questions randomly
-    setRandomizedQuestions(shuffled.slice(0, questionsPerPage));
-    setShowAll(false); // Indicate we're in "randomized" mode
-  };
+      .sort(() => Math.random() - 0.5) // Shuffle questions randomly
+    setRandomizedQuestions(shuffled.slice(0, questionsPerPage))
+    setShowAll(false) // Indicate we're in "randomized" mode
+  }
 
   const showAllQuestions = () => {
-    setRandomizedQuestions(data.map((q, i) => ({ ...q, originalIndex: i }))); // Show all questions with indices
-    setShowAll(true); // Track that we're showing all
-  };
+    setRandomizedQuestions(data.map((q, i) => ({ ...q, originalIndex: i }))) // Show all questions with indices
+    setShowAll(true) // Track that we're showing all
+  }
 
   const fetchKapitelFiveQuestions = () => {
     fetch("./questions.json", {
@@ -35,19 +35,19 @@ function Questions() {
         Accept: "application/json",
       },
     })
-      .then((response) => response.json())
-      .then((myJson) => {
+      .then(response => response.json())
+      .then(myJson => {
         const filteredQuestions = myJson.questions.filter(
-          (question) => question.Kapitel === 5
-        );
-        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })));
+          question => question.Kapitel === 5
+        )
+        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
         setRandomizedQuestions(
           filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
-        );
-        setShowAll(true); // Show all filtered questions
+        )
+        setShowAll(true) // Show all filtered questions
       })
-      .catch((error) => console.error("Error fetching data:", error));
-  };
+      .catch(error => console.error("Error fetching data:", error))
+  }
 
   const fetchKapitelSixQuestions = () => {
     fetch("./questions.json", {
@@ -56,19 +56,19 @@ function Questions() {
         Accept: "application/json",
       },
     })
-      .then((response) => response.json())
-      .then((myJson) => {
+      .then(response => response.json())
+      .then(myJson => {
         const filteredQuestions = myJson.questions.filter(
-          (question) => question.Kapitel === 6
-        );
-        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })));
+          question => question.Kapitel === 6
+        )
+        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
         setRandomizedQuestions(
           filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
-        );
-        setShowAll(true); // Show all filtered questions
+        )
+        setShowAll(true) // Show all filtered questions
       })
-      .catch((error) => console.error("Error fetching data:", error));
-  };
+      .catch(error => console.error("Error fetching data:", error))
+  }
   const fetchKapitelSevenQuestions = () => {
     fetch("./questions.json", {
       headers: {
@@ -76,75 +76,95 @@ function Questions() {
         Accept: "application/json",
       },
     })
-      .then((response) => response.json())
-      .then((myJson) => {
+      .then(response => response.json())
+      .then(myJson => {
         const filteredQuestions = myJson.questions.filter(
-          (question) => question.Kapitel === 7
-        );
-        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })));
+          question => question.Kapitel === 7
+        )
+        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
         setRandomizedQuestions(
           filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
-        );
-        setShowAll(true); // Show all filtered questions
+        )
+        setShowAll(true) // Show all filtered questions
       })
-      .catch((error) => console.error("Error fetching data:", error));
-  };
-  
+      .catch(error => console.error("Error fetching data:", error))
+  }
+  const fetchKapitelEightQuestions = () => {
+    fetch("./questions.json", {
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+    })
+      .then(response => response.json())
+      .then(myJson => {
+        const filteredQuestions = myJson.questions.filter(
+          question => question.Kapitel === 8
+        )
+        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
+        setRandomizedQuestions(
+          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
+        )
+        setShowAll(true) // Show all filtered questions
+      })
+      .catch(error => console.error("Error fetching data:", error))
+  }
+
   const handleCheckboxChange = (questionIndex, answerIndex, e) => {
-    const checked = e?.target?.checked ?? e; // Fallback to `e` if it's directly a boolean
+    const checked = e?.target?.checked ?? e // Fallback to `e` if it's directly a boolean
     if (typeof checked !== "boolean") {
-      console.error("Unexpected value for checkbox change:", e);
-      return;
+      console.error("Unexpected value for checkbox change:", e)
+      return
     }
 
-    const originalIndex = randomizedQuestions[questionIndex].originalIndex; // Map back to original index
-    setSelectedAnswers((prev) => ({
+    const originalIndex = randomizedQuestions[questionIndex].originalIndex // Map back to original index
+    setSelectedAnswers(prev => ({
       ...prev,
       [originalIndex]: {
         ...prev[originalIndex],
         [answerIndex]: checked,
       },
-    }));
-  };
+    }))
+  }
 
-  const handleSubmit = (questionIndex) => {
-    const originalIndex = randomizedQuestions[questionIndex].originalIndex; // Map back to original index
-    const selected = selectedAnswers[originalIndex] || {}; // Get selected answers for this question
-    const questionData = data[originalIndex]; // Retrieve the correct question from data
+  const handleSubmit = questionIndex => {
+    const originalIndex = randomizedQuestions[questionIndex].originalIndex // Map back to original index
+    const selected = selectedAnswers[originalIndex] || {} // Get selected answers for this question
+    const questionData = data[originalIndex] // Retrieve the correct question from data
 
-    setSubmittedData((prev) => [
-      ...prev.filter((entry) => entry.question.originalIndex !== originalIndex), // Avoid duplicates
+    setSubmittedData(prev => [
+      ...prev.filter(entry => entry.question.originalIndex !== originalIndex), // Avoid duplicates
       { question: questionData, selectedAnswers: selected },
-    ]);
+    ])
 
-    setSubmittedQuestions((prev) =>
+    setSubmittedQuestions(prev =>
       prev.includes(originalIndex) ? prev : [...prev, originalIndex]
-    ); // Avoid duplicate submissions
+    ) // Avoid duplicate submissions
 
-    console.log("Submitting Question:", questionData);
-    console.log("Selected Answers:", selected);
-  };
+    console.log("Submitting Question:", questionData)
+    console.log("Selected Answers:", selected)
+  }
 
   const getAnswerClass = (questionIndex, answerIndex) => {
-    const originalIndex = randomizedQuestions[questionIndex].originalIndex;
+    const originalIndex = randomizedQuestions[questionIndex].originalIndex
     if (!submittedQuestions.includes(originalIndex)) {
-      return ""; // No styling before submission
+      return "" // No styling before submission
     }
 
-    const question = data[originalIndex];
-    const isCorrect = question.answers[answerIndex].isCorrect;
-    const isSelected = selectedAnswers[originalIndex]?.[answerIndex];
+    const question = data[originalIndex]
+    const isCorrect = question.answers[answerIndex].isCorrect
+    const isSelected = selectedAnswers[originalIndex]?.[answerIndex]
 
     if (isSelected) {
-      return isCorrect ? "correct-answer" : "incorrect-answer"; // Green for correct, red for incorrect
+      return isCorrect ? "correct-answer" : "incorrect-answer" // Green for correct, red for incorrect
     }
 
     if (!isSelected && isCorrect) {
-      return "missed-correct-answer"; // Blue for correct but unselected answers
+      return "missed-correct-answer" // Blue for correct but unselected answers
     }
 
-    return ""; // No special styling for other unselected answers
-  };
+    return "" // No special styling for other unselected answers
+  }
 
   const getData = () => {
     fetch("./questions.json", {
@@ -153,21 +173,21 @@ function Questions() {
         Accept: "application/json",
       },
     })
-      .then((response) => response.json())
-      .then((myJson) =>
+      .then(response => response.json())
+      .then(myJson =>
         setData(myJson.questions.map((q, i) => ({ ...q, originalIndex: i })))
       )
-      .catch((error) => console.error("Error fetching data:", error));
-  };
+      .catch(error => console.error("Error fetching data:", error))
+  }
 
   useEffect(() => {
-    getData();
-  }, []);
+    getData()
+  }, [])
 
-  const isSubmitDisabled = (index) => {
-    const originalIndex = randomizedQuestions[index].originalIndex;
-    return !Object.values(selectedAnswers[originalIndex] || {}).includes(true);
-  };
+  const isSubmitDisabled = index => {
+    const originalIndex = randomizedQuestions[index].originalIndex
+    return !Object.values(selectedAnswers[originalIndex] || {}).includes(true)
+  }
 
   return (
     <div>
@@ -186,6 +206,9 @@ function Questions() {
         </button>
         <button onClick={fetchKapitelSevenQuestions} className="custom-button">
           Get Kapitel 7 Questions
+        </button>
+        <button onClick={fetchKapitelEightQuestions} className="custom-button">
+          Get Kapitel 8 Questions
         </button>
       </div>
       <div className="cards-container">
@@ -208,7 +231,7 @@ function Questions() {
                           randomizedQuestions[index].originalIndex
                         ]?.[i] || false
                       }
-                      onChange={(e) =>
+                      onChange={e =>
                         handleCheckboxChange(index, i, e)
                       } /* Pass the event explicitly */
                     />
@@ -240,7 +263,7 @@ function Questions() {
           ))}
       </div>
     </div>
-  );
+  )
 }
 
-export default Questions;
+export default Questions
