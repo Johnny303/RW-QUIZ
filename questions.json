@@ -7486,6 +7486,584 @@
       ],
       "correctAnswersCount": 2,
       "Kapitel": 7
+    },
+
+    {
+      "question": "Eine Due Diligence-Prüfung",
+      "answers": [
+        {
+          "text": "ist gesetzlich bei einer Unternehmensübernahme vorgeschrieben",
+          "isCorrect": false
+        },
+        {
+          "text": "beinhaltet eine Risikoprüfung",
+          "isCorrect": true
+        },
+        {
+          "text": "bezieht sich auf die Einhaltung des Corporate Governance Codes",
+          "isCorrect": false
+        },
+        {
+          "text": "ist eine unternehmensinterne Prüfung",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 8
+    },
+    {
+      "question": "Die interne Revision",
+      "answers": [
+        {
+          "text": "sollte eine Stabsstelle sein",
+          "isCorrect": true
+        },
+        {
+          "text": "ist jährlich unternehmensweit durchzuführen",
+          "isCorrect": false
+        },
+        {
+          "text": "überprüft die Wirtschaftlichkeit von Betriebsabläufen",
+          "isCorrect": true
+        },
+        {
+          "text": "übernimmt die Abschlussprüfung",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 8
+    },
+    {
+      "question": "Die persönlichen Ziele von Managern",
+      "answers": [
+        {
+          "text": "können durch Ausnutzung von Bewertungswahlmöglichkeiten unterstützt werden",
+          "isCorrect": true
+        },
+        {
+          "text": "umfassen auch die Maximierung von eigenen Einkommen",
+          "isCorrect": true
+        },
+        {
+          "text": "können durch Corporate Governance Strukturen gebremst werden",
+          "isCorrect": false
+        },
+        {
+          "text": "decken sich ganz mit den Unternehmenszielen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 8
+    },
+    {
+      "question": "Wirtschaftsprüfung",
+      "answers": [
+        {
+          "text": "überprüft nur privatrechtliche Körperschaften",
+          "isCorrect": false
+        },
+        {
+          "text": "darf von jedem Absolventen der BWL durchgeführt werden",
+          "isCorrect": false
+        },
+        {
+          "text": "ist gesetzlich vorgeschrieben",
+          "isCorrect": true
+        },
+        {
+          "text": "umfasst die Abschlussprüfung",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 8
+    },
+    {
+      "question": "Der Corporate Governance Code",
+      "answers": [
+        {
+          "text": "ist weltweit standardisiert",
+          "isCorrect": false
+        },
+        {
+          "text": "ist EU-weit standardisiert",
+          "isCorrect": false
+        },
+        {
+          "text": "beinhaltet A, B und C-Regeln",
+          "isCorrect": false
+        },
+        {
+          "text": "ist für börsennotierte Unternehmen relevant",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 8
+    },
+    {
+      "question": "Abschlussprüfer",
+      "answers": [
+        {
+          "text": "bestätigen die Arbeitsleistung (\"performance\") des Managements",
+          "isCorrect": false
+        },
+        {
+          "text": "begutachten die formale und sachliche Korrektheit eines Jahresabschlusses",
+          "isCorrect": true
+        },
+        {
+          "text": "sind im Unternehmen, das sie prüfen, angestellt",
+          "isCorrect": false
+        },
+        {
+          "text": "prüfen privatwirtschaftlich geführte Unternehmen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 8
+    },
+    {
+      "question": "Ein Corporate Governance Kodex",
+      "answers": [
+        {
+          "text": "ist im Rahmen der IAS/IFRS geregelt",
+          "isCorrect": false
+        },
+        {
+          "text": "ist ein Ordnungsrahmen, wie ein Unternehmen geführt und überwacht werden soll",
+          "isCorrect": true
+        },
+        {
+          "text": "ist für jedes privatwirtschaftlich geführte Unternehmen verpflichtend zu erstellen",
+          "isCorrect": false
+        },
+        {
+          "text": "soll Informationsasymmetrie reduzieren",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 8
+    },
+    {
+      "question": "Corporate Governance",
+      "answers": [
+        {
+          "text": "ist für alle Unternehmen verpflichtend einzuhalten",
+          "isCorrect": false
+        },
+        {
+          "text": "ist Teil der Grundsätze ordnungsgemäßer Buchführung",
+          "isCorrect": false
+        },
+        {
+          "text": "muss von börsennotierten Unternehmen eingehalten werden",
+          "isCorrect": true
+        },
+        {
+          "text": "ist in Österreich in L,C,R-Regeln gegliedert",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 8
+    },
+    {
+      "question": "Abschlussprüfer",
+      "answers": [
+        {
+          "text": "führen auch die Steuerprüfung durch",
+          "isCorrect": false
+        },
+        {
+          "text": "überprüfen die Gesetzeskonformität der Rechnungslegung",
+          "isCorrect": true
+        },
+        {
+          "text": "unterliegen dem Rotationsprinzip",
+          "isCorrect": true
+        },
+        {
+          "text": "werden vom Staat bezahlt",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 8
+    },
+    {
+      "question": "Eine große Aktiengesellschaft in Privatbesitz",
+      "answers": [
+        {
+          "text": "wird regelmäßig einer Revision unterzogen",
+          "isCorrect": false
+        },
+        {
+          "text": "unterliegt einer Steuerprüfung",
+          "isCorrect": true
+        },
+        {
+          "text": "wird jährlich vom Rechnungshof geprüft",
+          "isCorrect": false
+        },
+        {
+          "text": "wird jährlich dem Enforcement unterzogen",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 8
+    },
+    {
+      "question": "Der Corporate Governance Codex",
+      "answers": [
+        {
+          "text": "muss von allen Unternehmen eingehalten werden, die nach IAS/IFRS bilanzieren",
+          "isCorrect": false
+        },
+        {
+          "text": "wurde bis Anfang 2023 neu überarbeitet",
+          "isCorrect": false
+        },
+        {
+          "text": "enthält L/C/R-Regeln",
+          "isCorrect": true
+        },
+        {
+          "text": "muss von allen Unternehmen eingehalten werden, die nach UGB bilanzieren",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 8
+    },
+
+    {
+      "question": "Die Aufgabe von Wirtschaftsprüfern ist es,",
+      "answers": [
+        {
+          "text": "die Vollständigkeit der Rechnungslegung zu überprüfen",
+          "isCorrect": true
+        },
+        {
+          "text": "die Steuererklärung zu überprüfen",
+          "isCorrect": false
+        },
+        {
+          "text": "die Qualität des Managements zu überprüfen",
+          "isCorrect": false
+        },
+        {
+          "text": "die Richtigkeit des Rechnungswesens zu überprüfen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 8
+    },
+    {
+      "question": "Wenn ein Fahrradverleih eine Aktiengesellschaft ist, prüft der Wirtschaftsprüfer",
+      "answers": [
+        {
+          "text": "die gesetzeskonforme Buchhaltung",
+          "isCorrect": true
+        },
+        {
+          "text": "die Sicherheit der Fahrräder",
+          "isCorrect": false
+        },
+        {
+          "text": "die Richtigkeit der Kalkulation",
+          "isCorrect": false
+        },
+        {
+          "text": "die Rentabilität",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 8
+    },
+    {
+      "question": "Ein Unternehmen, das als Aktiengesellschaft gegründet wurde, mehr als 200 Mitarbeiter hat und mehr als 10 Mio € umsetzt,",
+      "answers": [
+        {
+          "text": "muss buchführen",
+          "isCorrect": true
+        },
+        {
+          "text": "muss einen Jahresabschluss erstellen",
+          "isCorrect": true
+        },
+        {
+          "text": "muss eine Prozesskostenrechnung haben",
+          "isCorrect": false
+        },
+        {
+          "text": "wird vom Rechnungshof geprüft",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 8
+    },
+    {
+      "question": "Der Bezirk, in dem Ihr Gebäude steht, erhält eine neue Flächenwidmung. Es ist zurzeit unklar, ob der Bezirk durch die Ansiedelung von Forschungsunternehmen aufgewertet oder durch das Bauen von Schnellstraßen abgewertet wird. Sie werden am Bilanzstichtag",
+      "answers": [
+        {
+          "text": "aufwerten, weil Sie eine schöne Bilanz zeigen wollen",
+          "isCorrect": false
+        },
+        {
+          "text": "abwerten, weil Sie aufgrund der Unsicherheit gesetzlich müssen",
+          "isCorrect": false
+        },
+        {
+          "text": "nichts tun, weil es keinen gesetzlich bedingten Handlungsbedarf gibt",
+          "isCorrect": true
+        },
+        {
+          "text": "abwerten, weil Sie dürfen",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 8
+    },
+    {
+      "question": "Das Eigenkapital",
+      "answers": [
+        {
+          "text": "muss zu 50% wertgedeckt sein",
+          "isCorrect": false
+        },
+        {
+          "text": "beinhaltet Gewinn- und Kapitalrückstellungen",
+          "isCorrect": true
+        },
+        {
+          "text": "kann auch Negativpositionen beinhalten",
+          "isCorrect": false
+        },
+        {
+          "text": "wird um die Gewinnvorträge bereinigt in die Bilanzanalyse übernommen (Berechnung lt. OeNB)",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 8
+    },
+    {
+      "question": "Welche Art der Prüfung werden Sie am ehesten einsetzen, wenn Sie das Gefühl haben, ein Mitarbeiter zweigt Firmengelder ab?",
+      "answers": [
+        {
+          "text": "Wirtschaftsprüfer",
+          "isCorrect": false
+        },
+        {
+          "text": "interne Revision",
+          "isCorrect": true
+        },
+        {
+          "text": "externe Revision",
+          "isCorrect": false
+        },
+        {
+          "text": "Due Diligence Prüfung",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 8
+    },
+    {
+      "question": "Welches Regelwerk eignet sich am besten, um Korruptionsversuchen vorzubeugen?",
+      "answers": [
+        {
+          "text": "UGB",
+          "isCorrect": false
+        },
+        {
+          "text": "Strafgesetzbuch",
+          "isCorrect": false
+        },
+        {
+          "text": "Corporate Governments Code",
+          "isCorrect": false
+        },
+        {
+          "text": "Compliance Richtlinien",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 8
+    },
+    {
+      "question": "Um bei börsennotierten Gesellschaften gesamtheitliche Überblicksprüfungen vorzunehmen, wird welches Instrument verwendet?",
+      "answers": [
+        {
+          "text": "Wirtschaftsprüfung",
+          "isCorrect": false
+        },
+        {
+          "text": "Enforcement",
+          "isCorrect": false
+        },
+        {
+          "text": "Controlling",
+          "isCorrect": false
+        },
+        {
+          "text": "Abschlussprüfung",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 8
+    },
+    {
+      "question": "Bei einer Due Diligence Prüfung wird überprüft, ob",
+      "answers": [
+        {
+          "text": "sich das Unternehmen ethisch korrekt verhält",
+          "isCorrect": false
+        },
+        {
+          "text": "ein Unternehmen von einem anderen aufgekauft werden soll",
+          "isCorrect": true
+        },
+        {
+          "text": "ob zwei Unternehmen einander bei einem künftigen merger & acquisition ergänzen",
+          "isCorrect": true
+        },
+        {
+          "text": "Korruption vorgefallen ist",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 8
+    },
+    {
+      "question": "Die Rotation der Wirtschaftsprüfer wurde eingeführt, damit",
+      "answers": [
+        {
+          "text": "die Konkurrenz unter den Wirtschaftsprüfern gestärkt wird",
+          "isCorrect": false
+        },
+        {
+          "text": "keine allzu großen Abhängigkeiten zwischen Wirtschaftsprüfer und Unternehmen entstehen",
+          "isCorrect": true
+        },
+        {
+          "text": "neue Wirtschaftsprüfer einen offeneren, unvoreingenommeneren Blick auf das Unternehmen bekommen",
+          "isCorrect": true
+        },
+        {
+          "text": "damit die Kosten für die Wirtschaftsprüfung gesenkt werden",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 8
+    },
+
+    {
+      "question": "Welche der folgenden Instrumente sind einzusetzen, wenn man einen Verhütungseffekt erreichen möchte?",
+      "answers": [
+        {
+          "text": "Enforcement",
+          "isCorrect": false
+        },
+        {
+          "text": "Interne Revision",
+          "isCorrect": true
+        },
+        {
+          "text": "Compliance",
+          "isCorrect": true
+        },
+        {
+          "text": "Governance Code",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3,
+      "Kapitel": 8
+    },
+    {
+      "question": "Welche der folgenden Instrumente sind am besten einzusetzen, wenn man ex post einen Anpassungseffekt erreichen möchte?",
+      "answers": [
+        {
+          "text": "Wirtschaftsprüfung",
+          "isCorrect": true
+        },
+        {
+          "text": "Due Diligence",
+          "isCorrect": true
+        },
+        {
+          "text": "Enforcement",
+          "isCorrect": false
+        },
+        {
+          "text": "Interne Revision",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 8
+    },
+    {
+      "question": "In einer Controlling-Abteilung passiert hauptsächlich",
+      "answers": [
+        {
+          "text": "Kontrolle",
+          "isCorrect": true
+        },
+        {
+          "text": "Steuerung",
+          "isCorrect": true
+        },
+        {
+          "text": "Interne Revision",
+          "isCorrect": false
+        },
+        {
+          "text": "Entscheidungsvorbereitung",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2,
+      "Kapitel": 8
+    },
+    {
+      "question": "Die Steuerprüfung wird vorgenommen von / vom",
+      "answers": [
+        {
+          "text": "Wirtschaftsprüfer",
+          "isCorrect": false
+        },
+        {
+          "text": "Rechnungshof",
+          "isCorrect": false
+        },
+        {
+          "text": "Steuerberater",
+          "isCorrect": false
+        },
+        {
+          "text": "Finanzamt",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1,
+      "Kapitel": 8
     }
   ]
 }
