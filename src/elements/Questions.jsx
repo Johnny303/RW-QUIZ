@@ -129,6 +129,27 @@ function Questions() {
       })
       .catch(error => console.error("Error fetching data:", error))
   }
+  const fetchKapitelTenQuestions = () => {
+    
+    fetch("./questions.json", {
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+    })
+      .then(response => response.json())
+      .then(myJson => {
+        const filteredQuestions = myJson.questions.filter(
+          question => question.Kapitel === 10
+        )
+        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
+        setRandomizedQuestions(
+          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
+        )
+        setShowAll(true) // Show all filtered questions
+      })
+      .catch(error => console.error("Error fetching data:", error))
+  }
 
   const handleCheckboxChange = (questionIndex, answerIndex, e) => {
     const checked = e?.target?.checked ?? e // Fallback to `e` if it's directly a boolean
@@ -232,6 +253,9 @@ function Questions() {
         </button>
         <button onClick={fetchKapitelNineQuestions} className="custom-button">
           Get Kapitel 9 Questions
+        </button>
+        <button onClick={fetchKapitelTenQuestions} className="custom-button">
+          Get Kapitel 10 Questions
         </button>
       </div>
       <div className="cards-container">
