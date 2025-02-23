@@ -9432,6 +9432,1162 @@
             ],
             "correctAnswersCount": 2,
             "Kapitel": 9
+          },
+          {
+            "question": "Wenn ein Unternehmen noch freie Produktionskapazitäten hat und die Fixkosten bereits abgedeckt sind, kann auf Basis welcher Kosten zusätzliche Produktion kalkuliert werden?",
+            "answers": [
+              {
+                "text": "Sunk costs",
+                "isCorrect": false
+              },
+              {
+                "text": "Einzelkosten",
+                "isCorrect": false
+              },
+              {
+                "text": "Grenzkosten",
+                "isCorrect": true
+              },
+              {
+                "text": "Vollkosten",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "Gewährt ein Schiliftbetreiber Reisegruppen einen Mengenrabatt",
+            "answers": [
+              {
+                "text": "erhöht sich bei gleichbleibender Kalkulation sein Gewinn",
+                "isCorrect": false
+              },
+              {
+                "text": "bleibt sein Gewinn gleich, wenn er den Rabatt vorher in den Preis einkalkuliert",
+                "isCorrect": true
+              },
+              {
+                "text": "verringern sich die Verwaltungskosten beim Verkauf von Liftkarten",
+                "isCorrect": true
+              },
+              {
+                "text": "ist eine geringere Umsatzsteuer abzuliefern",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "In der Kostenträgerrechnung",
+            "answers": [
+              {
+                "text": "werden die Kosten eines Produktes oder einer Leistung kalkuliert",
+                "isCorrect": true
+              },
+              {
+                "text": "wird der Stückgewinn eines Kostenträgers ausgerechnet",
+                "isCorrect": true
+              },
+              {
+                "text": "werden nur Produkte kalkuliert",
+                "isCorrect": false
+              },
+              {
+                "text": "werden teilweise andere Gemeinkostenzuschläge als in der Buchhaltung verwendet",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Wenn Herstellkosten zu Vollkosten kalkuliert werden, bedeutet das,dass",
+            "answers": [
+              {
+                "text": "Einzel- und Gemeinkosten berücksichtigt werden",
+                "isCorrect": true
+              },
+              {
+                "text": "Ist- und Plankosten in eine gemeinsame Rechnung eingehen",
+                "isCorrect": false
+              },
+              {
+                "text": "fixe und variable Kosten berücksichtigt werden",
+                "isCorrect": true
+              },
+              {
+                "text": "Verwaltungskosten inkludiert sind",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Die Kostenstellenrechnung beinhaltet die innerbetriebliche Leistungsverrechnung?",
+            "answers": [
+              {
+                "text": "beinhaltet die innerbetriebliche Leistungsverrechnung",
+                "isCorrect": true
+              },
+              {
+                "text": "ermöglicht die Errechnung von Zuschlags- und Verrechnungssätzen",
+                "isCorrect": true
+              },
+              {
+                "text": "ist ein Instrument der Prozesskostenrechnung",
+                "isCorrect": false
+              },
+              {
+                "text": "beinhaltet Einzel- und Gemeinkosten",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+      
+          {
+            "question": "Der Deckungsbeitrag",
+            "answers": [
+              {
+                "text": "basiert auf der Vollkostenrechnung",
+                "isCorrect": false
+              },
+              {
+                "text": "wird in der Break-Even-Analyse verwendet",
+                "isCorrect": true
+              },
+              {
+                "text": "kann bei linearen, degressiven und progressivem Kostenverlauf verwendet werden",
+                "isCorrect": true
+              },
+              {
+                "text": "errechnet sich als Erlöse minus variable Kosten",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Gemeinkosten",
+            "answers": [
+              {
+                "text": "kommen nur in der Vollkostenrechnung vor",
+                "isCorrect": false
+              },
+              {
+                "text": "erhöhen den Wert des selbsterstellten Vermögensgegenstandes",
+                "isCorrect": true
+              },
+              {
+                "text": "werden im BAB berechnet",
+                "isCorrect": true
+              },
+              {
+                "text": "müssen bei der Berechnung der Herstellungskosten berücksichtigt werden",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Bei der stufenweisen Fixkostendeckungsbeitragsrechnung",
+            "answers": [
+              {
+                "text": "wird der pagatorische Gewinn errechnet",
+                "isCorrect": false
+              },
+              {
+                "text": "kann mit Ist- und Plankosten kalkuliert werden",
+                "isCorrect": true
+              },
+              {
+                "text": "wird eine Art Segmentanalyse durchgeführt",
+                "isCorrect": true
+              },
+              {
+                "text": "werden variable und fixe Kosten berücksichtigt",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Beispiele für Kostenstellen sind",
+            "answers": [
+              {
+                "text": "Marketingabteilung",
+                "isCorrect": true
+              },
+              {
+                "text": "Materialaufwand",
+                "isCorrect": false
+              },
+              {
+                "text": "Bankkonto",
+                "isCorrect": false
+              },
+              {
+                "text": "Arbeitsplatz",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Wenn ein Unternehmen Verrechnungspreise kalkuliert,",
+            "answers": [
+              {
+                "text": "verrechnet es diese an ihre Kunden",
+                "isCorrect": false
+              },
+              {
+                "text": "werden diese zur Verrechnung zwischen einzelnen Abteilungen eines Unternehmens verwendet",
+                "isCorrect": true
+              },
+              {
+                "text": "sind diese das Ergebnis der innerbetrieblichen Leistungsverrechnung im Rahmen des BAB",
+                "isCorrect": false
+              },
+              {
+                "text": "bewertet es damit zwischen Abteilungen Leistungen",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Die Vertriebsabteilung ist",
+            "answers": [
+              {
+                "text": "eine Kostenart",
+                "isCorrect": false
+              },
+              {
+                "text": "eine Kostenstelle",
+                "isCorrect": true
+              },
+              {
+                "text": "eine Organisationseinheit",
+                "isCorrect": true
+              },
+              {
+                "text": "ein Kostenträger",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Das Periodenergebnis der stufenweisen Fixkostendeckungsbeitragsrechnung repräsentiert welchen Gewinn?",
+            "answers": [
+              {
+                "text": "repräsentiert einen kalkulatorischen Gewinn",
+                "isCorrect": true
+              },
+              {
+                "text": "entspricht dem EBIT",
+                "isCorrect": false
+              },
+              {
+                "text": "ist eine Form des pagatorischen Gewinns",
+                "isCorrect": false
+              },
+              {
+                "text": "entspricht dem periodisierten Bilanzgewinn",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "Im BAB werden?",
+            "answers": [
+              {
+                "text": "Gemeinkosten verrechnet",
+                "isCorrect": true
+              },
+              {
+                "text": "Verrechnungssätze und Zuschlagssätze berechnet",
+                "isCorrect": true
+              },
+              {
+                "text": "Gesamtkosten verrechnet",
+                "isCorrect": false
+              },
+              {
+                "text": "Kosten von den Hilfskostenstellen auf die Hauptkostenstellen umgelegt",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Bei der Kostenträgerkalkulation sind welche Berechnungen zielführend?",
+            "answers": [
+              {
+                "text": "Selbstkosten + Gewinnzuschlag + Skonto",
+                "isCorrect": false
+              },
+              {
+                "text": "Fertigungseinzelkosten + Fertigungsgemeinkosten + Materialeinzelkosten + Materialgemeinkosten + Verwaltungsgemeinkosten + Vertriebsgemeinkosten + Gewinnzuschlag - Skonto",
+                "isCorrect": true
+              },
+              {
+                "text": "Fertigungseinzelkosten + Fertigungsgemeinkosten + Materialeinzelkosten + Materialgemeinkosten + Gewinnzuschlag - Skonto",
+                "isCorrect": false
+              },
+              {
+                "text": "Herstellkosten + Verwaltungsgemeinkosten + Vertriebsgemeinkosten + Gewinnzuschlag - Skonto",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Kostenstellen?",
+            "answers": [
+              {
+                "text": "gehen direkt in die Kostenträgerrechnung ein",
+                "isCorrect": false
+              },
+              {
+                "text": "werden im BAB benötigt",
+                "isCorrect": true
+              },
+              {
+                "text": "werden im BÜB berücksichtigt",
+                "isCorrect": false
+              },
+              {
+                "text": "sind im UGB definiert",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "Ein Soll-Ist-Vergleich umfasst den Vergleich?",
+            "answers": [
+              {
+                "text": "Normalkosten-Istkosten",
+                "isCorrect": false
+              },
+              {
+                "text": "Buchhaltung-Kostenrechnung",
+                "isCorrect": false
+              },
+              {
+                "text": "Sollmenge-Istmenge",
+                "isCorrect": true
+              },
+              {
+                "text": "Sollpreis-Istpreis",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Die Formel UE=FK+vk*x ",
+            "answers": [
+              {
+                "text": "geht in die Break-Even-Analyse",
+                "isCorrect": true
+              },
+              {
+                "text": "Instrument der Entscheidungsfindung",
+                "isCorrect": true
+              },
+              {
+                "text": "stufenweise Fixkostendeckungsbeitragsrechnung",
+                "isCorrect": false
+              },
+              {
+                "text": "errechnet die Gesamtkosten pro Stück",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Bei der stufenweisen Fixkostendeckungsbeitragsrechnung ...",
+            "answers": [
+              {
+                "text": "kann man Deckungsbeiträge nach Regionen oder Produkten gliedern",
+                "isCorrect": true
+              },
+              {
+                "text": "wird errechnet, in welchem Ausmaß der Deckungsbeitrag die Fixkosten abdeckt",
+                "isCorrect": true
+              },
+              {
+                "text": "wird die Höhe des Periodenerfolges ermittelt",
+                "isCorrect": true
+              },
+              {
+                "text": "rechnet man die Fixkosten zu Teilkosten",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Der Break-Even-Point ...",
+            "answers": [
+              {
+                "text": "berechnet sich wie folgt: Umsatzerlöse = Fixkosten + variable Kosten x Menge",
+                "isCorrect": true
+              },
+              {
+                "text": "bezeichnet die Stückzahl, bei der der Deckungsbeitrag die Fixkosten abdeckt",
+                "isCorrect": true
+              },
+              {
+                "text": "bezeichnet die Stückzahl, ab deren Verkauf ein Produkt positiv zum Gewinn beiträgt",
+                "isCorrect": true
+              },
+              {
+                "text": "bezeichnet den Punkt, bei dem die Grenzerträge die Vollkosten abdecken",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Der Break-Even-Point ...",
+            "answers": [
+              {
+                "text": "hilft bei der Entscheidungsfindung",
+                "isCorrect": true
+              },
+              {
+                "text": "benötigt zu seiner Berechnung eine Teilkostenbetrachtung",
+                "isCorrect": true
+              },
+              {
+                "text": "bezieht Fixkosten und variable Kosten ein",
+                "isCorrect": true
+              },
+              {
+                "text": "ist nur bei nicht-linearem Kostenverlauf anwendbar",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Zuschlags- und Verrechnungssätze ...",
+            "answers": [
+              {
+                "text": "sind das Gleiche",
+                "isCorrect": false
+              },
+              {
+                "text": "werden im BÜB berechnet",
+                "isCorrect": false
+              },
+              {
+                "text": "werden im BAB berechnet",
+                "isCorrect": true
+              },
+              {
+                "text": "gehen in die Kostenträgerrechnung ein",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Die Fixkosten einer Maschine betragen 1.000 €, die variablen Kosten des darauf produzierten Produkts 20 Cent. Um wieviel wird das Produkt sinnvollerweise langfristig verkauft?",
+            "answers": [
+              {
+                "text": "20 Cent + USt",
+                "isCorrect": false
+              },
+              {
+                "text": "mit diesen Angaben nicht zu entscheiden",
+                "isCorrect": true
+              },
+              {
+                "text": "35 Cent, weil es die Konkurrenz auch so macht",
+                "isCorrect": false
+              },
+              {
+                "text": "1000: 0,2 x 1,2",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+      
+          {
+            "question": "Welche Kostenstellen würden bei einem Gebrauchtwagenhändler mit angeschlossener Werkstatt für Sie Sinn machen?",
+            "answers": [
+              {
+                "text": "Produktion",
+                "isCorrect": false
+              },
+              {
+                "text": "Einkauf",
+                "isCorrect": true
+              },
+              {
+                "text": "Verkauf",
+                "isCorrect": true
+              },
+              {
+                "text": "Reparaturwerkstatt",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Für Ihre Reparaturwerkstatt muss 1 Mechanikerstunde kalkuliert werden. Welche Berechnungsbasis macht kurzfristig Sinn, wenn starke Konkurrenz herrscht und Werkstatt und Mitarbeiter jedenfalls vorhanden sein müssen? (ohne USt)",
+            "answers": [
+              {
+                "text": "Herstellkosten zu Grenzkosten",
+                "isCorrect": true
+              },
+              {
+                "text": "Nettobarpreis zu Grenzkosten",
+                "isCorrect": false
+              },
+              {
+                "text": "Selbstkosten zu Grenzkosten",
+                "isCorrect": false
+              },
+              {
+                "text": "Selbstkosten zu Vollkosten",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "Wenn Sie die Handelsware zu Grenzkosten kalkulieren und dem Verkaufspreis gegenüberstellen,",
+            "answers": [
+              {
+                "text": "können Sie mit dieser Differenz die variablen Kosten abdecken",
+                "isCorrect": false
+              },
+              {
+                "text": "bieten Sie wahrscheinlich günstiger an als bei Vollkostenkalkulation",
+                "isCorrect": true
+              },
+              {
+                "text": "bleibt der gesamte Differenzbetrag als Gewinn über",
+                "isCorrect": false
+              },
+              {
+                "text": "nennt man die Differenz Deckungsbeitrag",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Sie wollen neue Kunden gewinnen. Da Sie in einem kompetitiven Markt agieren, entscheidet der Preis. Wie werden Sie zumindest anbieten? (exkl. USt)",
+            "answers": [
+              {
+                "text": "Selbstkosten",
+                "isCorrect": true
+              },
+              {
+                "text": "Herstellkosten",
+                "isCorrect": false
+              },
+              {
+                "text": "Selbstkosten + Skonto",
+                "isCorrect": false
+              },
+              {
+                "text": "Nettobarpreis",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "Die stufenweise Fixkostendeckungsbeitragsrechnung",
+            "answers": [
+              {
+                "text": "kann zu Plankosten und Istkosten gerechnet werden",
+                "isCorrect": true
+              },
+              {
+                "text": "ermöglicht Break-Even-Analysen",
+                "isCorrect": true
+              },
+              {
+                "text": "kann bei Trennung von variablen und Fixkosten nicht gerechnet werden",
+                "isCorrect": false
+              },
+              {
+                "text": "erlaubt eine Analyse, welche einzelnen Produkte mehr Gewinn bringen",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+      
+          {
+            "question": "Im BAB einer großen Autowerkstätte sind Hilfskostenstellen wahrscheinlich",
+            "answers": [
+              {
+                "text": "Maschinenreparatur",
+                "isCorrect": true
+              },
+              {
+                "text": "Werksküche",
+                "isCorrect": true
+              },
+              {
+                "text": "Erste Hilfe-Abteilung",
+                "isCorrect": true
+              },
+              {
+                "text": "Lagerverwaltung",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Sie könnten anstelle gelber Tulpen blaue produzieren, die um 20 Cent teurer verkauft werden könnten.",
+            "answers": [
+              {
+                "text": "Sie werden dies jedenfalls tun",
+                "isCorrect": false
+              },
+              {
+                "text": "Sie analysieren den Markt, ob Sie überhaupt ausreichend Käufer finden",
+                "isCorrect": true
+              },
+              {
+                "text": "Sie kalkulieren, um wieviel teurer blaue Tulpen in der Produktion sind",
+                "isCorrect": true
+              },
+              {
+                "text": "Sie bleiben bei gelben Tulpen und haben Opportunitätskosten von 20 Cent",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Wenn Sie als Nachhilfeinstitut den Preis für eine Kursgebühr festsetzen,",
+            "answers": [
+              {
+                "text": "wird ein allfälliger Mengenrabatt zunächst hinzugezählt",
+                "isCorrect": false
+              },
+              {
+                "text": "sollten Sie zumindest die Selbstkosten abdecken",
+                "isCorrect": true
+              },
+              {
+                "text": "erhöht eine Garantiezusage (Geld zurück bei negativer Note) die Gesamtkosten pro Kurs und somit die Gebühren",
+                "isCorrect": true
+              },
+              {
+                "text": "sollten Sie einen bestimmten Prozentsatz unter dem billigsten Anbieter sein",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Verrechnungssätze",
+            "answers": [
+              {
+                "text": "Werden im BüB berechnet",
+                "isCorrect": false
+              },
+              {
+                "text": "Bezeichnen den Prozentsatz für Gemeinkosten",
+                "isCorrect": false
+              },
+              {
+                "text": "Benötigen einen Geldbetrag als Berechnungsbasis",
+                "isCorrect": false
+              },
+              {
+                "text": "Gehen in die Kostenträgerrechnung ein",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "Die Formel Y = a+bX",
+            "answers": [
+              {
+                "text": "beschreibt eine lineare Funktion",
+                "isCorrect": true
+              },
+              {
+                "text": "unterstützt die Kalkulation der Gesamtkosten, die sich aus variablen Kosten und Fixkosten zusammensetzen",
+                "isCorrect": true
+              },
+              {
+                "text": "spaltet variable und fixe Kosten auf, wenn nur die Gesamtkosten gegeben sind",
+                "isCorrect": false
+              },
+              {
+                "text": "beschreibt die Kosten der Verfügbarkeit und des tatsächlichen Verbrauchs",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Zusammenhängende Begriffe: ",
+            "answers": [
+              {
+                "text": "Selbstkosten sind immer Vollkosten",
+                "isCorrect": false
+              },
+              {
+                "text": "Teilkosten gehen in die Grenzkostenrechnung ein",
+                "isCorrect": true
+              },
+              {
+                "text": "Vollkosten sind immer Fixkosten",
+                "isCorrect": false
+              },
+              {
+                "text": "Variable Kosten sind immer Einzelkosten",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "Ein Kostenträger in Ihrem Nachhilfeinstitut ist der ",
+            "answers": [
+              {
+                "text": "Nachhilfekurs",
+                "isCorrect": true
+              },
+              {
+                "text": "Nachhilfelehrer",
+                "isCorrect": false
+              },
+              {
+                "text": "Raum, in dem die Nachhilfe stattfindet",
+                "isCorrect": false
+              },
+              {
+                "text": "einzelner Schüler",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "Eine Kostenstelle in Ihrem Nachhilfeinstitut kann sein ",
+            "answers": [
+              {
+                "text": "Lektoren und Lektorinnen",
+                "isCorrect": true
+              },
+              {
+                "text": "Standorte, an denen die Kurse stattfinden",
+                "isCorrect": true
+              },
+              {
+                "text": "Teilnehmer und Teilnehmerinnen",
+                "isCorrect": false
+              },
+              {
+                "text": "Kurse",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Wenn ein Unternehmen eine stufenweise Fixkostendeckungsbeitragsrechnung kalkuliert, ",
+            "answers": [
+              {
+                "text": "benötigt es Verkaufspreise pro Kostenträger",
+                "isCorrect": true
+              },
+              {
+                "text": "errechnet es Gewinne bzw. Verluste",
+                "isCorrect": true
+              },
+              {
+                "text": "splittet es die Fixkosten für den gesamten Verein nach den Mitarbeitern pro Standort auf",
+                "isCorrect": false
+              },
+              {
+                "text": "muss es vorher die Gesamtkosten in die fixen und variablen Kosten aufspalten",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Wenn ein Sportartikelhändler für einen Verein einen Familienrabatt für die Fankarten anbietet, ",
+            "answers": [
+              {
+                "text": "ist das als verkaufssteigernde Maßnahme zu sehen",
+                "isCorrect": true
+              },
+              {
+                "text": "hat er sunk costs",
+                "isCorrect": false
+              },
+              {
+                "text": "sollte er diesen vorher in den Verkaufspreis hineinkalkulieren",
+                "isCorrect": true
+              },
+              {
+                "text": "macht er damit Verluste",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Bei einem Spielwarenhersteller betragen die Selbstkosten für einen Baustein 1,20 €, der Gewinnzuschlag 20%, der Skonto 5%. Wie wird der Nettowiederverkaufspreis berechnet?",
+            "answers": [
+              {
+                "text": "1,20 x 1,2 - 5% x (1,20 x 1,2)",
+                "isCorrect": false
+              },
+              {
+                "text": "1,20 x 1,2 x 100 : 0,95",
+                "isCorrect": false
+              },
+              {
+                "text": "1,20 x 1,2 x 0,95",
+                "isCorrect": true
+              },
+              {
+                "text": "1,20 x 0,8 + 5% x (1,20 x 0,8)",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+      
+          {
+            "question": "Ein Spielwarenerzeuger möchte alle Fixkosten aufteilen. Dabei könnte gelten:",
+            "answers": [
+              {
+                "text": "Die Fixkosten verändern sich mit der Anzahl der verkauften Spielzeuge",
+                "isCorrect": false
+              },
+              {
+                "text": "Alle Fixkosten beziehen sich immer auf Bausteine und Puppen gemeinsam; es kann keine spezifischen Fixkosten geben",
+                "isCorrect": false
+              },
+              {
+                "text": "Es gibt Fixkosten für das ganze Unternehmen und für jede Produktgruppe",
+                "isCorrect": true
+              },
+              {
+                "text": "Die Fixkosten werden aliquot zwischen der Menge der Bausteine und Puppen aufgeteilt",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "In der Kostenrechnung werden die Spielzeugbausteine eines Spielwarenhändlers bezeichnet als",
+            "answers": [
+              {
+                "text": "Kosten",
+                "isCorrect": false
+              },
+              {
+                "text": "Kostenstellen",
+                "isCorrect": false
+              },
+              {
+                "text": "Kostenträger",
+                "isCorrect": true
+              },
+              {
+                "text": "Leistungen",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "Bei der Kostenträgerrechnung eines Fahrradverleihs errechnet man",
+            "answers": [
+              {
+                "text": "die Kosten einer Verwaltungsstunde",
+                "isCorrect": false
+              },
+              {
+                "text": "die Kosten einer Verleihstunde",
+                "isCorrect": true
+              },
+              {
+                "text": "die Kosten pro Fahrrad",
+                "isCorrect": true
+              },
+              {
+                "text": "die Kosten einer Reparaturstunde",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Wenn man in einem BAB für eine Kostenstelle einen Verrechnungssatz von 5 errechnet, bedeutet das beispielsweise,",
+            "answers": [
+              {
+                "text": "dass man 5% Gemeinkosten auf die Einzelkosten der Kostenstelle aufschlägt",
+                "isCorrect": true
+              },
+              {
+                "text": "dass man 500% Gemeinkosten auf die Einzelkosten der Kostenstelle aufschlägt",
+                "isCorrect": false
+              },
+              {
+                "text": "dass die Einzelkosten dieser Kostenstelle durchschnittlich 5 € betragen",
+                "isCorrect": false
+              },
+              {
+                "text": "dass ein Betrag von 5 € als Gemeinkosten auf die Einzelkosten der Kostenstelle zugeschlagen werden",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "Welche Größe kann ein Hotel zielführend zur Preisfindung, z.B. Preis pro Übernachtung, verwenden, um auch langfristig Reserven aufzubauen und am Markt erfolgreich zu sein?",
+            "answers": [
+              {
+                "text": "Variable Kosten",
+                "isCorrect": false
+              },
+              {
+                "text": "Marktwerte",
+                "isCorrect": false
+              },
+              {
+                "text": "Selbstkosten",
+                "isCorrect": true
+              },
+              {
+                "text": "Nettoverkaufspreis",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+      
+          {
+            "question": "Welche der genannten Abteilungen eines Hotels wird kurzfristig die größten Vorbehalte gegenüber einer Vollkostenrechnung haben, wenn die Konkurrenz am Markt sehr stark ist?",
+            "answers": [
+              {
+                "text": "Personal",
+                "isCorrect": false
+              },
+              {
+                "text": "Marketing",
+                "isCorrect": true
+              },
+              {
+                "text": "Finanz",
+                "isCorrect": false
+              },
+              {
+                "text": "Buchhaltung",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "Wie ist die übergeordnete theoretische Bezeichnung für den Wert '60 € pro Mannstunde'?",
+            "answers": [
+              {
+                "text": "Lohnkostensatz",
+                "isCorrect": false
+              },
+              {
+                "text": "Verrechnungssatz",
+                "isCorrect": true
+              },
+              {
+                "text": "Zuschlagssatz",
+                "isCorrect": false
+              },
+              {
+                "text": "Gemeinkostenzuschlag",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
+          },
+          {
+            "question": "Wenn ein Schiliftbetreiber überlegt, auch einen Sommerbetrieb für Wanderer zu fahren, muss er beachten, dass",
+            "answers": [
+              {
+                "text": "Die Kalkulationen des Sommer- und Winterbetriebes im BAB unterschiedlich sein können",
+                "isCorrect": true
+              },
+              {
+                "text": "Manche Fixkosten auf Sommer- und Winterbetrieb aufgeteilt werden können",
+                "isCorrect": true
+              },
+              {
+                "text": "Zusätzlich Fixkosten pro Gast für Marketing anfallen",
+                "isCorrect": true
+              },
+              {
+                "text": "Sessellifte und Schlepplifte getrennt kalkuliert werden",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+          {
+            "question": "Verrechnungssätze eines Dienstnehmers können sein:",
+            "answers": [
+              {
+                "text": " Vertriebskosten pro Kunde",
+                "isCorrect": true
+              },
+              {
+                "text": " Fahrtkosten pro Betriebsstunde",
+                "isCorrect": true
+              },
+              {
+                "text": "% Personalgemeinkosten",
+                "isCorrect": false
+              },
+              {
+                "text": "% Verwaltungsgemeinkosten",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Zuschlagssätze für einen Schiliftbetreiber können sein:",
+            "answers": [
+              {
+                "text": " Fertigungsgemeinkosten in % des Personalaufwandes",
+                "isCorrect": true
+              },
+              {
+                "text": " Marketingkosten pro Gast",
+                "isCorrect": false
+              },
+              {
+                "text": " Fertigungsgemeinkosten pro Betriebsstunde",
+                "isCorrect": false
+              },
+              {
+                "text": " Verwaltungsgemeinkosten in % der Herstellkosten",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2,
+            "Kapitel": 10
+          },
+          {
+            "question": "Wenn ein Unternehmen ein Gesamtbudget erstellt,",
+            "answers": [
+              {
+                "text": "... werden mehrere Unterarten von Budgets erstellt",
+                "isCorrect": true
+              },
+              {
+                "text": "... ist eine Koordination von Abteilungen nötig",
+                "isCorrect": true
+              },
+              {
+                "text": "... kann dieses als Zielvorgabe für Manager verwendet werden",
+                "isCorrect": true
+              },
+              {
+                "text": "... ist dies eine Maßnahme der langfristigen Planung",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 3,
+            "Kapitel": 10
+          },
+      
+          {
+            "question": "Sie besitzen eine Werkstatt und haben 4 Möglichkeiten, Ihre Werkstattkunden zu organisieren. Sie brauchen 1 Mitarbeiter am Empfang zur Autorückgabe und -annahme sowie 1 Mechaniker. Welche ist unabhängig von der Kundenzufriedenheit - die kostengünstigste Variante?",
+            "answers": [
+              {
+                "text": "Alle Kunden stellen Freitag, 8 Uhr ihre Autos ab und holen sie zwischen 14 und 15 Uhr ab",
+                "isCorrect": true
+              },
+              {
+                "text": "Jeder Kunde bringt sein Auto, wann er will, Abholung 15 Uhr",
+                "isCorrect": false
+              },
+              {
+                "text": "Jeder Kunde holt und bringt sein Auto, wann er will",
+                "isCorrect": false
+              },
+              {
+                "text": "Sie organisieren Abgabe- und Rückgabetermine individuell",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1,
+            "Kapitel": 10
           }
         
       
