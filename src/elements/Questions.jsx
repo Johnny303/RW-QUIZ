@@ -261,6 +261,7 @@ function Questions() {
           randomizedQuestions.map((question, index) => (
             <div className="card" key={index}>
               <h2>{question.question}</h2>
+              <p1>({question.correctAnswersCount})</p1>
               <div className="answers-container">
                 {question.answers.map((answer, i) => (
                   <div key={i} className={`answer ${getAnswerClass(index, i)}`}>
