@@ -153,6 +153,16 @@ button:hover {
   justify-content: center;
   gap: 16px;
   margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+/* Tablet and below: stack buttons vertically */
+@media (max-width: 800px) {
+  .button-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
 }
 
 .custom-button {
