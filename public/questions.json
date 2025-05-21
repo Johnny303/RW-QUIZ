@@ -42,7 +42,7 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 4
+      "correctAnswersCount": 2
     },
     {
       "question": "Das interne Rechnungswesen:",
@@ -174,7 +174,7 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 2
     },
     {
       "question": "Der Begriff Dreiecksgeschäfte bei der Umsatzsteuer:",
@@ -196,7 +196,7 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 2
     },
     {
       "question": "Welche Organisationen müssen eine doppelte Buchhaltung implementieren?",
@@ -240,7 +240,7 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 2
     },
     {
       "question": "Die IAS/IFRS:",
@@ -284,7 +284,7 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 3
     },
     {
       "question": "Welche Gesetze / Vorschriften können in die Bilanzierung österreichischer Kapitalgesellschaften einfließen?",
@@ -372,7 +372,7 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 2
     },
     {
       "question": "Wer ist Stakeholder oder Shareholder?",
@@ -394,7 +394,7 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 4
+      "correctAnswersCount": 3
     },
     {
       "question": "Das betriebliche Rechnungswesen eines Unternehmens",
@@ -416,7 +416,7 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 4
+      "correctAnswersCount": 3
     },
     {
       "question": "Externe Stakeholder einer Aktiengesellschaft sind",
@@ -438,7 +438,7 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 2
     },
     {
       "question": "Ein Unternehmen will seine Abteilungen zusammenlegen. Welche Abteilung passt am besten zum Rechnungswesen?",
@@ -9488,7 +9488,7 @@
               },
               {
                 "text": "wird der Stückgewinn eines Kostenträgers ausgerechnet",
-                "isCorrect": true
+                "isCorrect": false
               },
               {
                 "text": "werden nur Produkte kalkuliert",
@@ -9496,7 +9496,7 @@
               },
               {
                 "text": "werden teilweise andere Gemeinkostenzuschläge als in der Buchhaltung verwendet",
-                "isCorrect": false
+                "isCorrect": true
               }
             ],
             "correctAnswersCount": 2,
@@ -9654,11 +9654,11 @@
               },
               {
                 "text": "sind diese das Ergebnis der innerbetrieblichen Leistungsverrechnung im Rahmen des BAB",
-                "isCorrect": false
+                "isCorrect": true
               },
               {
                 "text": "bewertet es damit zwischen Abteilungen Leistungen",
-                "isCorrect": true
+                "isCorrect": false
               }
             ],
             "correctAnswersCount": 2,
@@ -9692,11 +9692,11 @@
             "answers": [
               {
                 "text": "repräsentiert einen kalkulatorischen Gewinn",
-                "isCorrect": true
+                "isCorrect": false
               },
               {
                 "text": "entspricht dem EBIT",
-                "isCorrect": false
+                "isCorrect": true
               },
               {
                 "text": "ist eine Form des pagatorischen Gewinns",
@@ -9742,7 +9742,7 @@
               },
               {
                 "text": "Fertigungseinzelkosten + Fertigungsgemeinkosten + Materialeinzelkosten + Materialgemeinkosten + Verwaltungsgemeinkosten + Vertriebsgemeinkosten + Gewinnzuschlag - Skonto",
-                "isCorrect": true
+                "isCorrect": false
               },
               {
                 "text": "Fertigungseinzelkosten + Fertigungsgemeinkosten + Materialeinzelkosten + Materialgemeinkosten + Gewinnzuschlag - Skonto",
@@ -9753,7 +9753,7 @@
                 "isCorrect": true
               }
             ],
-            "correctAnswersCount": 2,
+            "correctAnswersCount": 1,
             "Kapitel": 10
           },
           {
@@ -9969,11 +9969,11 @@
             "answers": [
               {
                 "text": "Herstellkosten zu Grenzkosten",
-                "isCorrect": true
+                "isCorrect": false
               },
               {
                 "text": "Nettobarpreis zu Grenzkosten",
-                "isCorrect": false
+                "isCorrect": true
               },
               {
                 "text": "Selbstkosten zu Grenzkosten",
