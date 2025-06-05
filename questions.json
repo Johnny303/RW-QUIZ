@@ -7191,7 +7191,7 @@
       "answers": [
         {
           "text": "Personalintensität",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Abschreibungsintensität",
@@ -7199,7 +7199,7 @@
         },
         {
           "text": "Materialintensität",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "text": "Zinsertragsintensität",
@@ -7608,11 +7608,11 @@
       "answers": [
         {
           "text": "bestätigen die Arbeitsleistung (\"performance\") des Managements",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "begutachten die formale und sachliche Korrektheit eines Jahresabschlusses",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "text": "sind im Unternehmen, das sie prüfen, angestellt",
@@ -7658,7 +7658,7 @@
         },
         {
           "text": "ist Teil der Grundsätze ordnungsgemäßer Buchführung",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "muss von börsennotierten Unternehmen eingehalten werden",
@@ -7666,7 +7666,7 @@
         },
         {
           "text": "ist in Österreich in L,C,R-Regeln gegliedert",
-          "isCorrect": true
+          "isCorrect": false
         }
       ],
       "correctAnswersCount": 2,
@@ -7704,11 +7704,11 @@
         },
         {
           "text": "unterliegt einer Steuerprüfung",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "text": "wird jährlich vom Rechnungshof geprüft",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "wird jährlich dem Enforcement unterzogen",
@@ -7978,7 +7978,7 @@
       "answers": [
         {
           "text": "Enforcement",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Interne Revision",
@@ -7990,7 +7990,7 @@
         },
         {
           "text": "Governance Code",
-          "isCorrect": true
+          "isCorrect": false
         }
       ],
       "correctAnswersCount": 3,
