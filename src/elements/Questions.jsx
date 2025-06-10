@@ -28,6 +28,87 @@ function Questions() {
     setShowAll(true) // Track that we're showing all
   }
 
+  const fetchKapitelOneQuestions = () => {
+    fetch("./questions.json", {
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+    })
+      .then(response => response.json())
+      .then(myJson => {
+        const filteredQuestions = myJson.questions.filter(
+          question => question.Kapitel === 1
+        )
+        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
+        setRandomizedQuestions(
+          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
+        )
+        setShowAll(true) // Show all filtered questions
+      })
+      .catch(error => console.error("Error fetching data:", error))
+  }
+  const fetchKapitelTwoQuestions = () => {
+    fetch("./questions.json", {
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+    })
+      .then(response => response.json())
+      .then(myJson => {
+        const filteredQuestions = myJson.questions.filter(
+          question => question.Kapitel === 2
+        )
+        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
+        setRandomizedQuestions(
+          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
+        )
+        setShowAll(true) // Show all filtered questions
+      })
+      .catch(error => console.error("Error fetching data:", error))
+  }
+  const fetchKapitelThreeQuestions = () => {
+    fetch("./questions.json", {
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+    })
+      .then(response => response.json())
+      .then(myJson => {
+        const filteredQuestions = myJson.questions.filter(
+          question => question.Kapitel === 3
+        )
+        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
+        setRandomizedQuestions(
+          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
+        )
+        setShowAll(true) // Show all filtered questions
+      })
+      .catch(error => console.error("Error fetching data:", error))
+  }
+  const fetchKapitelFourQuestions = () => {
+    fetch("./questions.json", {
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+    })
+      .then(response => response.json())
+      .then(myJson => {
+        const filteredQuestions = myJson.questions.filter(
+          question => question.Kapitel === 4
+        )
+        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
+        setRandomizedQuestions(
+          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
+        )
+        setShowAll(true) // Show all filtered questions
+      })
+      .catch(error => console.error("Error fetching data:", error))
+  }
+
   const fetchKapitelFiveQuestions = () => {
     fetch("./questions.json", {
       headers: {
@@ -48,6 +129,7 @@ function Questions() {
       })
       .catch(error => console.error("Error fetching data:", error))
   }
+
   const fetchKapitelSixQuestions = () => {
     fetch("./questions.json", {
       headers: {
@@ -236,6 +318,18 @@ function Questions() {
         </button>
         <button onClick={showAllQuestions} className="custom-button">
           Show All Questions
+        </button>
+        <button onClick={fetchKapitelOneQuestions} className="custom-button">
+          Get Kapitel 1 Questions
+        </button>
+        <button onClick={fetchKapitelTwoQuestions} className="custom-button">
+          Get Kapitel 2 Questions
+        </button>
+        <button onClick={fetchKapitelThreeQuestions} className="custom-button">
+          Get Kapitel 3 Questions
+        </button>
+        <button onClick={fetchKapitelFourQuestions} className="custom-button">
+          Get Kapitel 4 Questions
         </button>
         <button onClick={fetchKapitelFiveQuestions} className="custom-button">
           Get Kapitel 5 Questions
