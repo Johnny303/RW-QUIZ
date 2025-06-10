@@ -20,7 +20,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Welche Stakeholder haben besonderes Interesse am Jahresabschluss Ihres Einzelunternehmens?",
@@ -42,7 +43,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Das interne Rechnungswesen:",
@@ -64,7 +66,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Welches Gesetz ist für das interne Rechnungswesen relevant?",
@@ -86,7 +89,9 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
+      
     },
     {
       "question": "Welche Instrumente des Rechnungswesens bauen aufeinander auf?",
@@ -108,7 +113,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Die externe Rechnungslegung eines Unternehmens umfasst folgende Aufgaben:",
@@ -130,7 +136,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "IFRS:",
@@ -152,7 +159,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Folgende Rechtsgrundlagen sind für alle österreichischen Kapitalgesellschaften einzuhalten:",
@@ -174,7 +182,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Der Begriff Dreiecksgeschäfte bei der Umsatzsteuer:",
@@ -196,7 +205,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Welche Organisationen müssen eine doppelte Buchhaltung implementieren?",
@@ -218,7 +228,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Steuerbasis für die Einkommenssteuer ist die:",
@@ -240,7 +251,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Die IAS/IFRS:",
@@ -262,7 +274,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Die Hugo AG muss gemäß UGB erstellen:",
@@ -284,7 +297,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Welche Gesetze / Vorschriften können in die Bilanzierung österreichischer Kapitalgesellschaften einfließen?",
@@ -306,7 +320,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Eine Aktiengesellschaft bilanziert nach dem UGB. Welche Aussagen sind korrekt?",
@@ -328,7 +343,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Welche Art der Buchhaltung darf eine Aktiengesellschaft führen?",
@@ -350,7 +366,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Controlling",
@@ -372,7 +389,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Wer ist Stakeholder oder Shareholder?",
@@ -394,7 +412,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Das betriebliche Rechnungswesen eines Unternehmens",
@@ -416,7 +435,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Externe Stakeholder einer Aktiengesellschaft sind",
@@ -438,7 +458,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Ein Unternehmen will seine Abteilungen zusammenlegen. Welche Abteilung passt am besten zum Rechnungswesen?",
@@ -460,7 +481,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Eine AG ",
@@ -482,7 +504,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Ein Geschäftsjahr für einen Eissalon ",
@@ -504,7 +527,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Ein Unternehmen, das als Aktiengesellschaft gegründet wurde, mehr als 200 Mitarbeiter hat und mehr als 10 Mio. € als Aktiengesellschaft gegründet wurde, mehr als 200 Mitarbeiter hat und mehr als 10 Mio. € als Aktienkapital eingezahlt hat, muss folgende Berichte bzw. Informationen veröffentlichen ",
@@ -526,7 +550,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Ein Eissalon in Form einer AG ",
@@ -548,7 +573,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Der Bilanzstichtag für einen Schiliftbetrieb ",
@@ -570,7 +596,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Bei welchen Bilanzpositionen muss ihre Fristigkeit im Anhang angegeben werden? ",
@@ -592,7 +619,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Eine Aktiengesellschaft muss jedenfalls veröffentlichen: ",
@@ -614,7 +642,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Ein internationaler, börsennotierter Konzern muss welches Buchführungssystem anwenden? ",
@@ -636,7 +665,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen einen kurzfristigen Kredit in einen langfristigen umschuldet, ist dieser Geschäftsvorgang ",
@@ -658,7 +688,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen Handelsware auf Ziel verkauft, ist dieser Geschäftsvorgang ",
@@ -680,7 +711,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen Dienstleistungen gegen Barzahlung verkauft, ist dieser Geschäftsvorgang ",
@@ -702,7 +734,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen einen PC gegen Barzahlung kauft, ist dieser Geschäftsvorgang ",
@@ -724,7 +757,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen neue Aktien an die Börse bringt, ist dieser Geschäftsvorgang ",
@@ -746,7 +780,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen Ware gegen Barzahlung verkauft, hat es eine/einen ",
@@ -768,7 +803,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen Material auf Ziel kauft, hat es eine/einen ",
@@ -790,7 +826,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen ein Gebäude auf Ziel verkauft, hat es eine/einen",
@@ -812,7 +849,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen eine Maschine in bar kauft, hat es eine/einen",
@@ -834,7 +872,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen immaterielle selbstgestellte Forschung in das betriebsnotwendige Vermögen einrechnet, hat es eine/einen",
@@ -856,7 +895,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen eine außerplanmäßige Abschreibung durchführt, hat es eine/einen",
@@ -878,7 +918,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen eine Kapitalerhöhung durchführt, hat es eine/einen",
@@ -900,7 +941,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen Eigenkapitalzinsen ansetzt, hat es eine/einen",
@@ -922,7 +964,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Welche Begriffe treffen zu, wenn ein Unternehmen offene Verbindlichkeiten über das Bankkonto an seine Gläubiger überweist?",
@@ -944,7 +987,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Welche Begriffe treffen zu, wenn ein Unternehmen Material zum sofortigen Verbrauch einkauft?",
@@ -966,7 +1010,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Welche Begriffe treffen zu, wenn ein Unternehmen seine Forderungen abwertet?",
@@ -988,7 +1033,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Welche Begriffe treffen zu, wenn ein Unternehmen Zuschreibungen zum Anlagevermögen vornimmt?",
@@ -1010,7 +1056,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Welche Begriffe treffen zu, wenn ein Unternehmen offene Forderungen von einem Schuldner überwiesen bekommt?",
@@ -1032,7 +1079,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Welche Begriffe treffen zu, wenn ein Unternehmen Gewinne ausschüttet?",
@@ -1054,7 +1102,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Welche Kombinationen von Bilanzen MUSS ein Unternehmen veröffentlichen, das nach UGB bilanziert?",
@@ -1076,7 +1125,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Sie besitzen einen Supermarkt. Da vielleicht externe Partner in das Geschäft einsteigen wollen, legen Sie diesen potenziellen Partnern am 1.7. und nicht erst am 31.12. eine Bilanz vor. Es handelt sich um eine",
@@ -1098,7 +1148,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Steuergrundlage ist die",
@@ -1120,7 +1171,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Sie errechnen am Jahresende den Gewinn Ihrer Aktiengesellschaft mittels",
@@ -1142,7 +1194,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Der Bestätigungsvermerk",
@@ -1164,7 +1217,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Wenn Sie einen Umsatz von 100.000 € pro Jahr machen,",
@@ -1186,7 +1240,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Welchen Bilanzstichtag werden Sie als eine Bildungseinrichtung für Nachhilfekurse wählen?",
@@ -1208,7 +1263,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Skiverein hauptsächlich im Winter aktiv ist, aber auch einen durchgehenden Sommer- und Wanderbetrieb anbietet, wird/werden welche(r) Bilanzstichtag/e sinnvoll sein?",
@@ -1230,7 +1286,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Steuergrundlage ist die",
@@ -1252,7 +1309,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
 
     {
@@ -1275,7 +1333,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Ein Unternehmen verbucht erfolgswirksam, wenn:",
@@ -1297,7 +1356,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Ein Unternehmen kauft am 3.4.20X1 eine Maschine zur eigenen Produktion um €800 (exkl. USt.) und überweist den Betrag 10 Tage später. Bei einem anderen Händler hätte diese Maschine €900 gekostet. Handelt es sich am 31.12. um eine:",
@@ -1319,7 +1379,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Wenn ein Unternehmen einen Kredit aufnimmt und der Betrag auf das Girokonto überwiesen wird, handelt es sich um eine:",
@@ -1341,7 +1402,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Welche Aussagen bzgl. erfolgswirksamer Buchungen stimmen?",
@@ -1363,7 +1425,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 1
     },
     {
       "question": "Ein alter schattiger Baum, der unter Naturschutz steht, fällt aufgrund eines Sturmes auf einen Firmenparkplatz um. ",
@@ -1385,7 +1448,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Welche Aussagen bzgl. erfolgsneutraler Buchungen stimmen? ",
@@ -1407,7 +1471,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Erfolgsneutrale Buchungen eines Schiliftbetreibers sind ",
@@ -1429,7 +1494,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
     {
       "question": "Erfolgsneutrale Geschäftsfälle für einen Spielwarenerzeuger sind ",
@@ -1451,7 +1517,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Welche Geschäftsfälle sind erfolgsneutral? ",
@@ -1473,7 +1540,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 1
     },
     {
       "question": "Spielergehälter bei einem Sportverein ",
@@ -1495,7 +1563,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 1
     },
 
     {
@@ -1518,7 +1587,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 2
     },
     {
       "question": "Welche Kontenrahmen kann/muss ein Hotel verwenden? ",
@@ -1540,7 +1610,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 2
     },
     {
       "question": "Doppelte Buchhaltung bedeutet, dass Sie: ",
@@ -1562,7 +1633,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 2
     },
     {
       "question": "Ein Kühlschrank kann verbucht werden als: ",
@@ -1584,7 +1656,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 2
     },
     {
       "question": "Welche Zuordnung stimmt? ",
@@ -1606,7 +1679,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 2
     },
 
     {
@@ -1629,7 +1703,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 2
     },
     {
       "question": "Der Saldo Ihres Girokontos steht – ganz unfachmännisch gesprochen – beim T-Konto auf der rechten Seite. Als Fachfrau / Fachmann sprechen Sie von einem ",
@@ -1651,7 +1726,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 2
     },
     {
       "question": "Ein Saldo eines Kontos ",
@@ -1673,7 +1749,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 2
     },
     {
       "question": "Wenn die Differenz eines T-Kontos auf der linken Seite steht, ",
@@ -1695,7 +1772,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 2
     },
     {
       "question": "Der Posten „Dotierung Gewinnrücklage“ ",
@@ -1717,7 +1795,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 2
     },
 
     {
@@ -1740,7 +1819,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 2
     },
     {
       "question": "Ein nicht selbst erstelltes Fernsehgerät kann gebucht werden in ",
@@ -1762,7 +1842,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 2
     },
     {
       "question": "Eine Aktiengesellschaft produziert 2 Millionen Löffel pro Jahr und hat 7 MitarbeiterInnen. Mittels welcher Kontenformen wird gebucht? ",
@@ -1784,7 +1865,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 2
     },
     {
       "question": "Vermögen ",
@@ -1806,7 +1888,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 2
     },
     {
       "question": "Der Kontenrahmen ",
@@ -1828,7 +1911,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 2
     },
 
     {
@@ -1851,7 +1935,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 2
     },
     {
       "question": "Zum 1.1. eines Geschäftsjahres (Bilanzstichtag 31.12.):",
@@ -1873,7 +1958,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 2
     },
     {
       "question": "Ein Unternehmen kann seinen pagatorischen Gewinn ausrechnen, indem es:",
@@ -1895,7 +1981,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 2
     },
     {
       "question": "Welche Werte können in einer ordentlichen Bilanz mit einem Minus angegeben werden?",
@@ -1917,7 +2004,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 2
     },
     {
       "question": "Der Bilanzgewinn einer Aktiengesellschaft kann wie folgt berechnet werden:",
@@ -1939,7 +2027,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 2
     },
 
     {
@@ -1962,7 +2051,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 2
     },
     {
       "question": "Die österreichische Rechnungslegung, die auch der Steuerberechnung dient, bezieht sich u.a.",
@@ -1984,7 +2074,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 2
     },
     {
       "question": "Ordentliche Bilanz bedeutet, dass",
@@ -2006,7 +2097,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 2
     },
     {
       "question": "Sie erstellen am Jahresende einen Jahresabschluss. Dieser enthält:",
@@ -2028,7 +2120,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 2
     },
     {
       "question": "Der Anhang",
@@ -2050,7 +2143,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 2
     },
     {
       "question": "Welche Berichte muss ein börsennotiertes Unternehmen u.a. veröffentlichen?",
@@ -2072,7 +2166,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 2
     },
 
     {
@@ -2095,7 +2190,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 3
     },
     {
       "question": "Zur internationalen Ergebnisdarstellung: ",
@@ -2117,7 +2213,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "!?Steuern auf folgende Leistungen eines Schiliftbetreibers sind in den Steuern EE enthalten: ",
@@ -2139,7 +2236,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "!?Am Geschäftsjahresanfang ",
@@ -2161,7 +2259,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 3
     },
     {
       "question": "Welche Posten werden Sie in Ihrer G&V unter Aufwendungen ausweisen? ",
@@ -2183,7 +2282,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "Welche Posten können in die Eröffnungsbilanz eines Hotels inkludiert werden?",
@@ -2205,7 +2305,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "!?Ein Unternehmen schließt am Bilanzstichtag alle Konten der G&V ab. Welche Aussagen sind richtig?",
@@ -2227,7 +2328,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "Wenn Sie am Bilanzstichtag Ihre Konten schließen, müssen Sie",
@@ -2249,7 +2351,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "Der Materialaufwand eines Schiliftes",
@@ -2271,7 +2374,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 3
     },
     {
       "question": "Der Gewinnvortrag",
@@ -2293,7 +2397,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 3
     },
 
     {
@@ -2316,7 +2421,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "Bestandsveränderungen sind zu finden: ",
@@ -2338,7 +2444,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "Wenn ein Unternehmen Segment Reporting durchführt, ",
@@ -2360,7 +2467,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 3
     },
     {
       "question": "Segment Reporting ",
@@ -2382,7 +2490,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "Die G&V einer Aktiengesellschaft nach UGB ",
@@ -2404,7 +2513,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "Die Gewinn- und Verlustrechnung",
@@ -2426,7 +2536,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "Bestandsveränderungen",
@@ -2448,7 +2559,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 3
     },
     {
       "question": "!?\"Dotierung\" bedeutet in der Buchhaltung",
@@ -2470,7 +2582,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "Die Gewinn- und Verlustrechnung ",
@@ -2492,7 +2605,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 3
     },
     {
       "question": "Welche Positionen werden u.a. im Umsatzkostenverfahren abgebildet?",
@@ -2514,7 +2628,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "Im Umsatzkostenverfahren gemäß UGB",
@@ -2536,7 +2651,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 3
     },
 
     {
@@ -2559,7 +2675,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 3
     },
     {
       "question": "Die Wirtschaftskrise wirkt sich auf die Gewinn- und Verlustrechnung eines Tourismusbetriebes wie folgt aus:",
@@ -2581,7 +2698,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 3
     },
     {
       "question": "Das Gesamtkostenverfahren eines Eissalons",
@@ -2603,7 +2721,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 3
     },
     {
       "question": "Wenn man einen Gegenstand in die Bilanz aufnimmt, wird er",
@@ -2625,7 +2744,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Wenn ein Unternehmen auf eine neue gekaufte Maschine einen Skontonachlass erhält,",
@@ -2647,7 +2767,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Zu den Anschaffungsnebenkosten beim Kauf eines Gebäudes zählen",
@@ -2669,7 +2790,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Immaterielles Anlagevermögen",
@@ -2691,7 +2813,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Eine Holding",
@@ -2713,7 +2836,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Unternehmen A wird von Unternehmen B gekauft. In der neuen Bilanz wird ein Firmenwert ausgewiesen. Dieser",
@@ -2735,7 +2859,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Wenn Sie als Privatperson Aktien eines Unternehmens",
@@ -2757,7 +2882,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Der Firmenwert eines Unternehmens",
@@ -2779,7 +2905,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "GwG",
@@ -2801,7 +2928,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Sie besitzen eine exzellente Kundendatei. Diese aktivieren Sie",
@@ -2823,7 +2951,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Konzerne",
@@ -2845,7 +2974,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
 
     {
@@ -2868,7 +2998,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Wertpapiere auf der Aktivseite der Bilanz",
@@ -2890,7 +3021,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Wenn ein Unternehmen eine Konzernstruktur aufweist,",
@@ -2912,7 +3044,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Der Schatten eines alten Baumes auf Firmengelände ",
@@ -2934,7 +3067,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Ein Gerät, das im täglichen Gebrauch eines Unternehmens eingesetzt wird, kostet 27,90 €. In der Buchhaltung wird dieses Gerät ",
@@ -2956,7 +3090,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
 
     {
@@ -2979,7 +3114,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "GwG",
@@ -3001,7 +3137,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Wenn ein Spielwarenerzeuger 10 Werkzeuge zu je 190 € für die Produktion von Verpackungsmaterial benötigt, handelt es sich um",
@@ -3023,7 +3160,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Mobile Fußballtore eines großen Vereins sind",
@@ -3045,7 +3183,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Welches Anlagevermögen ist nicht planmäßig abnutzbar?",
@@ -3067,7 +3206,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
 
     {
@@ -3090,7 +3230,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Bei welcher Art von Vermögen kommt es zu keiner Folgebewertung?",
@@ -3112,7 +3253,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Bei welcher Art von Anlagevermögen können selbst erstellte Anschaffungs- und Herstellungskosten in der Bilanz aktiviert werden?",
@@ -3134,7 +3276,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Der Anlagespiegel",
@@ -3156,7 +3299,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Wenn es nur folgende Positionen gäbe, was wäre die gesetzliche Reihenfolge der Präsentation in der Bilanz?",
@@ -3178,7 +3322,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
 
     {
@@ -3201,7 +3346,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Wenn ein Unternehmen Firmenwert in seiner Bilanz stehen hat,",
@@ -3223,7 +3369,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Ein negativer Firmenwert",
@@ -3241,7 +3388,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Das Finanzanlagevermögen",
@@ -3263,7 +3411,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Der Einstandspreis für einen Motorroller errechnet sich als",
@@ -3281,7 +3430,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
 
     {
@@ -3304,7 +3454,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Wenn ein Unternehmen 5 Fernseher kauft, kann dies sein:",
@@ -3326,7 +3477,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Bei Kalkulation von selbst erstelltem Umlaufvermögen sind in der Buchhaltung jedenfalls zu berücksichtigen:",
@@ -3348,7 +3500,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Wenn Sie auf eine neue Maschine einen Skontoabzug erhalten, dann:",
@@ -3370,7 +3523,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Welche Art des Rechnungsausgleichs werden Sie als Nachhilfeinstitut bevorzugen:",
@@ -3392,7 +3546,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Aktive Transitorien:",
@@ -3414,7 +3569,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
 
     {
@@ -3437,7 +3593,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Wenn ein Unternehmen seine Miete im April ein Jahr im Voraus bezahlt und der Bilanzstichtag der 31.12. ist, handelt es sich um was?",
@@ -3459,7 +3616,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Forderungen gegenüber verbundenen Unternehmen sind wie zu behandeln?",
@@ -3481,7 +3639,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Wenn ein Betrieb mit Bilanzstichtag 31.12. am 1.5.X1 Miete für 12 Monate zahlt, was muss er tun?",
@@ -3503,7 +3662,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Forderungen sind wie zu gliedern?",
@@ -3525,7 +3685,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
 
     {
@@ -3548,7 +3709,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Handelswaren im Wert von insgesamt 300 €",
@@ -3570,7 +3732,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "In der Bilanzposition „Kassa“ verrechnet eine AG auch",
@@ -3592,7 +3755,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Bei einem Schraubenhändler werden die Muttern zu den Schrauben verbucht als",
@@ -3614,7 +3778,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Wenn ein Bauer selbst Honig produziert, handelt es sich dabei um",
@@ -3636,7 +3801,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
 
     {
@@ -3659,7 +3825,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Wenn ein Hotel selbstgebrannte Schnäpse erzeugt und vertreibt, werden diese",
@@ -3681,7 +3848,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Vorräte für einen Schiliftbetreiber sind",
@@ -3703,7 +3871,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Wenn ein europäischer Sportverein über die Ablöse eines brasilianischen Spielers verhandelt, ist welche Währung risikoadvers?",
@@ -3725,7 +3894,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Beim FIFO-Verfahren (denken Sie logisch)",
@@ -3747,7 +3917,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
 
     {
@@ -3770,7 +3941,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "In welcher der Positionen steckt das geringste Risiko?",
@@ -3792,7 +3964,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Bei der Kalkulation der Herstellungskosten einer selbstgemachten Torte sind welche Kosten jedenfalls NICHT inkludiert?",
@@ -3814,7 +3987,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Welche Positionen des Umlaufvermögens werden nicht bewertet?",
@@ -3836,7 +4010,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Warum bzw. wann ist auch monetäres Umlaufvermögen zu bewerten?",
@@ -3858,7 +4033,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
 
     {
@@ -3881,7 +4057,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Werden alle Forderungen, die in der Bilanz aktiviert sind, nach identischen Vorschriften bewertet?",
@@ -3903,7 +4080,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Welches Risiko kann im monetären Umlaufvermögen stecken?",
@@ -3925,7 +4103,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Vermögen wird als kurzfristig definiert, wenn es",
@@ -3947,7 +4126,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Wertpapiere stehen im Umlaufvermögen, wenn sie",
@@ -3969,7 +4149,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
 
     {
@@ -3992,7 +4173,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "In der Bilanzposition Kassa werden welche Posten zusammengefasst?",
@@ -4014,7 +4196,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 3
+      "correctAnswersCount": 3,
+      "Kapitel": 4
     },
     {
       "question": "Wenn es nur diese Positionen im Umlaufvermögen gäbe, welche Reihenfolge wäre dann in der Bilanz lt. Mindestgliederung korrekt?",
@@ -4036,7 +4219,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
     {
       "question": "Unfertige Erzeugnisse haben welche Eigenschaften?",
@@ -4058,7 +4242,8 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 1
+      "correctAnswersCount": 1,
+      "Kapitel": 4
     },
     {
       "question": "Bilanziell liegt der Unterschied zwischen Handelsware und selbst erstellten Produkten worin?",
@@ -4080,7 +4265,8 @@
           "isCorrect": false
         }
       ],
-      "correctAnswersCount": 2
+      "correctAnswersCount": 2,
+      "Kapitel": 4
     },
 
     {
