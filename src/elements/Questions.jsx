@@ -28,7 +28,7 @@ function Questions() {
     setShowAll(true) // Track that we're showing all
   }
 
-  const fetchKapitelOneQuestions = () => {
+  const fetchKapitelQuestions = kapitelNumber => {
     fetch("./questions.json", {
       headers: {
         "Content-Type": "application/json",
@@ -38,198 +38,27 @@ function Questions() {
       .then(response => response.json())
       .then(myJson => {
         const filteredQuestions = myJson.questions.filter(
-          question => question.Kapitel === 1
+          question => question.Kapitel === kapitelNumber
         )
         setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
         setRandomizedQuestions(
           filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
         )
-        setShowAll(true) // Show all filtered questions
-      })
-      .catch(error => console.error("Error fetching data:", error))
-  }
-  const fetchKapitelTwoQuestions = () => {
-    fetch("./questions.json", {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-    })
-      .then(response => response.json())
-      .then(myJson => {
-        const filteredQuestions = myJson.questions.filter(
-          question => question.Kapitel === 2
-        )
-        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
-        setRandomizedQuestions(
-          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
-        )
-        setShowAll(true) // Show all filtered questions
-      })
-      .catch(error => console.error("Error fetching data:", error))
-  }
-  const fetchKapitelThreeQuestions = () => {
-    fetch("./questions.json", {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-    })
-      .then(response => response.json())
-      .then(myJson => {
-        const filteredQuestions = myJson.questions.filter(
-          question => question.Kapitel === 3
-        )
-        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
-        setRandomizedQuestions(
-          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
-        )
-        setShowAll(true) // Show all filtered questions
-      })
-      .catch(error => console.error("Error fetching data:", error))
-  }
-  const fetchKapitelFourQuestions = () => {
-    fetch("./questions.json", {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-    })
-      .then(response => response.json())
-      .then(myJson => {
-        const filteredQuestions = myJson.questions.filter(
-          question => question.Kapitel === 4
-        )
-        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
-        setRandomizedQuestions(
-          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
-        )
-        setShowAll(true) // Show all filtered questions
+        setShowAll(true)
       })
       .catch(error => console.error("Error fetching data:", error))
   }
 
-  const fetchKapitelFiveQuestions = () => {
-    fetch("./questions.json", {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-    })
-      .then(response => response.json())
-      .then(myJson => {
-        const filteredQuestions = myJson.questions.filter(
-          question => question.Kapitel === 5
-        )
-        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
-        setRandomizedQuestions(
-          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
-        )
-        setShowAll(true) // Show all filtered questions
-      })
-      .catch(error => console.error("Error fetching data:", error))
-  }
-
-  const fetchKapitelSixQuestions = () => {
-    fetch("./questions.json", {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-    })
-      .then(response => response.json())
-      .then(myJson => {
-        const filteredQuestions = myJson.questions.filter(
-          question => question.Kapitel === 6
-        )
-        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
-        setRandomizedQuestions(
-          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
-        )
-        setShowAll(true) // Show all filtered questions
-      })
-      .catch(error => console.error("Error fetching data:", error))
-  }
-  const fetchKapitelSevenQuestions = () => {
-    fetch("./questions.json", {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-    })
-      .then(response => response.json())
-      .then(myJson => {
-        const filteredQuestions = myJson.questions.filter(
-          question => question.Kapitel === 7
-        )
-        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
-        setRandomizedQuestions(
-          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
-        )
-        setShowAll(true) // Show all filtered questions
-      })
-      .catch(error => console.error("Error fetching data:", error))
-  }
-  const fetchKapitelEightQuestions = () => {
-    fetch("./questions.json", {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-    })
-      .then(response => response.json())
-      .then(myJson => {
-        const filteredQuestions = myJson.questions.filter(
-          question => question.Kapitel === 8
-        )
-        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
-        setRandomizedQuestions(
-          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
-        )
-        setShowAll(true) // Show all filtered questions
-      })
-      .catch(error => console.error("Error fetching data:", error))
-  }
-  const fetchKapitelNineQuestions = () => {
-    fetch("./questions.json", {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-    })
-      .then(response => response.json())
-      .then(myJson => {
-        const filteredQuestions = myJson.questions.filter(
-          question => question.Kapitel === 9
-        )
-        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
-        setRandomizedQuestions(
-          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
-        )
-        setShowAll(true) // Show all filtered questions
-      })
-      .catch(error => console.error("Error fetching data:", error))
-  }
-  const fetchKapitelTenQuestions = () => {
-    fetch("./questions.json", {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-    })
-      .then(response => response.json())
-      .then(myJson => {
-        const filteredQuestions = myJson.questions.filter(
-          question => question.Kapitel === 10
-        )
-        setData(filteredQuestions.map((q, i) => ({ ...q, originalIndex: i })))
-        setRandomizedQuestions(
-          filteredQuestions.map((q, i) => ({ ...q, originalIndex: i }))
-        )
-        setShowAll(true) // Show all filtered questions
-      })
-      .catch(error => console.error("Error fetching data:", error))
-  }
+  const fetchKapitelOneQuestions = () => fetchKapitelQuestions(1)
+  const fetchKapitelTwoQuestions = () => fetchKapitelQuestions(2)
+  const fetchKapitelThreeQuestions = () => fetchKapitelQuestions(3)
+  const fetchKapitelFourQuestions = () => fetchKapitelQuestions(4)
+  const fetchKapitelFiveQuestions = () => fetchKapitelQuestions(5)
+  const fetchKapitelSixQuestions = () => fetchKapitelQuestions(6)
+  const fetchKapitelSevenQuestions = () => fetchKapitelQuestions(7)
+  const fetchKapitelEightQuestions = () => fetchKapitelQuestions(8)
+  const fetchKapitelNineQuestions = () => fetchKapitelQuestions(9)
+  const fetchKapitelTenQuestions = () => fetchKapitelQuestions(10)
 
   const handleCheckboxChange = (questionIndex, answerIndex, e) => {
     const checked = e?.target?.checked ?? e // Fallback to `e` if it's directly a boolean
@@ -310,6 +139,11 @@ function Questions() {
     return !Object.values(selectedAnswers[originalIndex] || {}).includes(true)
   }
 
+  const kapitelButtons = Array.from({ length: 10 }, (_, i) => ({
+    label: `Get Kapitel ${i + 1} Questions`,
+    onClick: () => fetchKapitelQuestions(i + 1),
+  }))
+
   return (
     <div>
       <div className="button-container">
@@ -319,36 +153,15 @@ function Questions() {
         <button onClick={showAllQuestions} className="custom-button">
           Show All Questions
         </button>
-        <button onClick={fetchKapitelOneQuestions} className="custom-button">
-          Get Kapitel 1 Questions
-        </button>
-        <button onClick={fetchKapitelTwoQuestions} className="custom-button">
-          Get Kapitel 2 Questions
-        </button>
-        <button onClick={fetchKapitelThreeQuestions} className="custom-button">
-          Get Kapitel 3 Questions
-        </button>
-        <button onClick={fetchKapitelFourQuestions} className="custom-button">
-          Get Kapitel 4 Questions
-        </button>
-        <button onClick={fetchKapitelFiveQuestions} className="custom-button">
-          Get Kapitel 5 Questions
-        </button>
-        <button onClick={fetchKapitelSixQuestions} className="custom-button">
-          Get Kapitel 6 Questions
-        </button>
-        <button onClick={fetchKapitelSevenQuestions} className="custom-button">
-          Get Kapitel 7 Questions
-        </button>
-        <button onClick={fetchKapitelEightQuestions} className="custom-button">
-          Get Kapitel 8 Questions
-        </button>
-        <button onClick={fetchKapitelNineQuestions} className="custom-button">
-          Get Kapitel 9 Questions
-        </button>
-        <button onClick={fetchKapitelTenQuestions} className="custom-button">
-          Get Kapitel 10 Questions
-        </button>
+        {kapitelButtons.map((btn, idx) => (
+          <button
+            key={btn.label}
+            onClick={btn.onClick}
+            className="custom-button"
+          >
+            {btn.label}
+          </button>
+        ))}
       </div>
       <div className="cards-container">
         {randomizedQuestions.length > 0 &&
@@ -373,9 +186,8 @@ function Questions() {
                       }
                       onChange={e =>
                         handleCheckboxChange(index, i, e)
-                      } /* Pass the event explicitly */
+                      }
                     />
-
                     <label htmlFor={`answer-${index}-${i}`}>
                       {answer.text}
                     </label>
