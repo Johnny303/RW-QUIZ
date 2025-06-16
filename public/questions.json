@@ -2198,7 +2198,7 @@
       "answers": [
         {
           "text": "Amortization ist mit 'Abschreibungen vom Sachanlagevermögen' gleichzusetzen",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Depreciation umfasst den Begriff 'Abschreibungen'",
@@ -2210,7 +2210,7 @@
         },
         {
           "text": "Tax bezieht sich auf 'Steuern EE'",
-          "isCorrect": true
+          "isCorrect": false
         }
       ],
       "correctAnswersCount": 2,
@@ -2221,19 +2221,19 @@
       "answers": [
         {
           "text": "Steuern aus dem Verkauf von Liftkarten",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "text": "Steuern aus dem Verkauf von Handelsware",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "text": "Körperschaftssteuer",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Umsatzsteuer",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "correctAnswersCount": 2,
@@ -2336,7 +2336,7 @@
       "answers": [
         {
           "text": "die Fremdwährungsverbindlichkeiten bewerten",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "alle Konten saldieren",
@@ -2348,7 +2348,7 @@
         },
         {
           "text": "alle Konten gegen SBK abschließen",
-          "isCorrect": true
+          "isCorrect": false
         }
       ],
       "correctAnswersCount": 2,
@@ -2483,11 +2483,11 @@
         },
         {
           "text": "ist ein verpflichtender Teil im Anhang gemäß UGB",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "ist verpflichtend durchzuführen, wenn Segmentumsatzerlöse, -ergebnisse oder -vermögen > 10% der Gesamterlöse, -ergebnisse oder -vermögen ist",
-          "isCorrect": true
+          "isCorrect": false
         }
       ],
       "correctAnswersCount": 2,
@@ -3546,7 +3546,7 @@
           "isCorrect": true
         }
       ],
-      "correctAnswersCount": 2,
+      "correctAnswersCount": 1,
       "Kapitel": 4
     },
     {
@@ -3694,11 +3694,11 @@
       "answers": [
         {
           "text": "passive Transitorien",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "aktive Transitorien",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "text": "aktive Antizipationen",
@@ -3856,11 +3856,11 @@
       "answers": [
         {
           "text": "ein Notstromaggregat",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "text": "Merchandising-Produkte, z.B. Aufkleber",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Wasserreserven für die Pistenpräparierung",
