@@ -8,6 +8,8 @@ function Questions() {
   const [randomizedQuestions, setRandomizedQuestions] = useState([])
   const [showAll, setShowAll] = useState(false)
   const questionsPerPage = 20
+  const [allQuestions, setAllQuestions] = useState([]) // <-- Add this line
+
 
   const getRandomQuestions = () => {
     if (data.length < questionsPerPage) {
@@ -23,9 +25,10 @@ function Questions() {
     setShowAll(false) // Indicate we're in "randomized" mode
   }
 
-  const showAllQuestions = () => {
-    setRandomizedQuestions(data.map((q, i) => ({ ...q, originalIndex: i }))) // Show all questions with indices
-    setShowAll(true) // Track that we're showing all
+    const showAllQuestions = () => {
+    setData(allQuestions) // <-- Reset data to all questions
+    setRandomizedQuestions(allQuestions.map((q, i) => ({ ...q, originalIndex: i })))
+    setShowAll(true)
   }
 
   const fetchKapitelQuestions = kapitelNumber => {
@@ -116,7 +119,7 @@ function Questions() {
     return "" // No special styling for other unselected answers
   }
 
-  const getData = () => {
+   const getData = () => {
     fetch("./questions.json", {
       headers: {
         "Content-Type": "application/json",
@@ -124,9 +127,11 @@ function Questions() {
       },
     })
       .then(response => response.json())
-      .then(myJson =>
-        setData(myJson.questions.map((q, i) => ({ ...q, originalIndex: i })))
-      )
+      .then(myJson => {
+        const questionsWithIndex = myJson.questions.map((q, i) => ({ ...q, originalIndex: i }))
+        setData(questionsWithIndex)
+        setAllQuestions(questionsWithIndex) // <-- Save all questions here
+      })
       .catch(error => console.error("Error fetching data:", error))
   }
 
